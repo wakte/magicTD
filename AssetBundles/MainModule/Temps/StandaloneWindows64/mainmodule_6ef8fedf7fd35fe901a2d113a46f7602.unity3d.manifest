@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 1924133654
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3b51a3ba3c11b5d4dd2bf7a37074f1d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2471a6ea3a4d5430a7bde7b12ea6631b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3b51a3ba3c11b5d4dd2bf7a37074f1d1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e48304614613c24478b98873571b8aaa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b72a8bd265e05b04fa787c7f3f983c92, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: AnimationEvent
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+Assets:
+- Assets/Games/MainModule/Views/Enemies/03/Enemy03.prefab
+Dependencies:
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/6ef8fedf7fd35fe901a2d113a46f7602_depend_on_res(auto).unity3d
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/c11f1552467ac5550fedb9b1c2d550fb.unity3d

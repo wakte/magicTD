@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3974951787
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 543f25b00edbd29654a7acd52e586d3e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdb2dcfb5cbb008132881f6d35c2aa14
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 543f25b00edbd29654a7acd52e586d3e
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Games/MainModule/Views/Towers/StoneTower/Animation/explode.anim
+Dependencies:
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/4fb78093cc9e1e3172fcaef7aa67c5fd.unity3d
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/98bc2ad6a4a61497f8fc21ebd1962760.unity3d

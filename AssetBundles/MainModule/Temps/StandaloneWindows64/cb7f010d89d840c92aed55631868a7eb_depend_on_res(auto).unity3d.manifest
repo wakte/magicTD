@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3570077935
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83483462a7c1bede72c5c2f3790b0168
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 669c3c998a00f8934b0044b204b50272
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 83483462a7c1bede72c5c2f3790b0168
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Games/MainModule/Views/Towers/ArcherTower/ArrowAnimation/normal.anim
+- Assets/Games/MainModule/Views/Towers/ArcherTower/ArrowAnimation/disappear.anim
+- Assets/Games/MainModule/Sprites/archer-tower-game-assets/PNG/37.png
+- Assets/Games/MainModule/Views/Towers/ArcherTower/ArrowAnimation/ArrowController.controller
+Dependencies: []

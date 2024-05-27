@@ -1,0 +1,67 @@
+ManifestFileVersion: 0
+CRC: 830791052
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9926d639057f62206e16b799e7f1ce4d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 545f8f02d28f1814c17535d7e8e6bbce
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9926d639057f62206e16b799e7f1ce4d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7332bc6449f4557458358288cc136dfa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Games/MainModule/UI/DialogPanel/DialogPanel.prefab
+Dependencies:
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/850d5634c9f7278e06d603a7bf7e91f2.unity3d
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/9fe2a2fc1e1abe8ceec8073217169062.unity3d
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/b51a652509320ce92bb09254457e3de1.unity3d

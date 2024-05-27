@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2417887167
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 38e85767938a227290ecc677f9c64e9f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e8df1f9f82371e82de919a94edcc7dd6
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 38e85767938a227290ecc677f9c64e9f
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Games/MainModule/Views/Towers/StoneTower/Animation/StoneController.controller
+Dependencies:
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/c16e41498db9fa678939681312024a91.unity3d

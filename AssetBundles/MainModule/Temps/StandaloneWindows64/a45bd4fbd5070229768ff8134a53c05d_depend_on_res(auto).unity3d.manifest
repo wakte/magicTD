@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 1370634933
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fbb401db90dd2867cf4e998efb8ef093
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: fbb401db90dd2867cf4e998efb8ef093
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Games/MainModule/Sprites/td-tilesets1-2/tower-defense-game-tilesets/PNG/game_background_1/layers/decor_5.png
+- Assets/Games/MainModule/Sprites/td-tilesets1-2/tower-defense-game-tilesets/PNG/game_background_1/layers/river_4.png
+- Assets/Games/MainModule/Sprites/td-tilesets1-2/tower-defense-game-tilesets/PNG/game_background_1/layers/river_3.png
+- Assets/Games/MainModule/Sprites/td-tilesets1-2/tower-defense-game-tilesets/PNG/game_background_1/layers/dot.png
+- Assets/Games/MainModule/Sprites/td-tilesets1-2/tower-defense-game-tilesets/PNG/game_background_1/layers/river_2.png
+- Assets/Games/MainModule/Sprites/td-tilesets1-2/tower-defense-game-tilesets/PNG/game_background_1/layers/decor_2.png
+- Assets/Games/MainModule/Sprites/td-tilesets1-2/tower-defense-game-tilesets/PNG/game_background_1/layers/road_5.png
+- Assets/Games/MainModule/Sprites/td-tilesets1-2/tower-defense-game-tilesets/PNG/game_background_1/layers/road_6.png
+- Assets/Games/MainModule/Sprites/td-tilesets1-2/tower-defense-game-tilesets/PNG/game_background_1/layers/tree.png
+- Assets/Games/MainModule/Sprites/td-tilesets1-2/tower-defense-game-tilesets/PNG/game_background_1/layers/stone.png
+- Assets/Games/MainModule/Sprites/td-tilesets1-2/tower-defense-game-tilesets/PNG/game_background_1/layers/decor_3.png
+- Assets/Games/MainModule/Sprites/td-tilesets1-2/tower-defense-game-tilesets/PNG/game_background_1/layers/fence.png
+- Assets/Games/MainModule/Sprites/td-tilesets1-2/tower-defense-game-tilesets/PNG/game_background_1/layers/decor_1.png
+- Assets/Games/MainModule/Sprites/td-tilesets1-2/tower-defense-game-tilesets/PNG/game_background_1/layers/road_2.png
+- Assets/Games/MainModule/Sprites/td-tilesets1-2/tower-defense-game-tilesets/PNG/game_background_1/layers/bush.png
+- Assets/Games/MainModule/Sprites/td-tilesets1-2/tower-defense-game-tilesets/PNG/game_background_1/layers/river_1.png
+- Assets/Games/MainModule/Sprites/td-tilesets1-2/tower-defense-game-tilesets/PNG/game_background_1/layers/road_9.png
+- Assets/Games/MainModule/Sprites/td-tilesets1-2/tower-defense-game-tilesets/PNG/game_background_1/layers/river_6.png
+- Assets/Games/MainModule/Sprites/td-tilesets1-2/tower-defense-game-tilesets/PNG/game_background_1/layers/road_4.png
+- Assets/Games/MainModule/Sprites/td-tilesets1-2/tower-defense-game-tilesets/PNG/game_background_1/layers/road_1.png
+- Assets/Games/MainModule/Sprites/td-tilesets1-2/tower-defense-game-tilesets/PNG/game_background_1/layers/decor_4.png
+- Assets/Games/MainModule/Sprites/td-tilesets1-2/tower-defense-game-tilesets/PNG/game_background_1/layers/tree_2.png
+- Assets/Games/MainModule/Sprites/td-tilesets1-2/tower-defense-game-tilesets/PNG/game_background_1/layers/bridge.png
+Dependencies: []

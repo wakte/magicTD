@@ -1,0 +1,69 @@
+ManifestFileVersion: 0
+CRC: 3257438598
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35a167d6e7ad9300039a5e35204222fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 669c3c998a00f8934b0044b204b50272
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 35a167d6e7ad9300039a5e35204222fa
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_die_009.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_die_015.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_run_005.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_run_010.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_run_013.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_die_001.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_die_011.png
+- Assets/Games/MainModule/Views/Enemies/02/animation/Enemy02Controller.controller
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_idle_000.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_run_001.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_die_008.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_die_010.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_run_016.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_run_002.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_die_016.png
+- Assets/Games/MainModule/Views/Enemies/02/animation/run.anim
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_die_004.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_die_019.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_die_007.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_run_006.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_run_018.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_run_019.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_run_004.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_run_009.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_die_018.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_run_014.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_die_017.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_run_011.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_die_013.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_die_003.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_run_015.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_die_002.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_run_012.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_die_006.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_die_014.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_run_007.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_run_017.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_run_008.png
+- Assets/Games/MainModule/Views/Enemies/02/animation/die.anim
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_die_005.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_die_012.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_run_000.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_run_003.png
+- Assets/Games/MainModule/Sprites/2d-monster-sprites/PNG/2/2_enemies_1_die_000.png
+Dependencies: []

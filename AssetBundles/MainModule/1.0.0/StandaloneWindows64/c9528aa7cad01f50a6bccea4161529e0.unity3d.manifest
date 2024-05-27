@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 842392788
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec4c1d50c1be28f742a544b0310cef57
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ec4c1d50c1be28f742a544b0310cef57
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Games/MainModule/Sprites/magic-tower-game-assets/PNG/1.png
+- Assets/Games/MainModule/Sprites/magic-tower-game-assets/PNG/2.png
+- Assets/Games/MainModule/Sprites/magic-tower-game-assets/PNG/19.png
+- Assets/Games/MainModule/Sprites/magic-tower-game-assets/PNG/20.png
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1959069407
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d6a78e7c5ab7db1dbb43a2aad2b0883f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d6a78e7c5ab7db1dbb43a2aad2b0883f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Games/MainModule/Sprites/td-gui/PNG/difficulty/button_empty_2.png
+Dependencies: []

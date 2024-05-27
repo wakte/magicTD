@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 521879045
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c74557e462fcd09dee1174c0253b915
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1c74557e462fcd09dee1174c0253b915
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Games/MainModule/Sprites/archer-tower-game-assets/PNG/43.png
+- Assets/Games/MainModule/Sprites/archer-tower-game-assets/PNG/46.png
+- Assets/Games/MainModule/Sprites/archer-tower-game-assets/PNG/40.png
+- Assets/Games/MainModule/Sprites/archer-tower-game-assets/PNG/44.png
+- Assets/Games/MainModule/Sprites/archer-tower-game-assets/PNG/47.png
+- Assets/Games/MainModule/Sprites/archer-tower-game-assets/PNG/41.png
+- Assets/Games/MainModule/Sprites/archer-tower-game-assets/PNG/45.png
+- Assets/Games/MainModule/Sprites/archer-tower-game-assets/PNG/39.png
+- Assets/Games/MainModule/Sprites/archer-tower-game-assets/PNG/38.png
+- Assets/Games/MainModule/Sprites/archer-tower-game-assets/PNG/48.png
+- Assets/Games/MainModule/Sprites/archer-tower-game-assets/PNG/42.png
+- Assets/Games/MainModule/Sprites/archer-tower-game-assets/PNG/49.png
+Dependencies: []

@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 411249611
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 20bdaa37165ff229d8387710e63334fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21885954ef26f3ef04f733ec8f0b5ebf
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 20bdaa37165ff229d8387710e63334fa
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb3dcee03f51bc34b83e5b812a63b7aa, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Games/MainModule/Views/Towers/ArcherTower/Arrow.prefab
+Dependencies:
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/cb7f010d89d840c92aed55631868a7eb_depend_on_res(auto).unity3d

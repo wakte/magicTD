@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 1970906407
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 48a7049d20fe1f18ec277671d8cb0e95
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e4b6bf79c5ab22d4ac37b63bd3a442ff
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 48a7049d20fe1f18ec277671d8cb0e95
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc9bee942b15af14ca40c6c76a5c82a4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c4c60d874bf803243939f6dfb9db8bfc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8cb828aea03c60841bcb453435cfd460, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: TriggerEvent
+- AssemblyName: Assembly-CSharp
+  ClassName: TriggerEvent2D
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+Assets:
+- Assets/Games/MainModule/Views/Towers/Magic Tower/MagicTower1.prefab
+Dependencies:
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/2149653b0c306c7451d35b52f952a6cb.unity3d
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/c9528aa7cad01f50a6bccea4161529e0.unity3d
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/d4935f0267214d521bf2dc3c8b014859.unity3d

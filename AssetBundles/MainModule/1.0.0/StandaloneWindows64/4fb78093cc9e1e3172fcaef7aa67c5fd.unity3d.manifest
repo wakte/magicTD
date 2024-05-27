@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2165527483
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7c139b54263aac4f16c065fdeeda6187
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7c139b54263aac4f16c065fdeeda6187
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Games/MainModule/Sprites/stone-tower-game-assets/PNG/40.png
+Dependencies: []

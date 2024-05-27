@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3212368033
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d351c89efa32b55e135f6ddfb58afc6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9d351c89efa32b55e135f6ddfb58afc6
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Games/MainModule/Audios/sound/arrow_hit_1.ogg
+- Assets/Games/MainModule/Audios/sound/arrow_release_1.ogg
+- Assets/Games/MainModule/Audios/sound/click.ogg
+- Assets/Games/MainModule/Audios/sound/tower_build.ogg
+- Assets/Games/MainModule/Audios/sound/tower_sell.ogg
+- Assets/Games/MainModule/Audios/sound/arrow_release_2.ogg
+- Assets/Games/MainModule/Audios/bg/bgm_desert.mp3
+- Assets/Games/MainModule/Audios/sound/wave_incoming.ogg
+- Assets/Games/MainModule/Audios/sound/next_wave_ready.ogg
+- Assets/Games/MainModule/Audios/sound/victory.ogg
+- Assets/Games/MainModule/Audios/sound/arrow_hit_2.ogg
+- Assets/Games/MainModule/Audios/sound/stone_release.ogg
+- Assets/Games/MainModule/Audios/bg/bgm_main.mp3
+- Assets/Games/MainModule/Audios/sound/enemies_common_dead.ogg
+- Assets/Games/MainModule/Audios/bg/bgm_laya.mp3
+- Assets/Games/MainModule/Audios/sound/level_up.ogg
+- Assets/Games/MainModule/Audios/bg/bgm_darkforest.mp3
+- Assets/Games/MainModule/Audios/sound/Lightning.mp3
+- Assets/Games/MainModule/Audios/sound/loose_life.ogg
+Dependencies: []

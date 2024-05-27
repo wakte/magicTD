@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 4242784428
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3be95fde34f7bcc6ff4ce7cf69420d03
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdb2dcfb5cbb008132881f6d35c2aa14
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3be95fde34f7bcc6ff4ce7cf69420d03
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Games/MainModule/Views/Towers/ArcherTower/ArcherAnimation/shot_up.anim
+- Assets/Games/MainModule/Views/Towers/ArcherTower/ArcherAnimation/shot.anim
+- Assets/Games/MainModule/Views/Towers/ArcherTower/ArcherAnimation/idle.anim
+- Assets/Games/MainModule/Views/Towers/ArcherTower/ArcherAnimation/idle_up.anim
+Dependencies:
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/b9c2d84a80c0b7005c09e630d43b7eb1.unity3d

@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 11549953
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d33b243e832c30e77e96ab579973732
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9e2c45b9662ec9b629a8fb21b7b18483
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1d33b243e832c30e77e96ab579973732
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Games/MainModule/TileMaps/level5/land.asset
+Dependencies:
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/a2b5c62cec8eac14b8d94cd399ea5985_separately_depend_res(auto).unity3d

@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3599157636
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 62adbd744221cba9c2886031a1bdda76
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e25f260ca49d950941c22cb33a21df46
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 62adbd744221cba9c2886031a1bdda76
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Games/MainModule/Views/Towers/StoneTower/StoneExplodeAnim.prefab
+Dependencies:
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/4fb78093cc9e1e3172fcaef7aa67c5fd.unity3d
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/dbd1d69c69511d04db085154588452be.unity3d

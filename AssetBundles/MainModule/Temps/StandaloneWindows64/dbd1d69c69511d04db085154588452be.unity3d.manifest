@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3881410419
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ee1c75191ce90afeb7a6df46e9f1e1d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e8df1f9f82371e82de919a94edcc7dd6
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4ee1c75191ce90afeb7a6df46e9f1e1d
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Games/MainModule/Views/Towers/StoneTower/Animation/StoneExplodeController.controller
+Dependencies:
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/27634c61f2eabf583e080af81de5fd7a.unity3d

@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2604890916
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8fa9497d29a55a14bb992573f3466721
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8fa9497d29a55a14bb992573f3466721
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Games/MainModule/Sprites/td-gui/PNG/levels/star_1.png
+- Assets/Games/MainModule/Sprites/td-gui/PNG/levels/star_3.png
+- Assets/Games/MainModule/Sprites/td-gui/PNG/levels/star_4.png
+- Assets/Games/MainModule/Sprites/td-gui/PNG/levels/star_2.png
+Dependencies: []

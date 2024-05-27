@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 349281366
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df99bcfbe5a56ef90aaddde50fc83cf2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 41bd04d6528fda39298bbb982c3e7719
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: df99bcfbe5a56ef90aaddde50fc83cf2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 403c24cad33f2944ead6f9acd0524ea2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Games/MainModule/UI/AudioClick/AudioClick.prefab
+Dependencies:
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/mainmodule_audios.unity3d

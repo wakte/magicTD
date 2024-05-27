@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1419877128
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ec9bf9a19fe54a08dadd0b6998f9914
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6ec9bf9a19fe54a08dadd0b6998f9914
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Games/MainModule/Sprites/td-gui/PNG/upgrade_tower/sell.png
+- Assets/Games/MainModule/Sprites/td-gui/PNG/upgrade_tower/uppgrade.png
+Dependencies: []

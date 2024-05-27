@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 160911935
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e092d0ad2c13e1ff2eb64c39fa005611
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2b135f50493af518ace8875cbd667d7f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e092d0ad2c13e1ff2eb64c39fa005611
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a90e3617758023408cb1922166a9040, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b72a8bd265e05b04fa787c7f3f983c92, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: AnimationEvent
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+Assets:
+- Assets/Games/MainModule/Views/Towers/ArcherTower/Archer.prefab
+Dependencies:
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/37dfbbb8cc02d6d4b39ba7feb0d63547.unity3d
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/b9c2d84a80c0b7005c09e630d43b7eb1.unity3d

@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2082626540
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d2e610c38bdd235fc6363baaf5431899
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c923619937eda200aeefaa461326d71a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d2e610c38bdd235fc6363baaf5431899
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: c6fbd4d875fc9c244aa5a60af9e992ab, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: XFFSM
+  ClassName: XFFSM.FSMConditionData
+- AssemblyName: XFFSM
+  ClassName: XFFSM.FSMParameterData
+- AssemblyName: XFFSM
+  ClassName: XFFSM.FSMStateNodeData
+- AssemblyName: XFFSM
+  ClassName: XFFSM.FSMStateScriptInfo
+- AssemblyName: XFFSM
+  ClassName: XFFSM.FSMTransitionData
+Assets:
+- Assets/Games/MainModule/FSM/GameState.asset
+Dependencies: []

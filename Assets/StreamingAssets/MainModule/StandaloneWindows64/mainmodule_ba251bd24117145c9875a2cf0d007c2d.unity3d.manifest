@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3395797274
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 64fc7afe97e9c3297292c33b9345878b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 68277c90e1b3dcb234994433b90c234e
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 64fc7afe97e9c3297292c33b9345878b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f0ea31cefcbab6e438b591e5a09d007a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Games/MainModule/Views/Towers/StoneTower/Stone.prefab
+Dependencies:
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/4fb78093cc9e1e3172fcaef7aa67c5fd.unity3d

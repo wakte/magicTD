@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 2057263992
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 61cb882cdd1a1820159dd8062e970a7f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 93a7e59b3de457ab8a4b27f5c65e8a0e
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 61cb882cdd1a1820159dd8062e970a7f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc9bee942b15af14ca40c6c76a5c82a4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22a4065483b576c4d806fa8381cba8ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b72a8bd265e05b04fa787c7f3f983c92, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: AnimationEvent
+- AssemblyName: Assembly-CSharp
+  ClassName: TriggerEvent
+- AssemblyName: Assembly-CSharp
+  ClassName: TriggerEvent2D
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+Assets:
+- Assets/Games/MainModule/Views/Towers/StoneTower/StoneTower1.prefab
+Dependencies:
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/36dabb163d1c6649aaaa749017b11640.unity3d
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/4fb78093cc9e1e3172fcaef7aa67c5fd.unity3d
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/d3151455454f81988c3612427be67686_depend_on_res(auto).unity3d
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/d4935f0267214d521bf2dc3c8b014859.unity3d
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/d4a08e8551d0c9828688f4abf2ce0b40.unity3d
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/dbd1d69c69511d04db085154588452be.unity3d

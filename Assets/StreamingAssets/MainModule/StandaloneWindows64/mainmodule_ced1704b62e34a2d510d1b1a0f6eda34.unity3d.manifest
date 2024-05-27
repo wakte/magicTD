@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 2719247935
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 75880223053508839bb87974284d85b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 24c303079c1c218bf393f32c70741a11
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 75880223053508839bb87974284d85b2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 01c291077bd9ec646877bec151305718, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.EventSystems.EventTrigger/Entry
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.EventSystems.EventTrigger/TriggerEvent
+Assets:
+- Assets/Games/MainModule/Views/SceneObjects/TowerPosition/TowerPosition.prefab
+Dependencies:
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/e9eb231de1a31a83b13a1a546b993767.unity3d

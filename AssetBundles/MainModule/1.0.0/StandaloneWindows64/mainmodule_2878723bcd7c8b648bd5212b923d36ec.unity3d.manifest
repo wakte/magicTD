@@ -1,0 +1,94 @@
+ManifestFileVersion: 0
+CRC: 2388259891
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d65db4e1c7376dd8f7eb4992fc06ab1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 22d99a9e5a3ffdfcac395f0c72c1a3ac
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3d65db4e1c7376dd8f7eb4992fc06ab1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0119e81c95259348a8f210b919c442e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1620a92c74ae8a942bb22b68db8763e6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d739d7e7390e1814c9df40f8fe10ca8c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: XFABManager
+  ClassName: XFABManager.ImageLoadType
+- AssemblyName: XFABManager
+  ClassName: XFABManager.ImageLoaderType
+- AssemblyName: XFABManager
+  ClassName: XFABManager.ImageModel
+- AssemblyName: XFABManager
+  ClassName: XFABManager.OnImageLoaderLoadCompleted
+- AssemblyName: XFABManager
+  ClassName: XFABManager.OnImageLoaderLoadFailure
+- AssemblyName: XFABManager
+  ClassName: XFABManager.OnImageLoaderLoading
+- AssemblyName: XFABManager
+  ClassName: XFABManager.TargetComponentType
+Assets:
+- Assets/Games/MainModule/UI/SelectLevelPanel/SelectLevelPanel.prefab
+Dependencies:
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/2878723bcd7c8b648bd5212b923d36ec_depend_on_res(auto).unity3d
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/5fea8c251e81716f6c899f62c033bbcb.unity3d
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/749e35b33f6ac34418266f2f5ae2c78f_separately(auto).unity3d
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/9fe2a2fc1e1abe8ceec8073217169062.unity3d
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/b51a652509320ce92bb09254457e3de1.unity3d
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/e39c32c91bd81e0239463ef1f24e5307.unity3d

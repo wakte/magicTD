@@ -1,0 +1,8765 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a60dc674e091e14a83d3fc01f35d3a7, type: 3}
+  m_Name: LevelsConfig
+  m_EditorClassIdentifier: 
+  GenerateEnemyTimeInterval: 10
+  PlayerHp: 1
+  SaleDiscount: 0.5
+  levels:
+  - levelId: 0
+    name: "\u5173\u53611"
+    description: 
+    sceneName: Level1
+    enemyWaves:
+    - enemies:
+      - enemyId: 2
+        time: 0
+        path: path2
+      - enemyId: 2
+        time: 4
+        path: path2
+      - enemyId: 2
+        time: 7.6
+        path: path2
+      - enemyId: 2
+        time: 16.76
+        path: path2
+      - enemyId: 2
+        time: 12.8
+        path: path2
+      - enemyId: 2
+        time: 20.97
+        path: path2
+      - enemyId: 2
+        time: 23.880003
+        path: path2
+      fight_buttton: fight_button1
+    InitialCoin: 1000
+    bgm: bgm_darkforest
+  - levelId: 1
+    name: "\u5173\u53612"
+    description: 
+    sceneName: Level2
+    enemyWaves:
+    - enemies:
+      - enemyId: 2
+        time: 0.77
+        path: path1
+      - enemyId: 2
+        time: 6.05
+        path: path1
+      - enemyId: 2
+        time: 14.57
+        path: path1
+      - enemyId: 2
+        time: 21.74
+        path: path1
+      - enemyId: 2
+        time: 0
+        path: path2
+      - enemyId: 2
+        time: 1.37
+        path: path2
+      - enemyId: 2
+        time: 3.96
+        path: path2
+      - enemyId: 2
+        time: 5.34
+        path: path2
+      - enemyId: 2
+        time: 6.66
+        path: path2
+      - enemyId: 2
+        time: 9.67
+        path: path2
+      - enemyId: 2
+        time: 11.15
+        path: path2
+      - enemyId: 2
+        time: 13.89
+        path: path2
+      - enemyId: 2
+        time: 15.25
+        path: path2
+      - enemyId: 2
+        time: 21.16
+        path: path2
+      - enemyId: 2
+        time: 22.29
+        path: path2
+      - enemyId: 2
+        time: 4.71
+        path: path3
+      - enemyId: 2
+        time: 10.46
+        path: path3
+      - enemyId: 2
+        time: 16.01
+        path: path3
+      - enemyId: 2
+        time: 17.08
+        path: path3
+      - enemyId: 2
+        time: 19.73
+        path: path3
+      - enemyId: 2
+        time: 20.55
+        path: path3
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 2
+        time: 1.75
+        path: path7
+      - enemyId: 2
+        time: 4.73
+        path: path7
+      - enemyId: 2
+        time: 7.26
+        path: path7
+      - enemyId: 2
+        time: 13.19
+        path: path7
+      - enemyId: 2
+        time: 13.84
+        path: path7
+      - enemyId: 2
+        time: 19.91
+        path: path7
+      - enemyId: 2
+        time: 0
+        path: path8
+      - enemyId: 2
+        time: 0.412
+        path: path8
+      - enemyId: 2
+        time: 0.802
+        path: path8
+      - enemyId: 2
+        time: 1.221
+        path: path8
+      - enemyId: 2
+        time: 2.226
+        path: path8
+      - enemyId: 2
+        time: 5.42
+        path: path8
+      - enemyId: 2
+        time: 11.5
+        path: path8
+      - enemyId: 2
+        time: 11.82
+        path: path8
+      - enemyId: 2
+        time: 15.39
+        path: path8
+      - enemyId: 2
+        time: 15.97
+        path: path8
+      - enemyId: 2
+        time: 18.58
+        path: path8
+      - enemyId: 2
+        time: 6.19
+        path: path9
+      - enemyId: 2
+        time: 7.95
+        path: path9
+      - enemyId: 2
+        time: 14.87
+        path: path9
+      - enemyId: 2
+        time: 19.16
+        path: path9
+      - enemyId: 2
+        time: 20.56
+        path: path9
+      - enemyId: 2
+        time: 21.29
+        path: path9
+      fight_buttton: fight_button3
+    - enemies:
+      - enemyId: 2
+        time: 13.48
+        path: path1
+      - enemyId: 3
+        time: 17.2
+        path: path1
+      - enemyId: 2
+        time: 22.53
+        path: path1
+      - enemyId: 2
+        time: 11.98
+        path: path2
+      - enemyId: 2
+        time: 12.72
+        path: path2
+      - enemyId: 2
+        time: 21.07
+        path: path2
+      - enemyId: 3
+        time: 19.02
+        path: path2
+      - enemyId: 2
+        time: 3.027
+        path: path3
+      - enemyId: 2
+        time: 3.79
+        path: path3
+      - enemyId: 2
+        time: 4.54
+        path: path3
+      - enemyId: 2
+        time: 5.34
+        path: path3
+      - enemyId: 2
+        time: 14.3
+        path: path3
+      - enemyId: 3
+        time: 18.32
+        path: path3
+      - enemyId: 2
+        time: 21.88
+        path: path3
+      - enemyId: 2
+        time: 0
+        path: path7
+      - enemyId: 2
+        time: 1.493
+        path: path7
+      - enemyId: 2
+        time: 7.1
+        path: path7
+      - enemyId: 3
+        time: 7.51
+        path: path7
+      - enemyId: 2
+        time: 0.769
+        path: path8
+      - enemyId: 2
+        time: 2.225
+        path: path8
+      - enemyId: 2
+        time: 3.027
+        path: path8
+      - enemyId: 2
+        time: 9.97
+        path: path8
+      - enemyId: 3
+        time: 10.38
+        path: path8
+      - enemyId: 2
+        time: 8.66
+        path: path9
+      - enemyId: 3
+        time: 9.07
+        path: path9
+      fight_buttton: fight_button3
+    - enemies:
+      - enemyId: 2
+        time: 2.732
+        path: path1
+      - enemyId: 2
+        time: 11.794
+        path: path1
+      - enemyId: 2
+        time: 16.86
+        path: path1
+      - enemyId: 2
+        time: 20.57
+        path: path1
+      - enemyId: 2
+        time: 21.59
+        path: path1
+      - enemyId: 2
+        time: 22.65
+        path: path1
+      - enemyId: 2
+        time: 6.65
+        path: path1
+      - enemyId: 2
+        time: 3.902
+        path: path1
+      - enemyId: 2
+        time: 12.964
+        path: path1
+      - enemyId: 2
+        time: 7.82
+        path: path1
+      - enemyId: 4
+        time: 0
+        path: path2
+      - enemyId: 4
+        time: 1.472
+        path: path2
+      - enemyId: 4
+        time: 10.533999
+        path: path2
+      - enemyId: 4
+        time: 15.6
+        path: path2
+      - enemyId: 4
+        time: 19.31
+        path: path2
+      - enemyId: 2
+        time: 2.069
+        path: path3
+      - enemyId: 2
+        time: 11.131
+        path: path3
+      - enemyId: 2
+        time: 16.197
+        path: path3
+      - enemyId: 2
+        time: 5.987
+        path: path3
+      - enemyId: 2
+        time: 3.298
+        path: path3
+      - enemyId: 2
+        time: 12.36
+        path: path3
+      - enemyId: 2
+        time: 7.216
+        path: path3
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 2
+        time: 3.24
+        path: path4
+      - enemyId: 2
+        time: 4.01
+        path: path4
+      - enemyId: 2
+        time: 4.82
+        path: path4
+      - enemyId: 2
+        time: 5.75
+        path: path4
+      - enemyId: 2
+        time: 10.7
+        path: path4
+      - enemyId: 4
+        time: 15.76
+        path: path4
+      - enemyId: 2
+        time: 27.41
+        path: path4
+      - enemyId: 2
+        time: 28.04
+        path: path4
+      - enemyId: 2
+        time: 28.69
+        path: path4
+      - enemyId: 2
+        time: 30.52
+        path: path4
+      - enemyId: 4
+        time: 0
+        path: path5
+      - enemyId: 2
+        time: 0.97
+        path: path5
+      - enemyId: 2
+        time: 9.39
+        path: path5
+      - enemyId: 2
+        time: 11.43
+        path: path5
+      - enemyId: 2
+        time: 12.05
+        path: path5
+      - enemyId: 2
+        time: 12.67
+        path: path5
+      - enemyId: 2
+        time: 12.67
+        path: path5
+      - enemyId: 2
+        time: 13.39
+        path: path5
+      - enemyId: 2
+        time: 18.17
+        path: path5
+      - enemyId: 2
+        time: 19.51
+        path: path5
+      - enemyId: 2
+        time: 23.34
+        path: path5
+      - enemyId: 2
+        time: 24.54
+        path: path5
+      - enemyId: 2
+        time: 25.16
+        path: path5
+      - enemyId: 2
+        time: 25.82
+        path: path5
+      - enemyId: 2
+        time: 27.69
+        path: path5
+      - enemyId: 2
+        time: 29.14
+        path: path5
+      - enemyId: 2
+        time: 31.1
+        path: path5
+      - enemyId: 4
+        time: 22.63
+        path: path5
+      - enemyId: 2
+        time: 2.28
+        path: path6
+      - enemyId: 4
+        time: 13.32
+        path: path6
+      - enemyId: 2
+        time: 17.49
+        path: path6
+      - enemyId: 2
+        time: 18.71
+        path: path6
+      - enemyId: 2
+        time: 24.03
+        path: path6
+      - enemyId: 2
+        time: 26.86
+        path: path6
+      - enemyId: 2
+        time: 27.2
+        path: path6
+      - enemyId: 2
+        time: 28.19
+        path: path6
+      - enemyId: 2
+        time: 29.7
+        path: path6
+      fight_buttton: fight_button2
+    - enemies:
+      - enemyId: 3
+        time: 0.78
+        path: path4
+      - enemyId: 3
+        time: 5.05
+        path: path4
+      - enemyId: 3
+        time: 5.87
+        path: path4
+      - enemyId: 3
+        time: 11.53
+        path: path4
+      - enemyId: 3
+        time: 12.18
+        path: path4
+      - enemyId: 2
+        time: 18.92
+        path: path4
+      - enemyId: 2
+        time: 19.96
+        path: path4
+      - enemyId: 2
+        time: 21.3
+        path: path4
+      - enemyId: 2
+        time: 22.04
+        path: path4
+      - enemyId: 2
+        time: 25.89
+        path: path4
+      - enemyId: 2
+        time: 26.48
+        path: path4
+      - enemyId: 2
+        time: 27.55
+        path: path4
+      - enemyId: 2
+        time: 29.31
+        path: path4
+      - enemyId: 2
+        time: 33.19
+        path: path4
+      - enemyId: 2
+        time: 34.04
+        path: path4
+      - enemyId: 2
+        time: 35.62
+        path: path4
+      - enemyId: 2
+        time: 37.05
+        path: path4
+      - enemyId: 3
+        time: 0
+        path: path5
+      - enemyId: 3
+        time: 1.62
+        path: path5
+      - enemyId: 3
+        time: 4.26
+        path: path5
+      - enemyId: 3
+        time: 6.72
+        path: path5
+      - enemyId: 3
+        time: 9.24
+        path: path5
+      - enemyId: 3
+        time: 0.78
+        path: path5
+      - enemyId: 3
+        time: 5.05
+        path: path5
+      - enemyId: 3
+        time: 5.87
+        path: path5
+      - enemyId: 2
+        time: 16.82
+        path: path5
+      - enemyId: 2
+        time: 18.33
+        path: path5
+      - enemyId: 2
+        time: 19.346
+        path: path5
+      - enemyId: 2
+        time: 25.01
+        path: path5
+      - enemyId: 2
+        time: 26.97
+        path: path5
+      - enemyId: 2
+        time: 28.82
+        path: path5
+      - enemyId: 2
+        time: 32.55
+        path: path5
+      - enemyId: 2
+        time: 34.83
+        path: path5
+      - enemyId: 2
+        time: 36.26
+        path: path5
+      - enemyId: 2
+        time: 37.6
+        path: path5
+      - enemyId: 3
+        time: 0
+        path: path6
+      - enemyId: 3
+        time: 1.62
+        path: path6
+      - enemyId: 3
+        time: 4.26
+        path: path6
+      - enemyId: 3
+        time: 6.72
+        path: path6
+      - enemyId: 3
+        time: 10.01
+        path: path6
+      - enemyId: 3
+        time: 10.66
+        path: path6
+      - enemyId: 2
+        time: 20.42
+        path: path6
+      - enemyId: 2
+        time: 28.02
+        path: path6
+      fight_buttton: fight_button2
+    - enemies:
+      - enemyId: 4
+        time: 21.08
+        path: path1
+      - enemyId: 4
+        time: 24.68
+        path: path2
+      - enemyId: 4
+        time: 27.16
+        path: path2
+      - enemyId: 4
+        time: 21.54
+        path: path3
+      - enemyId: 2
+        time: 1.57
+        path: path4
+      - enemyId: 2
+        time: 2.29
+        path: path4
+      - enemyId: 2
+        time: 3.6
+        path: path4
+      - enemyId: 2
+        time: 8.09
+        path: path4
+      - enemyId: 2
+        time: 9.04
+        path: path4
+      - enemyId: 2
+        time: 10.43
+        path: path4
+      - enemyId: 2
+        time: 11.36
+        path: path4
+      - enemyId: 2
+        time: 16.22
+        path: path4
+      - enemyId: 2
+        time: 17.08
+        path: path4
+      - enemyId: 2
+        time: 18.28
+        path: path4
+      - enemyId: 2
+        time: 0
+        path: path5
+      - enemyId: 2
+        time: 3.02
+        path: path5
+      - enemyId: 2
+        time: 6.14
+        path: path5
+      - enemyId: 2
+        time: 7.35
+        path: path5
+      - enemyId: 2
+        time: 9.79
+        path: path5
+      - enemyId: 2
+        time: 17.6
+        path: path5
+      - enemyId: 2
+        time: 18.75
+        path: path5
+      - enemyId: 2
+        time: 15.19
+        path: path6
+      - enemyId: 4
+        time: 12.94
+        path: path7
+      - enemyId: 4
+        time: 0.85
+        path: path9
+      - enemyId: 4
+        time: 4.87
+        path: path9
+      - enemyId: 4
+        time: 13.29
+        path: path9
+      fight_buttton: fight_button2
+    - enemies:
+      - enemyId: 4
+        time: 0
+        path: path1
+      - enemyId: 2
+        time: 24.36
+        path: path1
+      - enemyId: 2
+        time: 30.34
+        path: path1
+      - enemyId: 2
+        time: 24.98
+        path: path2
+      - enemyId: 2
+        time: 30.96
+        path: path2
+      - enemyId: 2
+        time: 26.43
+        path: path2
+      - enemyId: 2
+        time: 32.41
+        path: path2
+      - enemyId: 2
+        time: 27.41
+        path: path2
+      - enemyId: 2
+        time: 33.39
+        path: path2
+      - enemyId: 4
+        time: 0.356
+        path: path3
+      - enemyId: 2
+        time: 25.85
+        path: path3
+      - enemyId: 2
+        time: 31.83
+        path: path3
+      - enemyId: 4
+        time: 12.92
+        path: path4
+      - enemyId: 4
+        time: 31.65
+        path: path4
+      - enemyId: 4
+        time: 7.35
+        path: path5
+      - enemyId: 4
+        time: 31.11
+        path: path5
+      - enemyId: 4
+        time: 32.19
+        path: path5
+      - enemyId: 4
+        time: 20.67
+        path: path5
+      - enemyId: 4
+        time: 10.5
+        path: path6
+      - enemyId: 4
+        time: 10.5
+        path: path6
+      - enemyId: 4
+        time: 31.65
+        path: path6
+      - enemyId: 2
+        time: 1.53
+        path: path7
+      - enemyId: 2
+        time: 5.37
+        path: path7
+      - enemyId: 2
+        time: 6.26
+        path: path7
+      - enemyId: 2
+        time: 3.4
+        path: path8
+      - enemyId: 2
+        time: 15.33
+        path: path8
+      - enemyId: 2
+        time: 17.38
+        path: path8
+      - enemyId: 2
+        time: 2.8
+        path: path9
+      - enemyId: 2
+        time: 4.52
+        path: path9
+      - enemyId: 2
+        time: 8.13
+        path: path9
+      - enemyId: 2
+        time: 14.7
+        path: path9
+      - enemyId: 2
+        time: 15.73
+        path: path9
+      - enemyId: 2
+        time: 16.58
+        path: path9
+      fight_buttton: fight_button1
+    InitialCoin: 350
+    bgm: bgm_desert
+  - levelId: 2
+    name: "\u5173\u53613"
+    description: 
+    sceneName: Level3
+    enemyWaves:
+    - enemies:
+      - enemyId: 2
+        time: 0.56
+        path: path1
+      - enemyId: 2
+        time: 5.1800003
+        path: path1
+      - enemyId: 2
+        time: 2.912
+        path: path1
+      - enemyId: 2
+        time: 7.5319996
+        path: path1
+      - enemyId: 2
+        time: 11.07
+        path: path1
+      - enemyId: 2
+        time: 14.754999
+        path: path1
+      - enemyId: 2
+        time: 17.71
+        path: path1
+      - enemyId: 2
+        time: 20.38
+        path: path1
+      - enemyId: 2
+        time: 24.53
+        path: path1
+      - enemyId: 2
+        time: 25.07
+        path: path1
+      - enemyId: 2
+        time: 0
+        path: path2
+      - enemyId: 2
+        time: 4.62
+        path: path2
+      - enemyId: 2
+        time: 2.352
+        path: path2
+      - enemyId: 2
+        time: 6.972
+        path: path2
+      - enemyId: 2
+        time: 10.51
+        path: path2
+      - enemyId: 2
+        time: 14.195
+        path: path2
+      - enemyId: 2
+        time: 17.15
+        path: path2
+      - enemyId: 2
+        time: 19.82
+        path: path2
+      - enemyId: 2
+        time: 24.25
+        path: path2
+      - enemyId: 2
+        time: 0.545
+        path: path3
+      - enemyId: 2
+        time: 5.165
+        path: path3
+      - enemyId: 2
+        time: 2.897
+        path: path3
+      - enemyId: 2
+        time: 7.517
+        path: path3
+      - enemyId: 2
+        time: 11.055
+        path: path3
+      - enemyId: 2
+        time: 14.74
+        path: path3
+      - enemyId: 2
+        time: 17.695
+        path: path3
+      - enemyId: 2
+        time: 20.365
+        path: path3
+      - enemyId: 2
+        time: 23.98
+        path: path3
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 2
+        time: 1.0140011
+        path: path1
+      - enemyId: 2
+        time: 5.5150003
+        path: path1
+      - enemyId: 2
+        time: 9.804003
+        path: path1
+      - enemyId: 3
+        time: 14.404001
+        path: path1
+      - enemyId: 2
+        time: 0.123999834
+        path: path2
+      - enemyId: 2
+        time: 4.624997
+        path: path2
+      - enemyId: 2
+        time: 8.914
+        path: path2
+      - enemyId: 2
+        time: 2.0029993
+        path: path2
+      - enemyId: 2
+        time: 6.5039988
+        path: path2
+      - enemyId: 2
+        time: 10.793001
+        path: path2
+      - enemyId: 3
+        time: 1.05
+        path: path2
+      - enemyId: 3
+        time: 5.5509996
+        path: path2
+      - enemyId: 3
+        time: 9.840002
+        path: path2
+      - enemyId: 3
+        time: 13.424002
+        path: path2
+      - enemyId: 3
+        time: 14.404001
+        path: path2
+      - enemyId: 3
+        time: 15.354002
+        path: path2
+      - enemyId: 2
+        time: 0.924001
+        path: path3
+      - enemyId: 2
+        time: 5.425
+        path: path3
+      - enemyId: 2
+        time: 9.714003
+        path: path3
+      - enemyId: 3
+        time: 14.404001
+        path: path3
+      - enemyId: 2
+        time: 17.974
+        path: path4
+      - enemyId: 2
+        time: 21.44
+        path: path4
+      - enemyId: 2
+        time: 24.68
+        path: path4
+      - enemyId: 2
+        time: 27.77
+        path: path4
+      - enemyId: 2
+        time: 17.014002
+        path: path5
+      - enemyId: 2
+        time: 20.480001
+        path: path5
+      - enemyId: 2
+        time: 23.720001
+        path: path5
+      - enemyId: 2
+        time: 26.810001
+        path: path5
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 0
+        time: 1.59
+        path: path1
+      - enemyId: 0
+        time: 18.47
+        path: path1
+      - enemyId: 0
+        time: 30.259998
+        path: path1
+      - enemyId: 0
+        time: 40.22
+        path: path1
+      - enemyId: 0
+        time: 45.76
+        path: path1
+      - enemyId: 0
+        time: 21.83
+        path: path1
+      - enemyId: 0
+        time: 33.62
+        path: path1
+      - enemyId: 0
+        time: 6.63
+        path: path1
+      - enemyId: 0
+        time: 20.18
+        path: path2
+      - enemyId: 0
+        time: 31.97
+        path: path2
+      - enemyId: 0
+        time: 41.930004
+        path: path2
+      - enemyId: 0
+        time: 47.47
+        path: path2
+      - enemyId: 0
+        time: 0
+        path: path3
+      - enemyId: 0
+        time: 16.88
+        path: path3
+      - enemyId: 0
+        time: 5.04
+        path: path3
+      - enemyId: 0
+        time: 8.26
+        path: path3
+      - enemyId: 2
+        time: 11.9
+        path: path4
+      - enemyId: 2
+        time: 25.6
+        path: path4
+      - enemyId: 2
+        time: 36.65
+        path: path4
+      - enemyId: 2
+        time: 10.82
+        path: path5
+      - enemyId: 2
+        time: 12.88
+        path: path5
+      - enemyId: 2
+        time: 24.84
+        path: path5
+      - enemyId: 2
+        time: 35.890003
+        path: path5
+      - enemyId: 2
+        time: 37.5
+        path: path5
+      - enemyId: 2
+        time: 13.64
+        path: path6
+      - enemyId: 2
+        time: 25.6
+        path: path6
+      - enemyId: 2
+        time: 36.65
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 2
+        time: 2.78
+        path: path1
+      - enemyId: 2
+        time: 11.56
+        path: path1
+      - enemyId: 2
+        time: 23.23
+        path: path1
+      - enemyId: 2
+        time: 4.06
+        path: path1
+      - enemyId: 2
+        time: 12.840001
+        path: path1
+      - enemyId: 2
+        time: 24.51
+        path: path1
+      - enemyId: 0
+        time: 6.37
+        path: path2
+      - enemyId: 0
+        time: 17.76
+        path: path2
+      - enemyId: 0
+        time: 8.97
+        path: path2
+      - enemyId: 0
+        time: 20.36
+        path: path2
+      - enemyId: 0
+        time: 33.25
+        path: path2
+      - enemyId: 0
+        time: 34.89
+        path: path2
+      - enemyId: 0
+        time: 36.48
+        path: path2
+      - enemyId: 0
+        time: 43.16
+        path: path2
+      - enemyId: 0
+        time: 38.07
+        path: path2
+      - enemyId: 0
+        time: 44.75
+        path: path2
+      - enemyId: 0
+        time: 39.66
+        path: path2
+      - enemyId: 0
+        time: 46.34
+        path: path2
+      - enemyId: 0
+        time: 41.31
+        path: path2
+      - enemyId: 0
+        time: 47.99
+        path: path2
+      - enemyId: 2
+        time: 22.249998
+        path: path2
+      - enemyId: 2
+        time: 4.0199995
+        path: path3
+      - enemyId: 2
+        time: 12.8
+        path: path3
+      - enemyId: 2
+        time: 24.47
+        path: path3
+      - enemyId: 2
+        time: 2.7399998
+        path: path3
+      - enemyId: 2
+        time: 11.52
+        path: path3
+      - enemyId: 2
+        time: 23.189999
+        path: path3
+      - enemyId: 3
+        time: 0.708
+        path: path4
+      - enemyId: 3
+        time: 7.89
+        path: path4
+      - enemyId: 3
+        time: 15.128
+        path: path4
+      - enemyId: 3
+        time: 26.61
+        path: path4
+      - enemyId: 3
+        time: 29.550001
+        path: path4
+      - enemyId: 3
+        time: 0
+        path: path5
+      - enemyId: 3
+        time: 7.1819997
+        path: path5
+      - enemyId: 3
+        time: 14.42
+        path: path5
+      - enemyId: 3
+        time: 25.902
+        path: path5
+      - enemyId: 3
+        time: 28.842001
+        path: path5
+      - enemyId: 3
+        time: 27.3
+        path: path5
+      - enemyId: 3
+        time: 30.24
+        path: path5
+      - enemyId: 3
+        time: 1.2
+        path: path6
+      - enemyId: 3
+        time: 7.8799996
+        path: path6
+      - enemyId: 3
+        time: 15.118
+        path: path6
+      - enemyId: 3
+        time: 26.6
+        path: path6
+      - enemyId: 3
+        time: 29.54
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 2
+        time: 0.844
+        path: path1
+      - enemyId: 2
+        time: 11.499
+        path: path1
+      - enemyId: 2
+        time: 16.19
+        path: path1
+      - enemyId: 2
+        time: 1.875
+        path: path1
+      - enemyId: 2
+        time: 12.53
+        path: path1
+      - enemyId: 2
+        time: 17.221
+        path: path1
+      - enemyId: 2
+        time: 13.61
+        path: path1
+      - enemyId: 2
+        time: 18.301
+        path: path1
+      - enemyId: 4
+        time: 5.52
+        path: path1
+      - enemyId: 4
+        time: 21.87
+        path: path1
+      - enemyId: 4
+        time: 27.95
+        path: path1
+      - enemyId: 4
+        time: 8.059999
+        path: path1
+      - enemyId: 4
+        time: 24.41
+        path: path1
+      - enemyId: 4
+        time: 28.74
+        path: path1
+      - enemyId: 4
+        time: 0
+        path: path2
+      - enemyId: 4
+        time: 2.757
+        path: path2
+      - enemyId: 2
+        time: 0.844
+        path: path3
+      - enemyId: 2
+        time: 11.43
+        path: path3
+      - enemyId: 2
+        time: 16.121002
+        path: path3
+      - enemyId: 2
+        time: 1.875
+        path: path3
+      - enemyId: 2
+        time: 12.5
+        path: path3
+      - enemyId: 2
+        time: 17.191002
+        path: path3
+      - enemyId: 2
+        time: 13.58
+        path: path3
+      - enemyId: 2
+        time: 18.271
+        path: path3
+      - enemyId: 4
+        time: 6.91
+        path: path3
+      - enemyId: 4
+        time: 21.85
+        path: path3
+      - enemyId: 4
+        time: 27.93
+        path: path3
+      - enemyId: 4
+        time: 24.45
+        path: path3
+      - enemyId: 4
+        time: 28.78
+        path: path3
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 5
+        time: 0
+        path: path1
+      - enemyId: 5
+        time: 9.7
+        path: path1
+      - enemyId: 5
+        time: 21.6
+        path: path1
+      - enemyId: 5
+        time: 3.84
+        path: path1
+      - enemyId: 5
+        time: 13.54
+        path: path1
+      - enemyId: 5
+        time: 25.44
+        path: path1
+      - enemyId: 5
+        time: 6.62
+        path: path1
+      - enemyId: 5
+        time: 16.32
+        path: path1
+      - enemyId: 5
+        time: 1.15
+        path: path2
+      - enemyId: 5
+        time: 10.849999
+        path: path2
+      - enemyId: 5
+        time: 22.75
+        path: path2
+      - enemyId: 5
+        time: 2.47
+        path: path2
+      - enemyId: 5
+        time: 12.17
+        path: path2
+      - enemyId: 5
+        time: 24.07
+        path: path2
+      - enemyId: 5
+        time: 5.25
+        path: path2
+      - enemyId: 5
+        time: 14.95
+        path: path2
+      - enemyId: 5
+        time: 26.85
+        path: path2
+      - enemyId: 2
+        time: 0.83
+        path: path4
+      - enemyId: 2
+        time: 11.56
+        path: path4
+      - enemyId: 2
+        time: 2.39
+        path: path4
+      - enemyId: 2
+        time: 13.12
+        path: path4
+      - enemyId: 3
+        time: 18.6
+        path: path4
+      - enemyId: 3
+        time: 29.98
+        path: path4
+      - enemyId: 3
+        time: 30.86
+        path: path4
+      - enemyId: 3
+        time: 32.72
+        path: path4
+      - enemyId: 2
+        time: 0
+        path: path5
+      - enemyId: 2
+        time: 10.7300005
+        path: path5
+      - enemyId: 2
+        time: 1.59
+        path: path5
+      - enemyId: 2
+        time: 12.320001
+        path: path5
+      - enemyId: 3
+        time: 17.8
+        path: path5
+      - enemyId: 3
+        time: 19.29
+        path: path5
+      - enemyId: 2
+        time: 0.83
+        path: path6
+      - enemyId: 2
+        time: 11.56
+        path: path6
+      - enemyId: 2
+        time: 2.39
+        path: path6
+      - enemyId: 2
+        time: 13.12
+        path: path6
+      - enemyId: 3
+        time: 20.5
+        path: path6
+      - enemyId: 3
+        time: 28.96
+        path: path6
+      - enemyId: 3
+        time: 31.66
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 4
+        time: 0
+        path: path1
+      - enemyId: 0
+        time: 7.4
+        path: path1
+      - enemyId: 0
+        time: 9.08
+        path: path1
+      - enemyId: 0
+        time: 20.14
+        path: path1
+      - enemyId: 4
+        time: 24.24
+        path: path1
+      - enemyId: 4
+        time: 25.84
+        path: path1
+      - enemyId: 4
+        time: 27.62
+        path: path1
+      - enemyId: 4
+        time: 28.58
+        path: path1
+      - enemyId: 4
+        time: 30.44
+        path: path1
+      - enemyId: 4
+        time: 32.46
+        path: path1
+      - enemyId: 2
+        time: 36.8
+        path: path1
+      - enemyId: 0
+        time: 4.51
+        path: path2
+      - enemyId: 0
+        time: 12.36
+        path: path2
+      - enemyId: 0
+        time: 5.84
+        path: path2
+      - enemyId: 0
+        time: 13.69
+        path: path2
+      - enemyId: 4
+        time: 22.48
+        path: path2
+      - enemyId: 4
+        time: 25.07
+        path: path2
+      - enemyId: 4
+        time: 26.79
+        path: path2
+      - enemyId: 4
+        time: 29.71
+        path: path2
+      - enemyId: 4
+        time: 31.57
+        path: path2
+      - enemyId: 4
+        time: 33.59
+        path: path2
+      - enemyId: 2
+        time: 35.77
+        path: path2
+      - enemyId: 4
+        time: 0
+        path: path3
+      - enemyId: 0
+        time: 7.4
+        path: path3
+      - enemyId: 0
+        time: 10.36
+        path: path3
+      - enemyId: 0
+        time: 19.32
+        path: path3
+      - enemyId: 2
+        time: 36.8
+        path: path3
+      - enemyId: 3
+        time: 0.76
+        path: path4
+      - enemyId: 3
+        time: 1.48
+        path: path4
+      - enemyId: 3
+        time: 15.5
+        path: path4
+      - enemyId: 3
+        time: 17.06
+        path: path4
+      - enemyId: 3
+        time: 23.42
+        path: path4
+      - enemyId: 3
+        time: 27.05
+        path: path4
+      - enemyId: 3
+        time: 38.26
+        path: path4
+      - enemyId: 3
+        time: 39.09
+        path: path4
+      - enemyId: 3
+        time: 39.82
+        path: path4
+      - enemyId: 3
+        time: 2.08
+        path: path5
+      - enemyId: 3
+        time: 2.75
+        path: path6
+      - enemyId: 3
+        time: 16.02
+        path: path6
+      - enemyId: 3
+        time: 17.58
+        path: path6
+      - enemyId: 3
+        time: 25.31
+        path: path6
+      - enemyId: 3
+        time: 40.44
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 2
+        time: 0
+        path: path1
+      - enemyId: 2
+        time: 0.93
+        path: path1
+      - enemyId: 2
+        time: 1.86
+        path: path1
+      - enemyId: 2
+        time: 7.39
+        path: path1
+      - enemyId: 2
+        time: 8.72
+        path: path1
+      - enemyId: 2
+        time: 12.78
+        path: path1
+      - enemyId: 2
+        time: 19.09
+        path: path1
+      - enemyId: 2
+        time: 12.78
+        path: path1
+      - enemyId: 2
+        time: 19.09
+        path: path1
+      - enemyId: 2
+        time: 9.53
+        path: path1
+      - enemyId: 2
+        time: 13.589999
+        path: path1
+      - enemyId: 2
+        time: 19.9
+        path: path1
+      - enemyId: 2
+        time: 13.589999
+        path: path1
+      - enemyId: 2
+        time: 19.9
+        path: path1
+      - enemyId: 2
+        time: 21.41
+        path: path1
+      - enemyId: 2
+        time: 27.15
+        path: path1
+      - enemyId: 2
+        time: 32.17
+        path: path1
+      - enemyId: 2
+        time: 26.46
+        path: path1
+      - enemyId: 2
+        time: 31.479998
+        path: path1
+      - enemyId: 5
+        time: 24.08
+        path: path1
+      - enemyId: 4
+        time: 39.64
+        path: path1
+      - enemyId: 5
+        time: 2.89
+        path: path2
+      - enemyId: 5
+        time: 4.05
+        path: path2
+      - enemyId: 5
+        time: 5.09
+        path: path2
+      - enemyId: 5
+        time: 6.08
+        path: path2
+      - enemyId: 5
+        time: 13.28
+        path: path2
+      - enemyId: 5
+        time: 14.27
+        path: path2
+      - enemyId: 5
+        time: 15.37
+        path: path2
+      - enemyId: 5
+        time: 16.42
+        path: path2
+      - enemyId: 5
+        time: 17.53
+        path: path2
+      - enemyId: 5
+        time: 23.51
+        path: path2
+      - enemyId: 5
+        time: 36.18
+        path: path2
+      - enemyId: 5
+        time: 35.1
+        path: path2
+      - enemyId: 5
+        time: 24.71
+        path: path2
+      - enemyId: 5
+        time: 37.38
+        path: path2
+      - enemyId: 2
+        time: 8.14
+        path: path2
+      - enemyId: 2
+        time: 10.22
+        path: path2
+      - enemyId: 2
+        time: 20.7
+        path: path2
+      - enemyId: 2
+        time: 27.68
+        path: path2
+      - enemyId: 2
+        time: 28.46
+        path: path2
+      - enemyId: 2
+        time: 29.369999
+        path: path2
+      - enemyId: 2
+        time: 33.189995
+        path: path2
+      - enemyId: 4
+        time: 11.98
+        path: path2
+      - enemyId: 4
+        time: 25.82
+        path: path2
+      - enemyId: 4
+        time: 39.07
+        path: path2
+      - enemyId: 2
+        time: 0.39
+        path: path3
+      - enemyId: 2
+        time: 1.3199999
+        path: path3
+      - enemyId: 2
+        time: 2.25
+        path: path3
+      - enemyId: 2
+        time: 12.78
+        path: path3
+      - enemyId: 2
+        time: 13.589999
+        path: path3
+      - enemyId: 2
+        time: 21.41
+        path: path3
+      - enemyId: 2
+        time: 31.449999
+        path: path3
+      - enemyId: 2
+        time: 32.229996
+        path: path3
+      - enemyId: 4
+        time: 38.42
+        path: path3
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 0
+        time: 0
+        path: path1
+      - enemyId: 0
+        time: 4.9599996
+        path: path1
+      - enemyId: 0
+        time: 15.87
+        path: path1
+      - enemyId: 0
+        time: 25.560001
+        path: path1
+      - enemyId: 0
+        time: 1.48
+        path: path1
+      - enemyId: 0
+        time: 6.4399996
+        path: path1
+      - enemyId: 0
+        time: 17.349998
+        path: path1
+      - enemyId: 0
+        time: 27.04
+        path: path1
+      - enemyId: 0
+        time: 30.39
+        path: path1
+      - enemyId: 0
+        time: 35.23
+        path: path1
+      - enemyId: 0
+        time: 45.12
+        path: path1
+      - enemyId: 0
+        time: 0.73
+        path: path2
+      - enemyId: 0
+        time: 5.6899996
+        path: path2
+      - enemyId: 0
+        time: 15.04
+        path: path2
+      - enemyId: 0
+        time: 27.77
+        path: path2
+      - enemyId: 0
+        time: 34.29
+        path: path2
+      - enemyId: 0
+        time: 40.77
+        path: path2
+      - enemyId: 0
+        time: 42.19
+        path: path2
+      - enemyId: 0
+        time: 29.5
+        path: path2
+      - enemyId: 0
+        time: 36.02
+        path: path2
+      - enemyId: 0
+        time: 41.49
+        path: path2
+      - enemyId: 0
+        time: 44.420002
+        path: path2
+      - enemyId: 0
+        time: 42.91
+        path: path2
+      - enemyId: 0
+        time: 45.84
+        path: path2
+      - enemyId: 0
+        time: 2.25
+        path: path3
+      - enemyId: 0
+        time: 7.2099996
+        path: path3
+      - enemyId: 0
+        time: 12.93
+        path: path3
+      - enemyId: 0
+        time: 19.35
+        path: path3
+      - enemyId: 0
+        time: 28.77
+        path: path3
+      - enemyId: 0
+        time: 35.29
+        path: path3
+      - enemyId: 0
+        time: 3.73
+        path: path3
+      - enemyId: 0
+        time: 8.69
+        path: path3
+      - enemyId: 0
+        time: 14.41
+        path: path3
+      - enemyId: 0
+        time: 43.7
+        path: path3
+      - enemyId: 2
+        time: 9.57
+        path: path4
+      - enemyId: 2
+        time: 11.65
+        path: path4
+      - enemyId: 2
+        time: 21.77
+        path: path4
+      - enemyId: 2
+        time: 31.88
+        path: path4
+      - enemyId: 2
+        time: 38.9
+        path: path4
+      - enemyId: 2
+        time: 23.84
+        path: path4
+      - enemyId: 2
+        time: 21.44
+        path: path5
+      - enemyId: 2
+        time: 31.55
+        path: path5
+      - enemyId: 2
+        time: 38.289997
+        path: path5
+      - enemyId: 2
+        time: 39.51
+        path: path5
+      - enemyId: 2
+        time: 11.04
+        path: path6
+      - enemyId: 2
+        time: 21.160002
+        path: path6
+      - enemyId: 2
+        time: 31.27
+        path: path6
+      - enemyId: 2
+        time: 38.89
+        path: path6
+      - enemyId: 2
+        time: 23.63
+        path: path6
+      - enemyId: 2
+        time: 33.739998
+        path: path6
+      - enemyId: 2
+        time: 10.26
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 2
+        time: 4.4800034
+        path: path1
+      - enemyId: 2
+        time: 6.1900063
+        path: path1
+      - enemyId: 4
+        time: 4.9900017
+        path: path1
+      - enemyId: 4
+        time: 12.27
+        path: path1
+      - enemyId: 4
+        time: 31.48
+        path: path1
+      - enemyId: 4
+        time: 32.45
+        path: path1
+      - enemyId: 4
+        time: 5.510002
+        path: path1
+      - enemyId: 2
+        time: 13.810001
+        path: path1
+      - enemyId: 2
+        time: 24.259998
+        path: path1
+      - enemyId: 2
+        time: 16.25
+        path: path1
+      - enemyId: 2
+        time: 25.2
+        path: path1
+      - enemyId: 2
+        time: 37.210003
+        path: path1
+      - enemyId: 2
+        time: 38.09
+        path: path1
+      - enemyId: 2
+        time: 41.49
+        path: path1
+      - enemyId: 2
+        time: 43.44
+        path: path1
+      - enemyId: 2
+        time: 45.540005
+        path: path1
+      - enemyId: 2
+        time: 3.920002
+        path: path2
+      - enemyId: 2
+        time: 5.630005
+        path: path2
+      - enemyId: 2
+        time: 13.030003
+        path: path2
+      - enemyId: 2
+        time: 15.470001
+        path: path2
+      - enemyId: 2
+        time: 14.500004
+        path: path2
+      - enemyId: 2
+        time: 16.940002
+        path: path2
+      - enemyId: 2
+        time: 22.929996
+        path: path2
+      - enemyId: 2
+        time: 33.63
+        path: path2
+      - enemyId: 2
+        time: 34.52
+        path: path2
+      - enemyId: 2
+        time: 35.49
+        path: path2
+      - enemyId: 2
+        time: 36.99
+        path: path2
+      - enemyId: 2
+        time: 37.850002
+        path: path2
+      - enemyId: 2
+        time: 38.8
+        path: path2
+      - enemyId: 2
+        time: 39.19
+        path: path2
+      - enemyId: 2
+        time: 40.850002
+        path: path2
+      - enemyId: 2
+        time: 42.8
+        path: path2
+      - enemyId: 2
+        time: 44.900005
+        path: path2
+      - enemyId: 4
+        time: 11.660004
+        path: path2
+      - enemyId: 2
+        time: 4.540001
+        path: path3
+      - enemyId: 2
+        time: 6.250004
+        path: path3
+      - enemyId: 4
+        time: 4.9900017
+        path: path3
+      - enemyId: 4
+        time: 12.27
+        path: path3
+      - enemyId: 4
+        time: 31.48
+        path: path3
+      - enemyId: 4
+        time: 32.45
+        path: path3
+      - enemyId: 4
+        time: 5.510002
+        path: path3
+      - enemyId: 2
+        time: 13.810001
+        path: path3
+      - enemyId: 2
+        time: 16.25
+        path: path3
+      - enemyId: 2
+        time: 22.710003
+        path: path3
+      - enemyId: 2
+        time: 25.530003
+        path: path3
+      - enemyId: 2
+        time: 41.44
+        path: path3
+      - enemyId: 2
+        time: 43.389996
+        path: path3
+      - enemyId: 2
+        time: 45.49
+        path: path3
+      - enemyId: 3
+        time: 7.2800026
+        path: path4
+      - enemyId: 3
+        time: 17.98
+        path: path4
+      - enemyId: 3
+        time: 10.350002
+        path: path4
+      - enemyId: 3
+        time: 21.05
+        path: path4
+      - enemyId: 3
+        time: 19.560001
+        path: path4
+      - enemyId: 3
+        time: 20.209995
+        path: path4
+      - enemyId: 3
+        time: 27.24001
+        path: path4
+      - enemyId: 3
+        time: 51.63
+        path: path4
+      - enemyId: 2
+        time: 1.2600021
+        path: path5
+      - enemyId: 2
+        time: 1.8200035
+        path: path5
+      - enemyId: 2
+        time: 2.3900032
+        path: path5
+      - enemyId: 3
+        time: 8.860001
+        path: path5
+      - enemyId: 3
+        time: 9.510002
+        path: path5
+      - enemyId: 3
+        time: 18.920002
+        path: path5
+      - enemyId: 3
+        time: 28.180012
+        path: path5
+      - enemyId: 3
+        time: 47.35001
+        path: path5
+      - enemyId: 3
+        time: 50.99
+        path: path5
+      - enemyId: 3
+        time: 29.470005
+        path: path5
+      - enemyId: 3
+        time: 48.640003
+        path: path5
+      - enemyId: 3
+        time: 52.279995
+        path: path5
+      - enemyId: 3
+        time: 30.310009
+        path: path5
+      - enemyId: 3
+        time: 49.480007
+        path: path5
+      - enemyId: 3
+        time: 53.12
+        path: path5
+      - enemyId: 2
+        time: 0.84000015
+        path: path6
+      - enemyId: 3
+        time: 8.220001
+        path: path6
+      - enemyId: 3
+        time: 28.820011
+        path: path6
+      - enemyId: 3
+        time: 47.99001
+        path: path6
+      fight_buttton: fight_button1
+    InitialCoin: 400
+    bgm: bgm_desert
+  - levelId: 3
+    name: "\u5173\u53614"
+    description: 
+    sceneName: Level4
+    enemyWaves:
+    - enemies:
+      - enemyId: 4
+        time: 14.96
+        path: path1
+      - enemyId: 2
+        time: 25.68
+        path: path1
+      - enemyId: 2
+        time: 30.75
+        path: path1
+      - enemyId: 2
+        time: 29.19
+        path: path1
+      - enemyId: 0
+        time: 0
+        path: path2
+      - enemyId: 0
+        time: 4.097
+        path: path2
+      - enemyId: 0
+        time: 8.63
+        path: path2
+      - enemyId: 0
+        time: 19.01
+        path: path2
+      - enemyId: 0
+        time: 0.904
+        path: path2
+      - enemyId: 0
+        time: 1.823
+        path: path2
+      - enemyId: 0
+        time: 5.92
+        path: path2
+      - enemyId: 0
+        time: 10.453
+        path: path2
+      - enemyId: 0
+        time: 20.833
+        path: path2
+      - enemyId: 4
+        time: 12.05
+        path: path2
+      - enemyId: 4
+        time: 23.06
+        path: path2
+      - enemyId: 2
+        time: 24.580002
+        path: path2
+      - enemyId: 2
+        time: 26.800001
+        path: path2
+      - enemyId: 0
+        time: 5.0010004
+        path: path3
+      - enemyId: 0
+        time: 9.534
+        path: path3
+      - enemyId: 0
+        time: 19.914001
+        path: path3
+      - enemyId: 4
+        time: 16.06
+        path: path3
+      - enemyId: 2
+        time: 25.68
+        path: path3
+      - enemyId: 2
+        time: 31.35
+        path: path3
+      - enemyId: 2
+        time: 29.75
+        path: path3
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 2
+        time: 2.94
+        path: path1
+      - enemyId: 2
+        time: 5.54
+        path: path1
+      - enemyId: 2
+        time: 12.24
+        path: path1
+      - enemyId: 2
+        time: 21.29
+        path: path1
+      - enemyId: 2
+        time: 23.57
+        path: path1
+      - enemyId: 2
+        time: 25.39
+        path: path1
+      - enemyId: 4
+        time: 17.33
+        path: path1
+      - enemyId: 2
+        time: 3.61
+        path: path2
+      - enemyId: 2
+        time: 4.18
+        path: path2
+      - enemyId: 2
+        time: 4.82
+        path: path2
+      - enemyId: 2
+        time: 10.72
+        path: path2
+      - enemyId: 2
+        time: 11.44
+        path: path2
+      - enemyId: 2
+        time: 12.96
+        path: path2
+      - enemyId: 2
+        time: 13.706
+        path: path2
+      - enemyId: 4
+        time: 8.08
+        path: path2
+      - enemyId: 4
+        time: 16.5
+        path: path2
+      - enemyId: 4
+        time: 28.99
+        path: path2
+      - enemyId: 1
+        time: 0
+        path: path2
+      - enemyId: 1
+        time: 20.2
+        path: path2
+      - enemyId: 2
+        time: 23.98
+        path: path2
+      - enemyId: 2
+        time: 26.11
+        path: path2
+      - enemyId: 2
+        time: 27.65
+        path: path2
+      - enemyId: 2
+        time: 21.29
+        path: path3
+      - enemyId: 2
+        time: 26.94
+        path: path3
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 3
+        time: 2.211
+        path: path1
+      - enemyId: 3
+        time: 3.45
+        path: path1
+      - enemyId: 0
+        time: 6.57
+        path: path1
+      - enemyId: 0
+        time: 10.71
+        path: path1
+      - enemyId: 0
+        time: 11.77
+        path: path1
+      - enemyId: 0
+        time: 13.85
+        path: path1
+      - enemyId: 0
+        time: 18.12
+        path: path1
+      - enemyId: 0
+        time: 20.13
+        path: path1
+      - enemyId: 0
+        time: 28.65
+        path: path1
+      - enemyId: 0
+        time: 31.62
+        path: path1
+      - enemyId: 0
+        time: 39.52
+        path: path1
+      - enemyId: 1
+        time: 16.49
+        path: path1
+      - enemyId: 3
+        time: 22.39
+        path: path1
+      - enemyId: 3
+        time: 42.82
+        path: path1
+      - enemyId: 3
+        time: 0
+        path: path2
+      - enemyId: 1
+        time: 1.074
+        path: path2
+      - enemyId: 0
+        time: 7.51
+        path: path2
+      - enemyId: 0
+        time: 8.67
+        path: path2
+      - enemyId: 0
+        time: 12.83
+        path: path2
+      - enemyId: 3
+        time: 21.22
+        path: path2
+      - enemyId: 1
+        time: 38.01
+        path: path2
+      - enemyId: 0
+        time: 41.17
+        path: path2
+      - enemyId: 3
+        time: 47.079998
+        path: path2
+      - enemyId: 3
+        time: 48.19
+        path: path2
+      - enemyId: 3
+        time: 2.211
+        path: path3
+      - enemyId: 3
+        time: 3.45
+        path: path3
+      - enemyId: 3
+        time: 23.44
+        path: path3
+      - enemyId: 3
+        time: 33.63
+        path: path3
+      - enemyId: 3
+        time: 24.51
+        path: path3
+      - enemyId: 3
+        time: 34.7
+        path: path3
+      - enemyId: 3
+        time: 35.99
+        path: path3
+      - enemyId: 1
+        time: 26.7
+        path: path3
+      - enemyId: 3
+        time: 43.85
+        path: path3
+      - enemyId: 3
+        time: 47.69
+        path: path3
+      - enemyId: 3
+        time: 44.96
+        path: path3
+      - enemyId: 3
+        time: 48.8
+        path: path3
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 2
+        time: 6.16
+        path: path1
+      - enemyId: 2
+        time: 7.25
+        path: path1
+      - enemyId: 5
+        time: 11.14
+        path: path1
+      - enemyId: 5
+        time: 12.98
+        path: path1
+      - enemyId: 2
+        time: 23.83
+        path: path1
+      - enemyId: 2
+        time: 24.8
+        path: path1
+      - enemyId: 2
+        time: 28.03
+        path: path1
+      - enemyId: 5
+        time: 29.63
+        path: path1
+      - enemyId: 5
+        time: 35.39
+        path: path1
+      - enemyId: 5
+        time: 36.45
+        path: path1
+      - enemyId: 5
+        time: 37.58
+        path: path1
+      - enemyId: 5
+        time: 38.81
+        path: path1
+      - enemyId: 5
+        time: 0
+        path: path2
+      - enemyId: 5
+        time: 1.659
+        path: path2
+      - enemyId: 5
+        time: 3.159
+        path: path2
+      - enemyId: 5
+        time: 20.24
+        path: path2
+      - enemyId: 5
+        time: 21.34
+        path: path2
+      - enemyId: 5
+        time: 22.6
+        path: path2
+      - enemyId: 5
+        time: 30.85
+        path: path2
+      - enemyId: 2
+        time: 0.763
+        path: path2
+      - enemyId: 2
+        time: 2.369
+        path: path2
+      - enemyId: 2
+        time: 3.948
+        path: path2
+      - enemyId: 2
+        time: 14.11
+        path: path2
+      - enemyId: 2
+        time: 14.99
+        path: path2
+      - enemyId: 2
+        time: 15.87
+        path: path2
+      - enemyId: 2
+        time: 16.8
+        path: path2
+      - enemyId: 2
+        time: 17.73
+        path: path2
+      - enemyId: 2
+        time: 8.15
+        path: path3
+      - enemyId: 2
+        time: 9.24
+        path: path3
+      - enemyId: 5
+        time: 12.05
+        path: path3
+      - enemyId: 2
+        time: 25.97
+        path: path3
+      - enemyId: 2
+        time: 26.939999
+        path: path3
+      - enemyId: 5
+        time: 32.17
+        path: path3
+      - enemyId: 5
+        time: 33.35
+        path: path3
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 2
+        time: 4.33
+        path: path1
+      - enemyId: 2
+        time: 7.16
+        path: path1
+      - enemyId: 2
+        time: 14.179999
+        path: path1
+      - enemyId: 2
+        time: 7.8
+        path: path1
+      - enemyId: 2
+        time: 14.82
+        path: path1
+      - enemyId: 2
+        time: 28.35
+        path: path1
+      - enemyId: 2
+        time: 29.77
+        path: path1
+      - enemyId: 2
+        time: 31.21
+        path: path1
+      - enemyId: 2
+        time: 32.86
+        path: path1
+      - enemyId: 5
+        time: 10.4
+        path: path1
+      - enemyId: 4
+        time: 10.697999
+        path: path1
+      - enemyId: 5
+        time: 0
+        path: path2
+      - enemyId: 5
+        time: 1.284
+        path: path2
+      - enemyId: 5
+        time: 2.673
+        path: path2
+      - enemyId: 5
+        time: 9.27
+        path: path2
+      - enemyId: 5
+        time: 14.39
+        path: path2
+      - enemyId: 5
+        time: 24.29
+        path: path2
+      - enemyId: 4
+        time: 0.298
+        path: path2
+      - enemyId: 4
+        time: 1.582
+        path: path2
+      - enemyId: 4
+        time: 2.971
+        path: path2
+      - enemyId: 4
+        time: 9.568
+        path: path2
+      - enemyId: 4
+        time: 14.688
+        path: path2
+      - enemyId: 2
+        time: 13.42
+        path: path2
+      - enemyId: 2
+        time: 19.53
+        path: path2
+      - enemyId: 2
+        time: 22.04
+        path: path2
+      - enemyId: 2
+        time: 27.25
+        path: path2
+      - enemyId: 2
+        time: 5.2
+        path: path3
+      - enemyId: 2
+        time: 5.82
+        path: path3
+      - enemyId: 2
+        time: 6.47
+        path: path3
+      - enemyId: 2
+        time: 15.85
+        path: path3
+      - enemyId: 2
+        time: 23.68
+        path: path3
+      - enemyId: 2
+        time: 24.87
+        path: path3
+      - enemyId: 2
+        time: 26.17
+        path: path3
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 0
+        time: 0.844
+        path: path1
+      - enemyId: 0
+        time: 12.8
+        path: path1
+      - enemyId: 0
+        time: 19.81
+        path: path1
+      - enemyId: 0
+        time: 22.1
+        path: path1
+      - enemyId: 0
+        time: 3.28
+        path: path1
+      - enemyId: 2
+        time: 7.04
+        path: path1
+      - enemyId: 2
+        time: 10.84
+        path: path1
+      - enemyId: 2
+        time: 12.190001
+        path: path1
+      - enemyId: 2
+        time: 24.079998
+        path: path1
+      - enemyId: 2
+        time: 29.42
+        path: path1
+      - enemyId: 2
+        time: 8.26
+        path: path1
+      - enemyId: 0
+        time: 0
+        path: path2
+      - enemyId: 0
+        time: 13.370001
+        path: path2
+      - enemyId: 0
+        time: 20.5
+        path: path2
+      - enemyId: 0
+        time: 32.6
+        path: path2
+      - enemyId: 0
+        time: 33.39
+        path: path2
+      - enemyId: 0
+        time: 34.27
+        path: path2
+      - enemyId: 0
+        time: 35.12
+        path: path2
+      - enemyId: 0
+        time: 36.08
+        path: path2
+      - enemyId: 0
+        time: 37.04
+        path: path2
+      - enemyId: 0
+        time: 4.2
+        path: path2
+      - enemyId: 2
+        time: 6.07
+        path: path2
+      - enemyId: 2
+        time: 11.030001
+        path: path2
+      - enemyId: 2
+        time: 23.5
+        path: path2
+      - enemyId: 2
+        time: 24.56
+        path: path2
+      - enemyId: 2
+        time: 25.229998
+        path: path2
+      - enemyId: 2
+        time: 25.92
+        path: path2
+      - enemyId: 2
+        time: 27.029999
+        path: path2
+      - enemyId: 2
+        time: 27.769999
+        path: path2
+      - enemyId: 2
+        time: 28.88
+        path: path2
+      - enemyId: 2
+        time: 29.8
+        path: path2
+      - enemyId: 2
+        time: 30.8
+        path: path2
+      - enemyId: 1
+        time: 9.98
+        path: path2
+      - enemyId: 1
+        time: 14.65
+        path: path2
+      - enemyId: 1
+        time: 18.61
+        path: path2
+      - enemyId: 0
+        time: 1.937
+        path: path3
+      - enemyId: 0
+        time: 13.893001
+        path: path3
+      - enemyId: 0
+        time: 21.19
+        path: path3
+      - enemyId: 2
+        time: 7.52
+        path: path3
+      - enemyId: 2
+        time: 11.32
+        path: path3
+      - enemyId: 2
+        time: 12.67
+        path: path3
+      - enemyId: 2
+        time: 24.069998
+        path: path3
+      - enemyId: 2
+        time: 26.449999
+        path: path3
+      - enemyId: 2
+        time: 28.369999
+        path: path3
+      - enemyId: 2
+        time: 30.26
+        path: path3
+      - enemyId: 2
+        time: 8.74
+        path: path3
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 2
+        time: 2.244
+        path: path1
+      - enemyId: 2
+        time: 2.874
+        path: path1
+      - enemyId: 2
+        time: 6.34
+        path: path1
+      - enemyId: 2
+        time: 7.59
+        path: path1
+      - enemyId: 2
+        time: 17.06
+        path: path1
+      - enemyId: 2
+        time: 18.9
+        path: path1
+      - enemyId: 2
+        time: 23.53
+        path: path1
+      - enemyId: 2
+        time: 25.56
+        path: path1
+      - enemyId: 2
+        time: 26.58
+        path: path1
+      - enemyId: 2
+        time: 27.71
+        path: path1
+      - enemyId: 2
+        time: 29.96
+        path: path1
+      - enemyId: 2
+        time: 38.48
+        path: path1
+      - enemyId: 2
+        time: 40.94
+        path: path1
+      - enemyId: 2
+        time: 12.2
+        path: path1
+      - enemyId: 2
+        time: 6.9100003
+        path: path1
+      - enemyId: 2
+        time: 16.38
+        path: path1
+      - enemyId: 2
+        time: 18.22
+        path: path1
+      - enemyId: 9
+        time: 0
+        path: path2
+      - enemyId: 2
+        time: 1.009
+        path: path2
+      - enemyId: 2
+        time: 1.639
+        path: path2
+      - enemyId: 2
+        time: 4.54
+        path: path2
+      - enemyId: 2
+        time: 8.3
+        path: path2
+      - enemyId: 2
+        time: 11.21
+        path: path2
+      - enemyId: 2
+        time: 13.1
+        path: path2
+      - enemyId: 2
+        time: 5.79
+        path: path2
+      - enemyId: 2
+        time: 9.55
+        path: path2
+      - enemyId: 2
+        time: 12.46
+        path: path2
+      - enemyId: 2
+        time: 14.35
+        path: path2
+      - enemyId: 2
+        time: 17.65
+        path: path2
+      - enemyId: 2
+        time: 19.51
+        path: path2
+      - enemyId: 2
+        time: 22.48
+        path: path2
+      - enemyId: 2
+        time: 32.13
+        path: path2
+      - enemyId: 2
+        time: 33.32
+        path: path2
+      - enemyId: 2
+        time: 35.39
+        path: path2
+      - enemyId: 2
+        time: 40.41
+        path: path2
+      - enemyId: 2
+        time: 41.54
+        path: path2
+      - enemyId: 2
+        time: 5.11
+        path: path2
+      - enemyId: 2
+        time: 8.870001
+        path: path2
+      - enemyId: 2
+        time: 11.780001
+        path: path2
+      - enemyId: 2
+        time: 13.670001
+        path: path2
+      - enemyId: 2
+        time: 3.367
+        path: path3
+      - enemyId: 2
+        time: 6.34
+        path: path3
+      - enemyId: 2
+        time: 7.59
+        path: path3
+      - enemyId: 2
+        time: 14.04
+        path: path3
+      - enemyId: 2
+        time: 24.53
+        path: path3
+      - enemyId: 2
+        time: 30.62
+        path: path3
+      - enemyId: 2
+        time: 31.44
+        path: path3
+      - enemyId: 2
+        time: 36.09
+        path: path3
+      - enemyId: 2
+        time: 32.63
+        path: path3
+      - enemyId: 2
+        time: 36.94
+        path: path3
+      - enemyId: 2
+        time: 39.18
+        path: path3
+      - enemyId: 2
+        time: 37.73
+        path: path3
+      - enemyId: 2
+        time: 39.97
+        path: path3
+      - enemyId: 2
+        time: 6.9100003
+        path: path3
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 4
+        time: 21.01
+        path: path1
+      - enemyId: 4
+        time: 0.654
+        path: path1
+      - enemyId: 3
+        time: 4.93
+        path: path1
+      - enemyId: 3
+        time: 15.2
+        path: path1
+      - enemyId: 3
+        time: 18.23
+        path: path1
+      - enemyId: 3
+        time: 33.96
+        path: path1
+      - enemyId: 3
+        time: 5.7599998
+        path: path1
+      - enemyId: 3
+        time: 16.029999
+        path: path1
+      - enemyId: 3
+        time: 19.06
+        path: path1
+      - enemyId: 3
+        time: 34.79
+        path: path1
+      - enemyId: 3
+        time: 31.54
+        path: path1
+      - enemyId: 2
+        time: 8.11
+        path: path1
+      - enemyId: 2
+        time: 27.89
+        path: path1
+      - enemyId: 1
+        time: 0
+        path: path2
+      - enemyId: 9
+        time: 3
+        path: path2
+      - enemyId: 3
+        time: 4.46
+        path: path2
+      - enemyId: 3
+        time: 14.73
+        path: path2
+      - enemyId: 3
+        time: 17.76
+        path: path2
+      - enemyId: 3
+        time: 5.25
+        path: path2
+      - enemyId: 3
+        time: 15.5199995
+        path: path2
+      - enemyId: 3
+        time: 18.55
+        path: path2
+      - enemyId: 3
+        time: 6.07
+        path: path2
+      - enemyId: 3
+        time: 16.34
+        path: path2
+      - enemyId: 3
+        time: 19.37
+        path: path2
+      - enemyId: 3
+        time: 36.55
+        path: path2
+      - enemyId: 2
+        time: 6.99
+        path: path2
+      - enemyId: 2
+        time: 26.029999
+        path: path2
+      - enemyId: 2
+        time: 28.199999
+        path: path2
+      - enemyId: 2
+        time: 8.56
+        path: path2
+      - enemyId: 2
+        time: 9.89
+        path: path2
+      - enemyId: 2
+        time: 24.53
+        path: path2
+      - enemyId: 2
+        time: 26.73
+        path: path2
+      - enemyId: 2
+        time: 28.9
+        path: path2
+      - enemyId: 2
+        time: 7.63
+        path: path2
+      - enemyId: 2
+        time: 9.200001
+        path: path2
+      - enemyId: 2
+        time: 25.26
+        path: path2
+      - enemyId: 2
+        time: 27.46
+        path: path2
+      - enemyId: 4
+        time: 1.23
+        path: path3
+      - enemyId: 3
+        time: 3.72
+        path: path3
+      - enemyId: 3
+        time: 13.99
+        path: path3
+      - enemyId: 3
+        time: 17.02
+        path: path3
+      - enemyId: 3
+        time: 32.78
+        path: path3
+      - enemyId: 3
+        time: 35.85
+        path: path3
+      - enemyId: 2
+        time: 10.530001
+        path: path3
+      - enemyId: 2
+        time: 11.17
+        path: path3
+      - enemyId: 4
+        time: 23.05
+        path: path3
+      - enemyId: 2
+        time: 25.6
+        path: path3
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 4
+        time: 0
+        path: path1
+      - enemyId: 4
+        time: 17.314999
+        path: path1
+      - enemyId: 4
+        time: 0.645
+        path: path1
+      - enemyId: 4
+        time: 17.96
+        path: path1
+      - enemyId: 3
+        time: 5.41
+        path: path1
+      - enemyId: 3
+        time: 7.13
+        path: path1
+      - enemyId: 0
+        time: 11.74
+        path: path1
+      - enemyId: 0
+        time: 28.770002
+        path: path1
+      - enemyId: 3
+        time: 20.99
+        path: path1
+      - enemyId: 3
+        time: 24.75
+        path: path1
+      - enemyId: 0
+        time: 1.45
+        path: path2
+      - enemyId: 0
+        time: 10.999999
+        path: path2
+      - enemyId: 0
+        time: 28.03
+        path: path2
+      - enemyId: 0
+        time: 2.19
+        path: path2
+      - enemyId: 0
+        time: 2.93
+        path: path2
+      - enemyId: 0
+        time: 12.48
+        path: path2
+      - enemyId: 0
+        time: 29.510002
+        path: path2
+      - enemyId: 0
+        time: 3.73
+        path: path2
+      - enemyId: 0
+        time: 13.28
+        path: path2
+      - enemyId: 0
+        time: 30.310001
+        path: path2
+      - enemyId: 0
+        time: 14.95
+        path: path2
+      - enemyId: 0
+        time: 31.980003
+        path: path2
+      - enemyId: 3
+        time: 20.11
+        path: path2
+      - enemyId: 3
+        time: 23.84
+        path: path2
+      - enemyId: 3
+        time: 25.78
+        path: path2
+      - enemyId: 3
+        time: 21.9
+        path: path2
+      - enemyId: 3
+        time: 26.69
+        path: path2
+      - enemyId: 4
+        time: 0
+        path: path3
+      - enemyId: 4
+        time: 17.314999
+        path: path3
+      - enemyId: 4
+        time: 0.645
+        path: path3
+      - enemyId: 4
+        time: 17.96
+        path: path3
+      - enemyId: 3
+        time: 6.35
+        path: path3
+      - enemyId: 3
+        time: 8.04
+        path: path3
+      - enemyId: 3
+        time: 9.55
+        path: path3
+      - enemyId: 0
+        time: 14.15
+        path: path3
+      - enemyId: 0
+        time: 31.180002
+        path: path3
+      - enemyId: 3
+        time: 22.960001
+        path: path3
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 2
+        time: 0.98
+        path: path1
+      - enemyId: 2
+        time: 7.7000003
+        path: path1
+      - enemyId: 2
+        time: 1.72
+        path: path1
+      - enemyId: 2
+        time: 8.440001
+        path: path1
+      - enemyId: 2
+        time: 2.46
+        path: path1
+      - enemyId: 2
+        time: 9.18
+        path: path1
+      - enemyId: 2
+        time: 3.25
+        path: path1
+      - enemyId: 2
+        time: 9.97
+        path: path1
+      - enemyId: 2
+        time: 3.99
+        path: path1
+      - enemyId: 2
+        time: 10.71
+        path: path1
+      - enemyId: 4
+        time: 19.35
+        path: path1
+      - enemyId: 4
+        time: 20.1
+        path: path1
+      - enemyId: 9
+        time: 0
+        path: path2
+      - enemyId: 1
+        time: 2.87
+        path: path2
+      - enemyId: 1
+        time: 20.88
+        path: path2
+      - enemyId: 5
+        time: 12.81
+        path: path2
+      - enemyId: 5
+        time: 14.45
+        path: path2
+      - enemyId: 5
+        time: 16.150002
+        path: path2
+      - enemyId: 5
+        time: 22.72
+        path: path2
+      - enemyId: 5
+        time: 27.83
+        path: path2
+      - enemyId: 5
+        time: 24.45
+        path: path2
+      - enemyId: 5
+        time: 29.560001
+        path: path2
+      - enemyId: 5
+        time: 31.74
+        path: path2
+      - enemyId: 5
+        time: 33.39
+        path: path2
+      - enemyId: 4
+        time: 13.27
+        path: path2
+      - enemyId: 4
+        time: 14.91
+        path: path2
+      - enemyId: 4
+        time: 16.61
+        path: path2
+      - enemyId: 4
+        time: 23.179998
+        path: path2
+      - enemyId: 4
+        time: 28.289999
+        path: path2
+      - enemyId: 4
+        time: 24.91
+        path: path2
+      - enemyId: 4
+        time: 30.02
+        path: path2
+      - enemyId: 2
+        time: 0.98
+        path: path3
+      - enemyId: 2
+        time: 7.7000003
+        path: path3
+      - enemyId: 2
+        time: 1.72
+        path: path3
+      - enemyId: 2
+        time: 8.440001
+        path: path3
+      - enemyId: 2
+        time: 2.46
+        path: path3
+      - enemyId: 2
+        time: 9.18
+        path: path3
+      - enemyId: 2
+        time: 3.25
+        path: path3
+      - enemyId: 2
+        time: 9.97
+        path: path3
+      - enemyId: 2
+        time: 3.99
+        path: path3
+      - enemyId: 2
+        time: 10.71
+        path: path3
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 4
+        time: 2.6
+        path: path1
+      - enemyId: 4
+        time: 10.06
+        path: path1
+      - enemyId: 2
+        time: 5.2
+        path: path1
+      - enemyId: 2
+        time: 14.17
+        path: path1
+      - enemyId: 2
+        time: 31.550001
+        path: path1
+      - enemyId: 2
+        time: 16.14
+        path: path1
+      - enemyId: 2
+        time: 33.52
+        path: path1
+      - enemyId: 9
+        time: 0
+        path: path2
+      - enemyId: 9
+        time: 24.74
+        path: path2
+      - enemyId: 9
+        time: 30.27
+        path: path2
+      - enemyId: 4
+        time: 1.37
+        path: path2
+      - enemyId: 4
+        time: 9.07
+        path: path2
+      - enemyId: 4
+        time: 26.66
+        path: path2
+      - enemyId: 4
+        time: 19.71
+        path: path2
+      - enemyId: 4
+        time: 36.15
+        path: path2
+      - enemyId: 4
+        time: 39.15
+        path: path2
+      - enemyId: 4
+        time: 21.2
+        path: path2
+      - enemyId: 4
+        time: 37.640003
+        path: path2
+      - enemyId: 4
+        time: 40.640003
+        path: path2
+      - enemyId: 4
+        time: 42.27
+        path: path2
+      - enemyId: 2
+        time: 4.46
+        path: path2
+      - enemyId: 2
+        time: 7.23
+        path: path2
+      - enemyId: 2
+        time: 16.81
+        path: path2
+      - enemyId: 2
+        time: 34.190002
+        path: path2
+      - enemyId: 2
+        time: 5.91
+        path: path2
+      - enemyId: 2
+        time: 14.88
+        path: path2
+      - enemyId: 2
+        time: 32.260002
+        path: path2
+      - enemyId: 5
+        time: 19.38
+        path: path2
+      - enemyId: 5
+        time: 35.82
+        path: path2
+      - enemyId: 5
+        time: 38.82
+        path: path2
+      - enemyId: 5
+        time: 20.87
+        path: path2
+      - enemyId: 5
+        time: 37.310005
+        path: path2
+      - enemyId: 5
+        time: 40.310005
+        path: path2
+      - enemyId: 5
+        time: 41.940002
+        path: path2
+      - enemyId: 2
+        time: 6.6
+        path: path3
+      - enemyId: 2
+        time: 15.57
+        path: path3
+      - enemyId: 2
+        time: 32.95
+        path: path3
+      - enemyId: 4
+        time: 10.8
+        path: path3
+      - enemyId: 4
+        time: 25.77
+        path: path3
+      - enemyId: 4
+        time: 27.42
+        path: path3
+      fight_buttton: fight_button1
+    InitialCoin: 500
+    bgm: bgm_desert
+  - levelId: 4
+    name: "\u5173\u53615"
+    description: 
+    sceneName: Level5
+    enemyWaves:
+    - enemies:
+      - enemyId: 0
+        time: 0.891
+        path: path1
+      - enemyId: 0
+        time: 7.3109994
+        path: path1
+      - enemyId: 0
+        time: 15.82
+        path: path1
+      - enemyId: 0
+        time: 17.31
+        path: path1
+      - enemyId: 0
+        time: 19.48
+        path: path1
+      - enemyId: 0
+        time: 29.67
+        path: path1
+      - enemyId: 0
+        time: 30.41
+        path: path1
+      - enemyId: 0
+        time: 31.18
+        path: path1
+      - enemyId: 0
+        time: 31.99
+        path: path1
+      - enemyId: 0
+        time: 0
+        path: path2
+      - enemyId: 0
+        time: 1.57
+        path: path2
+      - enemyId: 0
+        time: 9.14
+        path: path2
+      - enemyId: 0
+        time: 18.35
+        path: path2
+      - enemyId: 0
+        time: 28.82
+        path: path2
+      - enemyId: 0
+        time: 8.02
+        path: path3
+      - enemyId: 0
+        time: 3.58
+        path: path4
+      - enemyId: 0
+        time: 11.62
+        path: path4
+      - enemyId: 0
+        time: 35.82
+        path: path4
+      - enemyId: 0
+        time: 2.83
+        path: path5
+      - enemyId: 0
+        time: 10.87
+        path: path5
+      - enemyId: 0
+        time: 4.37
+        path: path5
+      - enemyId: 0
+        time: 12.41
+        path: path5
+      - enemyId: 0
+        time: 22.45
+        path: path5
+      - enemyId: 0
+        time: 34.75
+        path: path5
+      - enemyId: 0
+        time: 23.52
+        path: path5
+      - enemyId: 0
+        time: 24.68
+        path: path5
+      - enemyId: 0
+        time: 36.98
+        path: path5
+      - enemyId: 0
+        time: 25.920002
+        path: path5
+      - enemyId: 0
+        time: 27.16
+        path: path5
+      - enemyId: 0
+        time: 39.46
+        path: path5
+      - enemyId: 0
+        time: 38.22
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 6
+        time: 2.628
+        path: path1
+      - enemyId: 6
+        time: 5.3
+        path: path1
+      - enemyId: 6
+        time: 11.36
+        path: path1
+      - enemyId: 6
+        time: 21.37
+        path: path1
+      - enemyId: 6
+        time: 26.369999
+        path: path1
+      - enemyId: 6
+        time: 5.99
+        path: path1
+      - enemyId: 6
+        time: 6.75
+        path: path1
+      - enemyId: 6
+        time: 0
+        path: path2
+      - enemyId: 6
+        time: 0.611
+        path: path2
+      - enemyId: 6
+        time: 1.214
+        path: path2
+      - enemyId: 6
+        time: 4
+        path: path2
+      - enemyId: 6
+        time: 10.63
+        path: path2
+      - enemyId: 6
+        time: 20.640001
+        path: path2
+      - enemyId: 6
+        time: 25.64
+        path: path2
+      - enemyId: 6
+        time: 1.921
+        path: path2
+      - enemyId: 6
+        time: 4.707
+        path: path2
+      - enemyId: 6
+        time: 12.049999
+        path: path2
+      - enemyId: 6
+        time: 22.060001
+        path: path2
+      - enemyId: 6
+        time: 27.06
+        path: path2
+      - enemyId: 6
+        time: 12.809999
+        path: path3
+      - enemyId: 6
+        time: 22.82
+        path: path3
+      - enemyId: 6
+        time: 27.819996
+        path: path3
+      - enemyId: 6
+        time: 13.81
+        path: path3
+      - enemyId: 6
+        time: 23.820002
+        path: path3
+      - enemyId: 6
+        time: 28.82
+        path: path3
+      - enemyId: 6
+        time: 16.19
+        path: path4
+      - enemyId: 6
+        time: 25.170002
+        path: path4
+      - enemyId: 6
+        time: 31.78
+        path: path4
+      - enemyId: 6
+        time: 18.97
+        path: path4
+      - enemyId: 6
+        time: 27.95
+        path: path4
+      - enemyId: 6
+        time: 34.559998
+        path: path4
+      - enemyId: 6
+        time: 1.58
+        path: path5
+      - enemyId: 6
+        time: 7.9400005
+        path: path5
+      - enemyId: 6
+        time: 15.32
+        path: path5
+      - enemyId: 6
+        time: 24.3
+        path: path5
+      - enemyId: 6
+        time: 30.909998
+        path: path5
+      - enemyId: 6
+        time: 16.8
+        path: path5
+      - enemyId: 6
+        time: 25.779999
+        path: path5
+      - enemyId: 6
+        time: 32.39
+        path: path5
+      - enemyId: 6
+        time: 18.28
+        path: path5
+      - enemyId: 6
+        time: 27.260002
+        path: path5
+      - enemyId: 6
+        time: 33.870003
+        path: path5
+      - enemyId: 6
+        time: 19.72
+        path: path5
+      - enemyId: 6
+        time: 28.7
+        path: path5
+      - enemyId: 6
+        time: 35.309998
+        path: path5
+      - enemyId: 6
+        time: 0.24
+        path: path6
+      - enemyId: 6
+        time: 6.6000004
+        path: path6
+      - enemyId: 6
+        time: 2.24
+        path: path6
+      - enemyId: 6
+        time: 8.6
+        path: path6
+      - enemyId: 6
+        time: 0.93
+        path: path6
+      - enemyId: 6
+        time: 7.290001
+        path: path6
+      - enemyId: 6
+        time: 2.93
+        path: path6
+      - enemyId: 6
+        time: 9.290001
+        path: path6
+      - enemyId: 6
+        time: 14.62
+        path: path6
+      - enemyId: 6
+        time: 23.6
+        path: path6
+      - enemyId: 6
+        time: 30.21
+        path: path6
+      - enemyId: 6
+        time: 17.58
+        path: path6
+      - enemyId: 6
+        time: 26.560001
+        path: path6
+      - enemyId: 6
+        time: 33.17
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 6
+        time: 1.07
+        path: path1
+      - enemyId: 6
+        time: 6.98
+        path: path1
+      - enemyId: 8
+        time: 21.31
+        path: path1
+      - enemyId: 8
+        time: 24.109999
+        path: path1
+      - enemyId: 8
+        time: 27.72
+        path: path1
+      - enemyId: 6
+        time: 32.63
+        path: path1
+      - enemyId: 6
+        time: 0
+        path: path2
+      - enemyId: 6
+        time: 2.16
+        path: path2
+      - enemyId: 6
+        time: 3.47
+        path: path2
+      - enemyId: 6
+        time: 5.76
+        path: path2
+      - enemyId: 6
+        time: 11.84
+        path: path2
+      - enemyId: 6
+        time: 31.2
+        path: path2
+      - enemyId: 6
+        time: 13.27
+        path: path2
+      - enemyId: 6
+        time: 14.87
+        path: path2
+      - enemyId: 6
+        time: 34.23
+        path: path2
+      - enemyId: 6
+        time: 16.1
+        path: path2
+      - enemyId: 6
+        time: 17.87
+        path: path2
+      - enemyId: 6
+        time: 37.23
+        path: path2
+      - enemyId: 8
+        time: 19.59
+        path: path2
+      - enemyId: 8
+        time: 22.39
+        path: path2
+      - enemyId: 8
+        time: 25.21
+        path: path2
+      - enemyId: 6
+        time: 4.7
+        path: path3
+      - enemyId: 8
+        time: 20.46
+        path: path3
+      - enemyId: 8
+        time: 23.259998
+        path: path3
+      - enemyId: 8
+        time: 26.32
+        path: path3
+      - enemyId: 6
+        time: 35.460003
+        path: path3
+      - enemyId: 6
+        time: 1.53
+        path: path4
+      - enemyId: 6
+        time: 6.91
+        path: path4
+      - enemyId: 8
+        time: 13.97
+        path: path4
+      - enemyId: 8
+        time: 34.960003
+        path: path4
+      - enemyId: 6
+        time: 22.02
+        path: path4
+      - enemyId: 6
+        time: 0.64
+        path: path5
+      - enemyId: 6
+        time: 2.49
+        path: path5
+      - enemyId: 6
+        time: 4.69
+        path: path5
+      - enemyId: 6
+        time: 5.74
+        path: path5
+      - enemyId: 6
+        time: 21.26
+        path: path5
+      - enemyId: 6
+        time: 24.27
+        path: path5
+      - enemyId: 6
+        time: 22.83
+        path: path5
+      - enemyId: 8
+        time: 11.15
+        path: path5
+      - enemyId: 8
+        time: 32.14
+        path: path5
+      - enemyId: 8
+        time: 15.28
+        path: path5
+      - enemyId: 8
+        time: 36.27
+        path: path5
+      - enemyId: 8
+        time: 12.6
+        path: path5
+      - enemyId: 8
+        time: 33.59
+        path: path5
+      - enemyId: 8
+        time: 16.73
+        path: path5
+      - enemyId: 6
+        time: 3.67
+        path: path6
+      - enemyId: 6
+        time: 23.55
+        path: path6
+      - enemyId: 8
+        time: 37.72
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 6
+        time: 0
+        path: path2
+      - enemyId: 6
+        time: 1.642
+        path: path2
+      - enemyId: 6
+        time: 8.432
+        path: path2
+      - enemyId: 6
+        time: 3.4659998
+        path: path2
+      - enemyId: 6
+        time: 10.2560005
+        path: path2
+      - enemyId: 6
+        time: 12.376
+        path: path2
+      - enemyId: 6
+        time: 14.65
+        path: path2
+      - enemyId: 6
+        time: 17.026001
+        path: path2
+      - enemyId: 4
+        time: 0.384
+        path: path2
+      - enemyId: 4
+        time: 2.026
+        path: path2
+      - enemyId: 4
+        time: 8.816
+        path: path2
+      - enemyId: 4
+        time: 3.85
+        path: path2
+      - enemyId: 4
+        time: 10.64
+        path: path2
+      - enemyId: 4
+        time: 12.76
+        path: path2
+      - enemyId: 4
+        time: 15.033999
+        path: path2
+      - enemyId: 4
+        time: 17.41
+        path: path2
+      - enemyId: 6
+        time: 18.71
+        path: path4
+      - enemyId: 1
+        time: 5.71
+        path: path5
+      - enemyId: 1
+        time: 7.23
+        path: path5
+      - enemyId: 6
+        time: 19.45
+        path: path5
+      - enemyId: 6
+        time: 20.35
+        path: path5
+      - enemyId: 6
+        time: 21.14
+        path: path5
+      - enemyId: 6
+        time: 21.92
+        path: path5
+      - enemyId: 6
+        time: 22.73
+        path: path5
+      - enemyId: 6
+        time: 23.55
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 9
+        time: 0
+        path: path2
+      - enemyId: 9
+        time: 2.67
+        path: path2
+      - enemyId: 9
+        time: 0.77
+        path: path5
+      - enemyId: 9
+        time: 4.09
+        path: path5
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 7
+        time: 1.403
+        path: path1
+      - enemyId: 7
+        time: 6.43
+        path: path1
+      - enemyId: 7
+        time: 11.6
+        path: path1
+      - enemyId: 7
+        time: 0
+        path: path2
+      - enemyId: 7
+        time: 5.597
+        path: path2
+      - enemyId: 7
+        time: 15.81
+        path: path2
+      - enemyId: 7
+        time: 18.95
+        path: path2
+      - enemyId: 7
+        time: 0.671
+        path: path3
+      - enemyId: 7
+        time: 6.268
+        path: path3
+      - enemyId: 7
+        time: 13.52
+        path: path3
+      - enemyId: 7
+        time: 4.1099997
+        path: path4
+      - enemyId: 7
+        time: 12.110001
+        path: path4
+      - enemyId: 7
+        time: 2.51
+        path: path5
+      - enemyId: 7
+        time: 17.42
+        path: path5
+      - enemyId: 7
+        time: 20.8
+        path: path5
+      - enemyId: 7
+        time: 3.27
+        path: path6
+      - enemyId: 7
+        time: 14.66
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 5
+        time: 0
+        path: path2
+      - enemyId: 5
+        time: 8.3
+        path: path2
+      - enemyId: 5
+        time: 1.686
+        path: path2
+      - enemyId: 5
+        time: 9.986
+        path: path2
+      - enemyId: 5
+        time: 13.406
+        path: path2
+      - enemyId: 5
+        time: 3.4174
+        path: path2
+      - enemyId: 5
+        time: 11.7174
+        path: path2
+      - enemyId: 5
+        time: 15.1374
+        path: path2
+      - enemyId: 4
+        time: 0.2826
+        path: path2
+      - enemyId: 4
+        time: 8.582601
+        path: path2
+      - enemyId: 4
+        time: 1.9686
+        path: path2
+      - enemyId: 4
+        time: 10.2686
+        path: path2
+      - enemyId: 4
+        time: 13.688601
+        path: path2
+      - enemyId: 4
+        time: 3.7
+        path: path2
+      - enemyId: 4
+        time: 12
+        path: path2
+      - enemyId: 4
+        time: 15.42
+        path: path2
+      - enemyId: 1
+        time: 12.66
+        path: path3
+      - enemyId: 1
+        time: 2.68
+        path: path4
+      - enemyId: 1
+        time: 10.82
+        path: path4
+      - enemyId: 1
+        time: 14.45
+        path: path4
+      - enemyId: 1
+        time: 18.02
+        path: path4
+      - enemyId: 6
+        time: 6.56
+        path: path4
+      - enemyId: 6
+        time: 7.25
+        path: path4
+      - enemyId: 1
+        time: 0.87
+        path: path5
+      - enemyId: 6
+        time: 4.65
+        path: path5
+      - enemyId: 6
+        time: 5.27
+        path: path5
+      - enemyId: 6
+        time: 5.91
+        path: path5
+      - enemyId: 1
+        time: 16.36
+        path: path5
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 6
+        time: 1.43
+        path: path1
+      - enemyId: 6
+        time: 19.48
+        path: path1
+      - enemyId: 6
+        time: 4.93
+        path: path1
+      - enemyId: 6
+        time: 8.43
+        path: path1
+      - enemyId: 6
+        time: 2.62
+        path: path1
+      - enemyId: 6
+        time: 19.93
+        path: path1
+      - enemyId: 6
+        time: 20.8
+        path: path1
+      - enemyId: 6
+        time: 6.12
+        path: path1
+      - enemyId: 6
+        time: 9.620001
+        path: path1
+      - enemyId: 9
+        time: 0
+        path: path2
+      - enemyId: 9
+        time: 18.05
+        path: path2
+      - enemyId: 6
+        time: 1.89
+        path: path3
+      - enemyId: 6
+        time: 19.939999
+        path: path3
+      - enemyId: 6
+        time: 5.39
+        path: path3
+      - enemyId: 6
+        time: 8.89
+        path: path3
+      - enemyId: 6
+        time: 3.08
+        path: path3
+      - enemyId: 6
+        time: 21.13
+        path: path3
+      - enemyId: 6
+        time: 20.39
+        path: path3
+      - enemyId: 6
+        time: 6.58
+        path: path3
+      - enemyId: 6
+        time: 10.08
+        path: path3
+      - enemyId: 6
+        time: 6
+        path: path4
+      - enemyId: 6
+        time: 21.73
+        path: path4
+      - enemyId: 6
+        time: 9.6
+        path: path4
+      - enemyId: 6
+        time: 13.330001
+        path: path4
+      - enemyId: 6
+        time: 7.46
+        path: path4
+      - enemyId: 6
+        time: 22.51
+        path: path4
+      - enemyId: 6
+        time: 22.9
+        path: path4
+      - enemyId: 6
+        time: 11.059999
+        path: path4
+      - enemyId: 6
+        time: 14.79
+        path: path4
+      - enemyId: 9
+        time: 4.2
+        path: path5
+      - enemyId: 9
+        time: 19.93
+        path: path5
+      - enemyId: 6
+        time: 6.78
+        path: path6
+      - enemyId: 6
+        time: 22.51
+        path: path6
+      - enemyId: 6
+        time: 10.38
+        path: path6
+      - enemyId: 6
+        time: 14.110001
+        path: path6
+      - enemyId: 6
+        time: 8.24
+        path: path6
+      - enemyId: 6
+        time: 23.08
+        path: path6
+      - enemyId: 6
+        time: 11.84
+        path: path6
+      - enemyId: 6
+        time: 15.570001
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 9
+        time: 3.2199984
+        path: path1
+      - enemyId: 6
+        time: 7.4800005
+        path: path1
+      - enemyId: 6
+        time: 9.9800005
+        path: path1
+      - enemyId: 6
+        time: 12.39
+        path: path1
+      - enemyId: 6
+        time: 14.69
+        path: path1
+      - enemyId: 6
+        time: 16.969997
+        path: path1
+      - enemyId: 9
+        time: 0.020001411
+        path: path2
+      - enemyId: 6
+        time: 6.62
+        path: path2
+      - enemyId: 6
+        time: 9.12
+        path: path2
+      - enemyId: 6
+        time: 11.53
+        path: path2
+      - enemyId: 6
+        time: 13.829999
+        path: path2
+      - enemyId: 6
+        time: 16.109997
+        path: path2
+      - enemyId: 6
+        time: 8.21
+        path: path3
+      - enemyId: 6
+        time: 10.71
+        path: path3
+      - enemyId: 6
+        time: 13.12
+        path: path3
+      - enemyId: 6
+        time: 15.419999
+        path: path3
+      - enemyId: 6
+        time: 17.699997
+        path: path3
+      - enemyId: 6
+        time: 6.62
+        path: path4
+      - enemyId: 6
+        time: 10.829999
+        path: path4
+      - enemyId: 6
+        time: 14.94
+        path: path4
+      - enemyId: 6
+        time: 9.46
+        path: path4
+      - enemyId: 6
+        time: 13.669999
+        path: path4
+      - enemyId: 6
+        time: 17.779999
+        path: path4
+      - enemyId: 6
+        time: 6.04
+        path: path5
+      - enemyId: 6
+        time: 10.249997
+        path: path5
+      - enemyId: 6
+        time: 14.359998
+        path: path5
+      - enemyId: 9
+        time: 1.8699999
+        path: path5
+      - enemyId: 9
+        time: 4.7599993
+        path: path5
+      - enemyId: 6
+        time: 8.03
+        path: path5
+      - enemyId: 6
+        time: 12.239999
+        path: path5
+      - enemyId: 6
+        time: 16.349998
+        path: path5
+      - enemyId: 6
+        time: 7.329999
+        path: path6
+      - enemyId: 6
+        time: 11.539998
+        path: path6
+      - enemyId: 6
+        time: 15.649999
+        path: path6
+      - enemyId: 6
+        time: 8.739999
+        path: path6
+      - enemyId: 6
+        time: 12.949998
+        path: path6
+      - enemyId: 6
+        time: 17.059998
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 4
+        time: 0.84
+        path: path1
+      - enemyId: 4
+        time: 3.55
+        path: path1
+      - enemyId: 4
+        time: 10.12
+        path: path1
+      - enemyId: 4
+        time: 11.400001
+        path: path1
+      - enemyId: 0
+        time: 27.65
+        path: path1
+      - enemyId: 4
+        time: 16.23
+        path: path2
+      - enemyId: 4
+        time: 18.88
+        path: path2
+      - enemyId: 0
+        time: 22.72
+        path: path2
+      - enemyId: 0
+        time: 25.68
+        path: path2
+      - enemyId: 0
+        time: 29.37
+        path: path2
+      - enemyId: 0
+        time: 31.86
+        path: path2
+      - enemyId: 0
+        time: 39.4
+        path: path2
+      - enemyId: 0
+        time: 33.04
+        path: path2
+      - enemyId: 0
+        time: 39.91
+        path: path2
+      - enemyId: 0
+        time: 34.34
+        path: path2
+      - enemyId: 0
+        time: 40.45
+        path: path2
+      - enemyId: 0
+        time: 35.62
+        path: path2
+      - enemyId: 0
+        time: 40.969997
+        path: path2
+      - enemyId: 0
+        time: 36.9
+        path: path2
+      - enemyId: 0
+        time: 41.55
+        path: path2
+      - enemyId: 0
+        time: 38.14
+        path: path2
+      - enemyId: 0
+        time: 42.13
+        path: path2
+      - enemyId: 4
+        time: 0
+        path: path3
+      - enemyId: 4
+        time: 2.71
+        path: path3
+      - enemyId: 4
+        time: 10.099999
+        path: path3
+      - enemyId: 4
+        time: 11.38
+        path: path3
+      - enemyId: 0
+        time: 24.17
+        path: path3
+      - enemyId: 0
+        time: 26.72
+        path: path4
+      - enemyId: 0
+        time: 38.16
+        path: path4
+      - enemyId: 0
+        time: 39.18
+        path: path4
+      - enemyId: 0
+        time: 40.33
+        path: path4
+      - enemyId: 0
+        time: 41.44
+        path: path4
+      - enemyId: 7
+        time: 1.3700001
+        path: path5
+      - enemyId: 7
+        time: 12.820001
+        path: path5
+      - enemyId: 7
+        time: 3.9
+        path: path5
+      - enemyId: 7
+        time: 15.35
+        path: path5
+      - enemyId: 7
+        time: 6.3
+        path: path5
+      - enemyId: 7
+        time: 17.75
+        path: path5
+      - enemyId: 7
+        time: 8.75
+        path: path5
+      - enemyId: 7
+        time: 20.2
+        path: path5
+      - enemyId: 0
+        time: 21.98
+        path: path5
+      - enemyId: 0
+        time: 25.11
+        path: path5
+      - enemyId: 0
+        time: 28.4
+        path: path5
+      - enemyId: 0
+        time: 32.41
+        path: path5
+      - enemyId: 0
+        time: 33.73
+        path: path5
+      - enemyId: 0
+        time: 35.09
+        path: path5
+      - enemyId: 0
+        time: 36.37
+        path: path5
+      - enemyId: 0
+        time: 37.69
+        path: path5
+      - enemyId: 0
+        time: 40.92
+        path: path6
+      - enemyId: 0
+        time: 38.64
+        path: path6
+      - enemyId: 0
+        time: 23.59
+        path: path6
+      - enemyId: 0
+        time: 39.72
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 5
+        time: 22.59
+        path: path1
+      - enemyId: 4
+        time: 22.911
+        path: path1
+      - enemyId: 5
+        time: 0
+        path: path2
+      - enemyId: 5
+        time: 14.764
+        path: path2
+      - enemyId: 5
+        time: 1.966
+        path: path2
+      - enemyId: 5
+        time: 16.73
+        path: path2
+      - enemyId: 5
+        time: 24.556
+        path: path2
+      - enemyId: 5
+        time: 3.927
+        path: path2
+      - enemyId: 5
+        time: 26.517
+        path: path2
+      - enemyId: 5
+        time: 5.861
+        path: path2
+      - enemyId: 5
+        time: 20.625
+        path: path2
+      - enemyId: 4
+        time: 0.321
+        path: path2
+      - enemyId: 4
+        time: 15.085
+        path: path2
+      - enemyId: 4
+        time: 2.287
+        path: path2
+      - enemyId: 4
+        time: 17.051
+        path: path2
+      - enemyId: 4
+        time: 24.877
+        path: path2
+      - enemyId: 4
+        time: 4.248
+        path: path2
+      - enemyId: 4
+        time: 26.838001
+        path: path2
+      - enemyId: 4
+        time: 6.182
+        path: path2
+      - enemyId: 4
+        time: 20.946
+        path: path2
+      - enemyId: 9
+        time: 31.01
+        path: path2
+      - enemyId: 5
+        time: 18.691
+        path: path3
+      - enemyId: 4
+        time: 19.012001
+        path: path3
+      - enemyId: 5
+        time: 28.451
+        path: path3
+      - enemyId: 4
+        time: 28.772
+        path: path3
+      - enemyId: 5
+        time: 21.359
+        path: path4
+      - enemyId: 4
+        time: 21.68
+        path: path4
+      - enemyId: 5
+        time: 7.679
+        path: path5
+      - enemyId: 5
+        time: 16.057999
+        path: path5
+      - enemyId: 5
+        time: 23.347998
+        path: path5
+      - enemyId: 5
+        time: 11.198999
+        path: path5
+      - enemyId: 5
+        time: 19.578
+        path: path5
+      - enemyId: 5
+        time: 9.46
+        path: path5
+      - enemyId: 5
+        time: 25.129
+        path: path5
+      - enemyId: 5
+        time: 12.98
+        path: path5
+      - enemyId: 5
+        time: 28.648998
+        path: path5
+      - enemyId: 4
+        time: 8
+        path: path5
+      - enemyId: 4
+        time: 16.379
+        path: path5
+      - enemyId: 4
+        time: 23.668999
+        path: path5
+      - enemyId: 4
+        time: 11.5199995
+        path: path5
+      - enemyId: 4
+        time: 19.898998
+        path: path5
+      - enemyId: 4
+        time: 9.781
+        path: path5
+      - enemyId: 4
+        time: 25.449999
+        path: path5
+      - enemyId: 4
+        time: 13.301
+        path: path5
+      - enemyId: 4
+        time: 28.97
+        path: path5
+      - enemyId: 9
+        time: 32.63
+        path: path5
+      - enemyId: 5
+        time: 26.867998
+        path: path6
+      - enemyId: 4
+        time: 27.188997
+        path: path6
+      - enemyId: 4
+        time: 18.16
+        path: path6
+      - enemyId: 5
+        time: 17.839
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 9
+        time: 1.97
+        path: path2
+      - enemyId: 9
+        time: 3.7
+        path: path2
+      - enemyId: 9
+        time: 5.4
+        path: path2
+      - enemyId: 9
+        time: 7.24
+        path: path2
+      - enemyId: 3
+        time: 13.01
+        path: path2
+      - enemyId: 3
+        time: 23.73
+        path: path2
+      - enemyId: 3
+        time: 30.21
+        path: path2
+      - enemyId: 9
+        time: 20.95
+        path: path2
+      - enemyId: 3
+        time: 13.85
+        path: path3
+      - enemyId: 3
+        time: 24.57
+        path: path3
+      - enemyId: 3
+        time: 31.05
+        path: path3
+      - enemyId: 3
+        time: 14.91
+        path: path3
+      - enemyId: 3
+        time: 25.63
+        path: path3
+      - enemyId: 3
+        time: 32.11
+        path: path3
+      - enemyId: 3
+        time: 15.99
+        path: path3
+      - enemyId: 3
+        time: 26.71
+        path: path3
+      - enemyId: 3
+        time: 33.19
+        path: path3
+      - enemyId: 9
+        time: 22.12
+        path: path3
+      - enemyId: 1
+        time: 1.81
+        path: path4
+      - enemyId: 1
+        time: 3.74
+        path: path4
+      - enemyId: 1
+        time: 5.5
+        path: path4
+      - enemyId: 3
+        time: 15.45
+        path: path4
+      - enemyId: 3
+        time: 25.11
+        path: path4
+      - enemyId: 3
+        time: 16.73
+        path: path4
+      - enemyId: 3
+        time: 26.39
+        path: path4
+      - enemyId: 9
+        time: 23.13
+        path: path4
+      - enemyId: 0
+        time: 37.23
+        path: path4
+      - enemyId: 0
+        time: 36.160004
+        path: path4
+      - enemyId: 0
+        time: 36.745003
+        path: path4
+      - enemyId: 0
+        time: 0.85
+        path: path5
+      - enemyId: 0
+        time: 35.26
+        path: path5
+      - enemyId: 0
+        time: 37.986
+        path: path5
+      - enemyId: 0
+        time: 2.74
+        path: path5
+      - enemyId: 0
+        time: 36.406
+        path: path5
+      - enemyId: 0
+        time: 35.815998
+        path: path5
+      - enemyId: 0
+        time: 4.52
+        path: path5
+      - enemyId: 0
+        time: 36.904
+        path: path5
+      - enemyId: 0
+        time: 6.25
+        path: path5
+      - enemyId: 0
+        time: 34.762997
+        path: path5
+      - enemyId: 0
+        time: 37.489
+        path: path5
+      - enemyId: 3
+        time: 18.97
+        path: path5
+      - enemyId: 3
+        time: 28.63
+        path: path5
+      - enemyId: 1
+        time: 1.81
+        path: path6
+      - enemyId: 1
+        time: 3.74
+        path: path6
+      - enemyId: 1
+        time: 5.5
+        path: path6
+      - enemyId: 3
+        time: 18.04
+        path: path6
+      - enemyId: 3
+        time: 27.7
+        path: path6
+      - enemyId: 9
+        time: 23.75
+        path: path6
+      - enemyId: 0
+        time: 35.5
+        path: path6
+      - enemyId: 0
+        time: 36.056
+        path: path6
+      - enemyId: 0
+        time: 36.554
+        path: path6
+      - enemyId: 0
+        time: 37.2
+        path: path6
+      - enemyId: 0
+        time: 37.698
+        path: path6
+      - enemyId: 0
+        time: 38.283
+        path: path6
+      fight_buttton: fight_button1
+    InitialCoin: 600
+    bgm: bgm_darkforest
+  - levelId: 5
+    name: "\u5173\u53616"
+    description: 
+    sceneName: Level5
+    enemyWaves:
+    - enemies:
+      - enemyId: 0
+        time: 0.891
+        path: path1
+      - enemyId: 0
+        time: 7.3109994
+        path: path1
+      - enemyId: 0
+        time: 15.82
+        path: path1
+      - enemyId: 0
+        time: 17.31
+        path: path1
+      - enemyId: 0
+        time: 19.48
+        path: path1
+      - enemyId: 0
+        time: 29.67
+        path: path1
+      - enemyId: 0
+        time: 30.41
+        path: path1
+      - enemyId: 0
+        time: 31.18
+        path: path1
+      - enemyId: 0
+        time: 31.99
+        path: path1
+      - enemyId: 0
+        time: 0
+        path: path2
+      - enemyId: 0
+        time: 1.57
+        path: path2
+      - enemyId: 0
+        time: 9.14
+        path: path2
+      - enemyId: 0
+        time: 18.35
+        path: path2
+      - enemyId: 0
+        time: 28.82
+        path: path2
+      - enemyId: 0
+        time: 8.02
+        path: path3
+      - enemyId: 0
+        time: 3.58
+        path: path4
+      - enemyId: 0
+        time: 11.62
+        path: path4
+      - enemyId: 0
+        time: 35.82
+        path: path4
+      - enemyId: 0
+        time: 2.83
+        path: path5
+      - enemyId: 0
+        time: 10.87
+        path: path5
+      - enemyId: 0
+        time: 4.37
+        path: path5
+      - enemyId: 0
+        time: 12.41
+        path: path5
+      - enemyId: 0
+        time: 22.45
+        path: path5
+      - enemyId: 0
+        time: 34.75
+        path: path5
+      - enemyId: 0
+        time: 23.52
+        path: path5
+      - enemyId: 0
+        time: 24.68
+        path: path5
+      - enemyId: 0
+        time: 36.98
+        path: path5
+      - enemyId: 0
+        time: 25.920002
+        path: path5
+      - enemyId: 0
+        time: 27.16
+        path: path5
+      - enemyId: 0
+        time: 39.46
+        path: path5
+      - enemyId: 0
+        time: 38.22
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 6
+        time: 2.628
+        path: path1
+      - enemyId: 6
+        time: 5.3
+        path: path1
+      - enemyId: 6
+        time: 11.36
+        path: path1
+      - enemyId: 6
+        time: 21.37
+        path: path1
+      - enemyId: 6
+        time: 26.369999
+        path: path1
+      - enemyId: 6
+        time: 5.99
+        path: path1
+      - enemyId: 6
+        time: 6.75
+        path: path1
+      - enemyId: 6
+        time: 0
+        path: path2
+      - enemyId: 6
+        time: 0.611
+        path: path2
+      - enemyId: 6
+        time: 1.214
+        path: path2
+      - enemyId: 6
+        time: 4
+        path: path2
+      - enemyId: 6
+        time: 10.63
+        path: path2
+      - enemyId: 6
+        time: 20.640001
+        path: path2
+      - enemyId: 6
+        time: 25.64
+        path: path2
+      - enemyId: 6
+        time: 1.921
+        path: path2
+      - enemyId: 6
+        time: 4.707
+        path: path2
+      - enemyId: 6
+        time: 12.049999
+        path: path2
+      - enemyId: 6
+        time: 22.060001
+        path: path2
+      - enemyId: 6
+        time: 27.06
+        path: path2
+      - enemyId: 6
+        time: 12.809999
+        path: path3
+      - enemyId: 6
+        time: 22.82
+        path: path3
+      - enemyId: 6
+        time: 27.819996
+        path: path3
+      - enemyId: 6
+        time: 13.81
+        path: path3
+      - enemyId: 6
+        time: 23.820002
+        path: path3
+      - enemyId: 6
+        time: 28.82
+        path: path3
+      - enemyId: 6
+        time: 16.19
+        path: path4
+      - enemyId: 6
+        time: 25.170002
+        path: path4
+      - enemyId: 6
+        time: 31.78
+        path: path4
+      - enemyId: 6
+        time: 18.97
+        path: path4
+      - enemyId: 6
+        time: 27.95
+        path: path4
+      - enemyId: 6
+        time: 34.559998
+        path: path4
+      - enemyId: 6
+        time: 1.58
+        path: path5
+      - enemyId: 6
+        time: 7.9400005
+        path: path5
+      - enemyId: 6
+        time: 15.32
+        path: path5
+      - enemyId: 6
+        time: 24.3
+        path: path5
+      - enemyId: 6
+        time: 30.909998
+        path: path5
+      - enemyId: 6
+        time: 16.8
+        path: path5
+      - enemyId: 6
+        time: 25.779999
+        path: path5
+      - enemyId: 6
+        time: 32.39
+        path: path5
+      - enemyId: 6
+        time: 18.28
+        path: path5
+      - enemyId: 6
+        time: 27.260002
+        path: path5
+      - enemyId: 6
+        time: 33.870003
+        path: path5
+      - enemyId: 6
+        time: 19.72
+        path: path5
+      - enemyId: 6
+        time: 28.7
+        path: path5
+      - enemyId: 6
+        time: 35.309998
+        path: path5
+      - enemyId: 6
+        time: 0.24
+        path: path6
+      - enemyId: 6
+        time: 6.6000004
+        path: path6
+      - enemyId: 6
+        time: 2.24
+        path: path6
+      - enemyId: 6
+        time: 8.6
+        path: path6
+      - enemyId: 6
+        time: 0.93
+        path: path6
+      - enemyId: 6
+        time: 7.290001
+        path: path6
+      - enemyId: 6
+        time: 2.93
+        path: path6
+      - enemyId: 6
+        time: 9.290001
+        path: path6
+      - enemyId: 6
+        time: 14.62
+        path: path6
+      - enemyId: 6
+        time: 23.6
+        path: path6
+      - enemyId: 6
+        time: 30.21
+        path: path6
+      - enemyId: 6
+        time: 17.58
+        path: path6
+      - enemyId: 6
+        time: 26.560001
+        path: path6
+      - enemyId: 6
+        time: 33.17
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 6
+        time: 1.07
+        path: path1
+      - enemyId: 6
+        time: 6.98
+        path: path1
+      - enemyId: 8
+        time: 21.31
+        path: path1
+      - enemyId: 8
+        time: 24.109999
+        path: path1
+      - enemyId: 8
+        time: 27.72
+        path: path1
+      - enemyId: 6
+        time: 32.63
+        path: path1
+      - enemyId: 6
+        time: 0
+        path: path2
+      - enemyId: 6
+        time: 2.16
+        path: path2
+      - enemyId: 6
+        time: 3.47
+        path: path2
+      - enemyId: 6
+        time: 5.76
+        path: path2
+      - enemyId: 6
+        time: 11.84
+        path: path2
+      - enemyId: 6
+        time: 31.2
+        path: path2
+      - enemyId: 6
+        time: 13.27
+        path: path2
+      - enemyId: 6
+        time: 14.87
+        path: path2
+      - enemyId: 6
+        time: 34.23
+        path: path2
+      - enemyId: 6
+        time: 16.1
+        path: path2
+      - enemyId: 6
+        time: 17.87
+        path: path2
+      - enemyId: 6
+        time: 37.23
+        path: path2
+      - enemyId: 8
+        time: 19.59
+        path: path2
+      - enemyId: 8
+        time: 22.39
+        path: path2
+      - enemyId: 8
+        time: 25.21
+        path: path2
+      - enemyId: 6
+        time: 4.7
+        path: path3
+      - enemyId: 8
+        time: 20.46
+        path: path3
+      - enemyId: 8
+        time: 23.259998
+        path: path3
+      - enemyId: 8
+        time: 26.32
+        path: path3
+      - enemyId: 6
+        time: 35.460003
+        path: path3
+      - enemyId: 6
+        time: 1.53
+        path: path4
+      - enemyId: 6
+        time: 6.91
+        path: path4
+      - enemyId: 8
+        time: 13.97
+        path: path4
+      - enemyId: 8
+        time: 34.960003
+        path: path4
+      - enemyId: 6
+        time: 22.02
+        path: path4
+      - enemyId: 6
+        time: 0.64
+        path: path5
+      - enemyId: 6
+        time: 2.49
+        path: path5
+      - enemyId: 6
+        time: 4.69
+        path: path5
+      - enemyId: 6
+        time: 5.74
+        path: path5
+      - enemyId: 6
+        time: 21.26
+        path: path5
+      - enemyId: 6
+        time: 24.27
+        path: path5
+      - enemyId: 6
+        time: 22.83
+        path: path5
+      - enemyId: 8
+        time: 11.15
+        path: path5
+      - enemyId: 8
+        time: 32.14
+        path: path5
+      - enemyId: 8
+        time: 15.28
+        path: path5
+      - enemyId: 8
+        time: 36.27
+        path: path5
+      - enemyId: 8
+        time: 12.6
+        path: path5
+      - enemyId: 8
+        time: 33.59
+        path: path5
+      - enemyId: 8
+        time: 16.73
+        path: path5
+      - enemyId: 6
+        time: 3.67
+        path: path6
+      - enemyId: 6
+        time: 23.55
+        path: path6
+      - enemyId: 8
+        time: 37.72
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 6
+        time: 0
+        path: path2
+      - enemyId: 6
+        time: 1.642
+        path: path2
+      - enemyId: 6
+        time: 8.432
+        path: path2
+      - enemyId: 6
+        time: 3.4659998
+        path: path2
+      - enemyId: 6
+        time: 10.2560005
+        path: path2
+      - enemyId: 6
+        time: 12.376
+        path: path2
+      - enemyId: 6
+        time: 14.65
+        path: path2
+      - enemyId: 6
+        time: 17.026001
+        path: path2
+      - enemyId: 4
+        time: 0.384
+        path: path2
+      - enemyId: 4
+        time: 2.026
+        path: path2
+      - enemyId: 4
+        time: 8.816
+        path: path2
+      - enemyId: 4
+        time: 3.85
+        path: path2
+      - enemyId: 4
+        time: 10.64
+        path: path2
+      - enemyId: 4
+        time: 12.76
+        path: path2
+      - enemyId: 4
+        time: 15.033999
+        path: path2
+      - enemyId: 4
+        time: 17.41
+        path: path2
+      - enemyId: 6
+        time: 18.71
+        path: path4
+      - enemyId: 1
+        time: 5.71
+        path: path5
+      - enemyId: 1
+        time: 7.23
+        path: path5
+      - enemyId: 6
+        time: 19.45
+        path: path5
+      - enemyId: 6
+        time: 20.35
+        path: path5
+      - enemyId: 6
+        time: 21.14
+        path: path5
+      - enemyId: 6
+        time: 21.92
+        path: path5
+      - enemyId: 6
+        time: 22.73
+        path: path5
+      - enemyId: 6
+        time: 23.55
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 9
+        time: 0
+        path: path2
+      - enemyId: 9
+        time: 2.67
+        path: path2
+      - enemyId: 9
+        time: 0.77
+        path: path5
+      - enemyId: 9
+        time: 4.09
+        path: path5
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 7
+        time: 1.403
+        path: path1
+      - enemyId: 7
+        time: 6.43
+        path: path1
+      - enemyId: 7
+        time: 11.6
+        path: path1
+      - enemyId: 7
+        time: 0
+        path: path2
+      - enemyId: 7
+        time: 5.597
+        path: path2
+      - enemyId: 7
+        time: 15.81
+        path: path2
+      - enemyId: 7
+        time: 18.95
+        path: path2
+      - enemyId: 7
+        time: 0.671
+        path: path3
+      - enemyId: 7
+        time: 6.268
+        path: path3
+      - enemyId: 7
+        time: 13.52
+        path: path3
+      - enemyId: 7
+        time: 4.1099997
+        path: path4
+      - enemyId: 7
+        time: 12.110001
+        path: path4
+      - enemyId: 7
+        time: 2.51
+        path: path5
+      - enemyId: 7
+        time: 17.42
+        path: path5
+      - enemyId: 7
+        time: 20.8
+        path: path5
+      - enemyId: 7
+        time: 3.27
+        path: path6
+      - enemyId: 7
+        time: 14.66
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 5
+        time: 0
+        path: path2
+      - enemyId: 5
+        time: 8.3
+        path: path2
+      - enemyId: 5
+        time: 1.686
+        path: path2
+      - enemyId: 5
+        time: 9.986
+        path: path2
+      - enemyId: 5
+        time: 13.406
+        path: path2
+      - enemyId: 5
+        time: 3.4174
+        path: path2
+      - enemyId: 5
+        time: 11.7174
+        path: path2
+      - enemyId: 5
+        time: 15.1374
+        path: path2
+      - enemyId: 4
+        time: 0.2826
+        path: path2
+      - enemyId: 4
+        time: 8.582601
+        path: path2
+      - enemyId: 4
+        time: 1.9686
+        path: path2
+      - enemyId: 4
+        time: 10.2686
+        path: path2
+      - enemyId: 4
+        time: 13.688601
+        path: path2
+      - enemyId: 4
+        time: 3.7
+        path: path2
+      - enemyId: 4
+        time: 12
+        path: path2
+      - enemyId: 4
+        time: 15.42
+        path: path2
+      - enemyId: 1
+        time: 12.66
+        path: path3
+      - enemyId: 1
+        time: 2.68
+        path: path4
+      - enemyId: 1
+        time: 10.82
+        path: path4
+      - enemyId: 1
+        time: 14.45
+        path: path4
+      - enemyId: 1
+        time: 18.02
+        path: path4
+      - enemyId: 6
+        time: 6.56
+        path: path4
+      - enemyId: 6
+        time: 7.25
+        path: path4
+      - enemyId: 1
+        time: 0.87
+        path: path5
+      - enemyId: 6
+        time: 4.65
+        path: path5
+      - enemyId: 6
+        time: 5.27
+        path: path5
+      - enemyId: 6
+        time: 5.91
+        path: path5
+      - enemyId: 1
+        time: 16.36
+        path: path5
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 6
+        time: 1.43
+        path: path1
+      - enemyId: 6
+        time: 19.48
+        path: path1
+      - enemyId: 6
+        time: 4.93
+        path: path1
+      - enemyId: 6
+        time: 8.43
+        path: path1
+      - enemyId: 6
+        time: 2.62
+        path: path1
+      - enemyId: 6
+        time: 19.93
+        path: path1
+      - enemyId: 6
+        time: 20.8
+        path: path1
+      - enemyId: 6
+        time: 6.12
+        path: path1
+      - enemyId: 6
+        time: 9.620001
+        path: path1
+      - enemyId: 9
+        time: 0
+        path: path2
+      - enemyId: 9
+        time: 18.05
+        path: path2
+      - enemyId: 6
+        time: 1.89
+        path: path3
+      - enemyId: 6
+        time: 19.939999
+        path: path3
+      - enemyId: 6
+        time: 5.39
+        path: path3
+      - enemyId: 6
+        time: 8.89
+        path: path3
+      - enemyId: 6
+        time: 3.08
+        path: path3
+      - enemyId: 6
+        time: 21.13
+        path: path3
+      - enemyId: 6
+        time: 20.39
+        path: path3
+      - enemyId: 6
+        time: 6.58
+        path: path3
+      - enemyId: 6
+        time: 10.08
+        path: path3
+      - enemyId: 6
+        time: 6
+        path: path4
+      - enemyId: 6
+        time: 21.73
+        path: path4
+      - enemyId: 6
+        time: 9.6
+        path: path4
+      - enemyId: 6
+        time: 13.330001
+        path: path4
+      - enemyId: 6
+        time: 7.46
+        path: path4
+      - enemyId: 6
+        time: 22.51
+        path: path4
+      - enemyId: 6
+        time: 22.9
+        path: path4
+      - enemyId: 6
+        time: 11.059999
+        path: path4
+      - enemyId: 6
+        time: 14.79
+        path: path4
+      - enemyId: 9
+        time: 4.2
+        path: path5
+      - enemyId: 9
+        time: 19.93
+        path: path5
+      - enemyId: 6
+        time: 6.78
+        path: path6
+      - enemyId: 6
+        time: 22.51
+        path: path6
+      - enemyId: 6
+        time: 10.38
+        path: path6
+      - enemyId: 6
+        time: 14.110001
+        path: path6
+      - enemyId: 6
+        time: 8.24
+        path: path6
+      - enemyId: 6
+        time: 23.08
+        path: path6
+      - enemyId: 6
+        time: 11.84
+        path: path6
+      - enemyId: 6
+        time: 15.570001
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 9
+        time: 3.2199984
+        path: path1
+      - enemyId: 6
+        time: 7.4800005
+        path: path1
+      - enemyId: 6
+        time: 9.9800005
+        path: path1
+      - enemyId: 6
+        time: 12.39
+        path: path1
+      - enemyId: 6
+        time: 14.69
+        path: path1
+      - enemyId: 6
+        time: 16.969997
+        path: path1
+      - enemyId: 9
+        time: 0.020001411
+        path: path2
+      - enemyId: 6
+        time: 6.62
+        path: path2
+      - enemyId: 6
+        time: 9.12
+        path: path2
+      - enemyId: 6
+        time: 11.53
+        path: path2
+      - enemyId: 6
+        time: 13.829999
+        path: path2
+      - enemyId: 6
+        time: 16.109997
+        path: path2
+      - enemyId: 6
+        time: 8.21
+        path: path3
+      - enemyId: 6
+        time: 10.71
+        path: path3
+      - enemyId: 6
+        time: 13.12
+        path: path3
+      - enemyId: 6
+        time: 15.419999
+        path: path3
+      - enemyId: 6
+        time: 17.699997
+        path: path3
+      - enemyId: 6
+        time: 6.62
+        path: path4
+      - enemyId: 6
+        time: 10.829999
+        path: path4
+      - enemyId: 6
+        time: 14.94
+        path: path4
+      - enemyId: 6
+        time: 9.46
+        path: path4
+      - enemyId: 6
+        time: 13.669999
+        path: path4
+      - enemyId: 6
+        time: 17.779999
+        path: path4
+      - enemyId: 6
+        time: 6.04
+        path: path5
+      - enemyId: 6
+        time: 10.249997
+        path: path5
+      - enemyId: 6
+        time: 14.359998
+        path: path5
+      - enemyId: 9
+        time: 1.8699999
+        path: path5
+      - enemyId: 9
+        time: 4.7599993
+        path: path5
+      - enemyId: 6
+        time: 8.03
+        path: path5
+      - enemyId: 6
+        time: 12.239999
+        path: path5
+      - enemyId: 6
+        time: 16.349998
+        path: path5
+      - enemyId: 6
+        time: 7.329999
+        path: path6
+      - enemyId: 6
+        time: 11.539998
+        path: path6
+      - enemyId: 6
+        time: 15.649999
+        path: path6
+      - enemyId: 6
+        time: 8.739999
+        path: path6
+      - enemyId: 6
+        time: 12.949998
+        path: path6
+      - enemyId: 6
+        time: 17.059998
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 4
+        time: 0.84
+        path: path1
+      - enemyId: 4
+        time: 3.55
+        path: path1
+      - enemyId: 4
+        time: 10.12
+        path: path1
+      - enemyId: 4
+        time: 11.400001
+        path: path1
+      - enemyId: 0
+        time: 27.65
+        path: path1
+      - enemyId: 4
+        time: 16.23
+        path: path2
+      - enemyId: 4
+        time: 18.88
+        path: path2
+      - enemyId: 0
+        time: 22.72
+        path: path2
+      - enemyId: 0
+        time: 25.68
+        path: path2
+      - enemyId: 0
+        time: 29.37
+        path: path2
+      - enemyId: 0
+        time: 31.86
+        path: path2
+      - enemyId: 0
+        time: 39.4
+        path: path2
+      - enemyId: 0
+        time: 33.04
+        path: path2
+      - enemyId: 0
+        time: 39.91
+        path: path2
+      - enemyId: 0
+        time: 34.34
+        path: path2
+      - enemyId: 0
+        time: 40.45
+        path: path2
+      - enemyId: 0
+        time: 35.62
+        path: path2
+      - enemyId: 0
+        time: 40.969997
+        path: path2
+      - enemyId: 0
+        time: 36.9
+        path: path2
+      - enemyId: 0
+        time: 41.55
+        path: path2
+      - enemyId: 0
+        time: 38.14
+        path: path2
+      - enemyId: 0
+        time: 42.13
+        path: path2
+      - enemyId: 4
+        time: 0
+        path: path3
+      - enemyId: 4
+        time: 2.71
+        path: path3
+      - enemyId: 4
+        time: 10.099999
+        path: path3
+      - enemyId: 4
+        time: 11.38
+        path: path3
+      - enemyId: 0
+        time: 24.17
+        path: path3
+      - enemyId: 0
+        time: 26.72
+        path: path4
+      - enemyId: 0
+        time: 38.16
+        path: path4
+      - enemyId: 0
+        time: 39.18
+        path: path4
+      - enemyId: 0
+        time: 40.33
+        path: path4
+      - enemyId: 0
+        time: 41.44
+        path: path4
+      - enemyId: 7
+        time: 1.3700001
+        path: path5
+      - enemyId: 7
+        time: 12.820001
+        path: path5
+      - enemyId: 7
+        time: 3.9
+        path: path5
+      - enemyId: 7
+        time: 15.35
+        path: path5
+      - enemyId: 7
+        time: 6.3
+        path: path5
+      - enemyId: 7
+        time: 17.75
+        path: path5
+      - enemyId: 7
+        time: 8.75
+        path: path5
+      - enemyId: 7
+        time: 20.2
+        path: path5
+      - enemyId: 0
+        time: 21.98
+        path: path5
+      - enemyId: 0
+        time: 25.11
+        path: path5
+      - enemyId: 0
+        time: 28.4
+        path: path5
+      - enemyId: 0
+        time: 32.41
+        path: path5
+      - enemyId: 0
+        time: 33.73
+        path: path5
+      - enemyId: 0
+        time: 35.09
+        path: path5
+      - enemyId: 0
+        time: 36.37
+        path: path5
+      - enemyId: 0
+        time: 37.69
+        path: path5
+      - enemyId: 0
+        time: 40.92
+        path: path6
+      - enemyId: 0
+        time: 38.64
+        path: path6
+      - enemyId: 0
+        time: 23.59
+        path: path6
+      - enemyId: 0
+        time: 39.72
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 5
+        time: 22.59
+        path: path1
+      - enemyId: 4
+        time: 22.911
+        path: path1
+      - enemyId: 5
+        time: 0
+        path: path2
+      - enemyId: 5
+        time: 14.764
+        path: path2
+      - enemyId: 5
+        time: 1.966
+        path: path2
+      - enemyId: 5
+        time: 16.73
+        path: path2
+      - enemyId: 5
+        time: 24.556
+        path: path2
+      - enemyId: 5
+        time: 3.927
+        path: path2
+      - enemyId: 5
+        time: 26.517
+        path: path2
+      - enemyId: 5
+        time: 5.861
+        path: path2
+      - enemyId: 5
+        time: 20.625
+        path: path2
+      - enemyId: 4
+        time: 0.321
+        path: path2
+      - enemyId: 4
+        time: 15.085
+        path: path2
+      - enemyId: 4
+        time: 2.287
+        path: path2
+      - enemyId: 4
+        time: 17.051
+        path: path2
+      - enemyId: 4
+        time: 24.877
+        path: path2
+      - enemyId: 4
+        time: 4.248
+        path: path2
+      - enemyId: 4
+        time: 26.838001
+        path: path2
+      - enemyId: 4
+        time: 6.182
+        path: path2
+      - enemyId: 4
+        time: 20.946
+        path: path2
+      - enemyId: 9
+        time: 31.01
+        path: path2
+      - enemyId: 5
+        time: 18.691
+        path: path3
+      - enemyId: 4
+        time: 19.012001
+        path: path3
+      - enemyId: 5
+        time: 28.451
+        path: path3
+      - enemyId: 4
+        time: 28.772
+        path: path3
+      - enemyId: 5
+        time: 21.359
+        path: path4
+      - enemyId: 4
+        time: 21.68
+        path: path4
+      - enemyId: 5
+        time: 7.679
+        path: path5
+      - enemyId: 5
+        time: 16.057999
+        path: path5
+      - enemyId: 5
+        time: 23.347998
+        path: path5
+      - enemyId: 5
+        time: 11.198999
+        path: path5
+      - enemyId: 5
+        time: 19.578
+        path: path5
+      - enemyId: 5
+        time: 9.46
+        path: path5
+      - enemyId: 5
+        time: 25.129
+        path: path5
+      - enemyId: 5
+        time: 12.98
+        path: path5
+      - enemyId: 5
+        time: 28.648998
+        path: path5
+      - enemyId: 4
+        time: 8
+        path: path5
+      - enemyId: 4
+        time: 16.379
+        path: path5
+      - enemyId: 4
+        time: 23.668999
+        path: path5
+      - enemyId: 4
+        time: 11.5199995
+        path: path5
+      - enemyId: 4
+        time: 19.898998
+        path: path5
+      - enemyId: 4
+        time: 9.781
+        path: path5
+      - enemyId: 4
+        time: 25.449999
+        path: path5
+      - enemyId: 4
+        time: 13.301
+        path: path5
+      - enemyId: 4
+        time: 28.97
+        path: path5
+      - enemyId: 9
+        time: 32.63
+        path: path5
+      - enemyId: 5
+        time: 26.867998
+        path: path6
+      - enemyId: 4
+        time: 27.188997
+        path: path6
+      - enemyId: 4
+        time: 18.16
+        path: path6
+      - enemyId: 5
+        time: 17.839
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 9
+        time: 1.97
+        path: path2
+      - enemyId: 9
+        time: 3.7
+        path: path2
+      - enemyId: 9
+        time: 5.4
+        path: path2
+      - enemyId: 9
+        time: 7.24
+        path: path2
+      - enemyId: 3
+        time: 13.01
+        path: path2
+      - enemyId: 3
+        time: 23.73
+        path: path2
+      - enemyId: 3
+        time: 30.21
+        path: path2
+      - enemyId: 9
+        time: 20.95
+        path: path2
+      - enemyId: 3
+        time: 13.85
+        path: path3
+      - enemyId: 3
+        time: 24.57
+        path: path3
+      - enemyId: 3
+        time: 31.05
+        path: path3
+      - enemyId: 3
+        time: 14.91
+        path: path3
+      - enemyId: 3
+        time: 25.63
+        path: path3
+      - enemyId: 3
+        time: 32.11
+        path: path3
+      - enemyId: 3
+        time: 15.99
+        path: path3
+      - enemyId: 3
+        time: 26.71
+        path: path3
+      - enemyId: 3
+        time: 33.19
+        path: path3
+      - enemyId: 9
+        time: 22.12
+        path: path3
+      - enemyId: 1
+        time: 1.81
+        path: path4
+      - enemyId: 1
+        time: 3.74
+        path: path4
+      - enemyId: 1
+        time: 5.5
+        path: path4
+      - enemyId: 3
+        time: 15.45
+        path: path4
+      - enemyId: 3
+        time: 25.11
+        path: path4
+      - enemyId: 3
+        time: 16.73
+        path: path4
+      - enemyId: 3
+        time: 26.39
+        path: path4
+      - enemyId: 9
+        time: 23.13
+        path: path4
+      - enemyId: 0
+        time: 37.23
+        path: path4
+      - enemyId: 0
+        time: 36.160004
+        path: path4
+      - enemyId: 0
+        time: 36.745003
+        path: path4
+      - enemyId: 0
+        time: 0.85
+        path: path5
+      - enemyId: 0
+        time: 35.26
+        path: path5
+      - enemyId: 0
+        time: 37.986
+        path: path5
+      - enemyId: 0
+        time: 2.74
+        path: path5
+      - enemyId: 0
+        time: 36.406
+        path: path5
+      - enemyId: 0
+        time: 35.815998
+        path: path5
+      - enemyId: 0
+        time: 4.52
+        path: path5
+      - enemyId: 0
+        time: 36.904
+        path: path5
+      - enemyId: 0
+        time: 6.25
+        path: path5
+      - enemyId: 0
+        time: 34.762997
+        path: path5
+      - enemyId: 0
+        time: 37.489
+        path: path5
+      - enemyId: 3
+        time: 18.97
+        path: path5
+      - enemyId: 3
+        time: 28.63
+        path: path5
+      - enemyId: 1
+        time: 1.81
+        path: path6
+      - enemyId: 1
+        time: 3.74
+        path: path6
+      - enemyId: 1
+        time: 5.5
+        path: path6
+      - enemyId: 3
+        time: 18.04
+        path: path6
+      - enemyId: 3
+        time: 27.7
+        path: path6
+      - enemyId: 9
+        time: 23.75
+        path: path6
+      - enemyId: 0
+        time: 35.5
+        path: path6
+      - enemyId: 0
+        time: 36.056
+        path: path6
+      - enemyId: 0
+        time: 36.554
+        path: path6
+      - enemyId: 0
+        time: 37.2
+        path: path6
+      - enemyId: 0
+        time: 37.698
+        path: path6
+      - enemyId: 0
+        time: 38.283
+        path: path6
+      fight_buttton: fight_button1
+    InitialCoin: 600
+    bgm: bgm_darkforest
+  - levelId: 6
+    name: "\u5173\u53617"
+    description: 
+    sceneName: Level5
+    enemyWaves:
+    - enemies:
+      - enemyId: 0
+        time: 0.891
+        path: path1
+      - enemyId: 0
+        time: 7.3109994
+        path: path1
+      - enemyId: 0
+        time: 15.82
+        path: path1
+      - enemyId: 0
+        time: 17.31
+        path: path1
+      - enemyId: 0
+        time: 19.48
+        path: path1
+      - enemyId: 0
+        time: 29.67
+        path: path1
+      - enemyId: 0
+        time: 30.41
+        path: path1
+      - enemyId: 0
+        time: 31.18
+        path: path1
+      - enemyId: 0
+        time: 31.99
+        path: path1
+      - enemyId: 0
+        time: 0
+        path: path2
+      - enemyId: 0
+        time: 1.57
+        path: path2
+      - enemyId: 0
+        time: 9.14
+        path: path2
+      - enemyId: 0
+        time: 18.35
+        path: path2
+      - enemyId: 0
+        time: 28.82
+        path: path2
+      - enemyId: 0
+        time: 8.02
+        path: path3
+      - enemyId: 0
+        time: 3.58
+        path: path4
+      - enemyId: 0
+        time: 11.62
+        path: path4
+      - enemyId: 0
+        time: 35.82
+        path: path4
+      - enemyId: 0
+        time: 2.83
+        path: path5
+      - enemyId: 0
+        time: 10.87
+        path: path5
+      - enemyId: 0
+        time: 4.37
+        path: path5
+      - enemyId: 0
+        time: 12.41
+        path: path5
+      - enemyId: 0
+        time: 22.45
+        path: path5
+      - enemyId: 0
+        time: 34.75
+        path: path5
+      - enemyId: 0
+        time: 23.52
+        path: path5
+      - enemyId: 0
+        time: 24.68
+        path: path5
+      - enemyId: 0
+        time: 36.98
+        path: path5
+      - enemyId: 0
+        time: 25.920002
+        path: path5
+      - enemyId: 0
+        time: 27.16
+        path: path5
+      - enemyId: 0
+        time: 39.46
+        path: path5
+      - enemyId: 0
+        time: 38.22
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 6
+        time: 2.628
+        path: path1
+      - enemyId: 6
+        time: 5.3
+        path: path1
+      - enemyId: 6
+        time: 11.36
+        path: path1
+      - enemyId: 6
+        time: 21.37
+        path: path1
+      - enemyId: 6
+        time: 26.369999
+        path: path1
+      - enemyId: 6
+        time: 5.99
+        path: path1
+      - enemyId: 6
+        time: 6.75
+        path: path1
+      - enemyId: 6
+        time: 0
+        path: path2
+      - enemyId: 6
+        time: 0.611
+        path: path2
+      - enemyId: 6
+        time: 1.214
+        path: path2
+      - enemyId: 6
+        time: 4
+        path: path2
+      - enemyId: 6
+        time: 10.63
+        path: path2
+      - enemyId: 6
+        time: 20.640001
+        path: path2
+      - enemyId: 6
+        time: 25.64
+        path: path2
+      - enemyId: 6
+        time: 1.921
+        path: path2
+      - enemyId: 6
+        time: 4.707
+        path: path2
+      - enemyId: 6
+        time: 12.049999
+        path: path2
+      - enemyId: 6
+        time: 22.060001
+        path: path2
+      - enemyId: 6
+        time: 27.06
+        path: path2
+      - enemyId: 6
+        time: 12.809999
+        path: path3
+      - enemyId: 6
+        time: 22.82
+        path: path3
+      - enemyId: 6
+        time: 27.819996
+        path: path3
+      - enemyId: 6
+        time: 13.81
+        path: path3
+      - enemyId: 6
+        time: 23.820002
+        path: path3
+      - enemyId: 6
+        time: 28.82
+        path: path3
+      - enemyId: 6
+        time: 16.19
+        path: path4
+      - enemyId: 6
+        time: 25.170002
+        path: path4
+      - enemyId: 6
+        time: 31.78
+        path: path4
+      - enemyId: 6
+        time: 18.97
+        path: path4
+      - enemyId: 6
+        time: 27.95
+        path: path4
+      - enemyId: 6
+        time: 34.559998
+        path: path4
+      - enemyId: 6
+        time: 1.58
+        path: path5
+      - enemyId: 6
+        time: 7.9400005
+        path: path5
+      - enemyId: 6
+        time: 15.32
+        path: path5
+      - enemyId: 6
+        time: 24.3
+        path: path5
+      - enemyId: 6
+        time: 30.909998
+        path: path5
+      - enemyId: 6
+        time: 16.8
+        path: path5
+      - enemyId: 6
+        time: 25.779999
+        path: path5
+      - enemyId: 6
+        time: 32.39
+        path: path5
+      - enemyId: 6
+        time: 18.28
+        path: path5
+      - enemyId: 6
+        time: 27.260002
+        path: path5
+      - enemyId: 6
+        time: 33.870003
+        path: path5
+      - enemyId: 6
+        time: 19.72
+        path: path5
+      - enemyId: 6
+        time: 28.7
+        path: path5
+      - enemyId: 6
+        time: 35.309998
+        path: path5
+      - enemyId: 6
+        time: 0.24
+        path: path6
+      - enemyId: 6
+        time: 6.6000004
+        path: path6
+      - enemyId: 6
+        time: 2.24
+        path: path6
+      - enemyId: 6
+        time: 8.6
+        path: path6
+      - enemyId: 6
+        time: 0.93
+        path: path6
+      - enemyId: 6
+        time: 7.290001
+        path: path6
+      - enemyId: 6
+        time: 2.93
+        path: path6
+      - enemyId: 6
+        time: 9.290001
+        path: path6
+      - enemyId: 6
+        time: 14.62
+        path: path6
+      - enemyId: 6
+        time: 23.6
+        path: path6
+      - enemyId: 6
+        time: 30.21
+        path: path6
+      - enemyId: 6
+        time: 17.58
+        path: path6
+      - enemyId: 6
+        time: 26.560001
+        path: path6
+      - enemyId: 6
+        time: 33.17
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 6
+        time: 1.07
+        path: path1
+      - enemyId: 6
+        time: 6.98
+        path: path1
+      - enemyId: 8
+        time: 21.31
+        path: path1
+      - enemyId: 8
+        time: 24.109999
+        path: path1
+      - enemyId: 8
+        time: 27.72
+        path: path1
+      - enemyId: 6
+        time: 32.63
+        path: path1
+      - enemyId: 6
+        time: 0
+        path: path2
+      - enemyId: 6
+        time: 2.16
+        path: path2
+      - enemyId: 6
+        time: 3.47
+        path: path2
+      - enemyId: 6
+        time: 5.76
+        path: path2
+      - enemyId: 6
+        time: 11.84
+        path: path2
+      - enemyId: 6
+        time: 31.2
+        path: path2
+      - enemyId: 6
+        time: 13.27
+        path: path2
+      - enemyId: 6
+        time: 14.87
+        path: path2
+      - enemyId: 6
+        time: 34.23
+        path: path2
+      - enemyId: 6
+        time: 16.1
+        path: path2
+      - enemyId: 6
+        time: 17.87
+        path: path2
+      - enemyId: 6
+        time: 37.23
+        path: path2
+      - enemyId: 8
+        time: 19.59
+        path: path2
+      - enemyId: 8
+        time: 22.39
+        path: path2
+      - enemyId: 8
+        time: 25.21
+        path: path2
+      - enemyId: 6
+        time: 4.7
+        path: path3
+      - enemyId: 8
+        time: 20.46
+        path: path3
+      - enemyId: 8
+        time: 23.259998
+        path: path3
+      - enemyId: 8
+        time: 26.32
+        path: path3
+      - enemyId: 6
+        time: 35.460003
+        path: path3
+      - enemyId: 6
+        time: 1.53
+        path: path4
+      - enemyId: 6
+        time: 6.91
+        path: path4
+      - enemyId: 8
+        time: 13.97
+        path: path4
+      - enemyId: 8
+        time: 34.960003
+        path: path4
+      - enemyId: 6
+        time: 22.02
+        path: path4
+      - enemyId: 6
+        time: 0.64
+        path: path5
+      - enemyId: 6
+        time: 2.49
+        path: path5
+      - enemyId: 6
+        time: 4.69
+        path: path5
+      - enemyId: 6
+        time: 5.74
+        path: path5
+      - enemyId: 6
+        time: 21.26
+        path: path5
+      - enemyId: 6
+        time: 24.27
+        path: path5
+      - enemyId: 6
+        time: 22.83
+        path: path5
+      - enemyId: 8
+        time: 11.15
+        path: path5
+      - enemyId: 8
+        time: 32.14
+        path: path5
+      - enemyId: 8
+        time: 15.28
+        path: path5
+      - enemyId: 8
+        time: 36.27
+        path: path5
+      - enemyId: 8
+        time: 12.6
+        path: path5
+      - enemyId: 8
+        time: 33.59
+        path: path5
+      - enemyId: 8
+        time: 16.73
+        path: path5
+      - enemyId: 6
+        time: 3.67
+        path: path6
+      - enemyId: 6
+        time: 23.55
+        path: path6
+      - enemyId: 8
+        time: 37.72
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 6
+        time: 0
+        path: path2
+      - enemyId: 6
+        time: 1.642
+        path: path2
+      - enemyId: 6
+        time: 8.432
+        path: path2
+      - enemyId: 6
+        time: 3.4659998
+        path: path2
+      - enemyId: 6
+        time: 10.2560005
+        path: path2
+      - enemyId: 6
+        time: 12.376
+        path: path2
+      - enemyId: 6
+        time: 14.65
+        path: path2
+      - enemyId: 6
+        time: 17.026001
+        path: path2
+      - enemyId: 4
+        time: 0.384
+        path: path2
+      - enemyId: 4
+        time: 2.026
+        path: path2
+      - enemyId: 4
+        time: 8.816
+        path: path2
+      - enemyId: 4
+        time: 3.85
+        path: path2
+      - enemyId: 4
+        time: 10.64
+        path: path2
+      - enemyId: 4
+        time: 12.76
+        path: path2
+      - enemyId: 4
+        time: 15.033999
+        path: path2
+      - enemyId: 4
+        time: 17.41
+        path: path2
+      - enemyId: 6
+        time: 18.71
+        path: path4
+      - enemyId: 1
+        time: 5.71
+        path: path5
+      - enemyId: 1
+        time: 7.23
+        path: path5
+      - enemyId: 6
+        time: 19.45
+        path: path5
+      - enemyId: 6
+        time: 20.35
+        path: path5
+      - enemyId: 6
+        time: 21.14
+        path: path5
+      - enemyId: 6
+        time: 21.92
+        path: path5
+      - enemyId: 6
+        time: 22.73
+        path: path5
+      - enemyId: 6
+        time: 23.55
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 9
+        time: 0
+        path: path2
+      - enemyId: 9
+        time: 2.67
+        path: path2
+      - enemyId: 9
+        time: 0.77
+        path: path5
+      - enemyId: 9
+        time: 4.09
+        path: path5
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 7
+        time: 1.403
+        path: path1
+      - enemyId: 7
+        time: 6.43
+        path: path1
+      - enemyId: 7
+        time: 11.6
+        path: path1
+      - enemyId: 7
+        time: 0
+        path: path2
+      - enemyId: 7
+        time: 5.597
+        path: path2
+      - enemyId: 7
+        time: 15.81
+        path: path2
+      - enemyId: 7
+        time: 18.95
+        path: path2
+      - enemyId: 7
+        time: 0.671
+        path: path3
+      - enemyId: 7
+        time: 6.268
+        path: path3
+      - enemyId: 7
+        time: 13.52
+        path: path3
+      - enemyId: 7
+        time: 4.1099997
+        path: path4
+      - enemyId: 7
+        time: 12.110001
+        path: path4
+      - enemyId: 7
+        time: 2.51
+        path: path5
+      - enemyId: 7
+        time: 17.42
+        path: path5
+      - enemyId: 7
+        time: 20.8
+        path: path5
+      - enemyId: 7
+        time: 3.27
+        path: path6
+      - enemyId: 7
+        time: 14.66
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 5
+        time: 0
+        path: path2
+      - enemyId: 5
+        time: 8.3
+        path: path2
+      - enemyId: 5
+        time: 1.686
+        path: path2
+      - enemyId: 5
+        time: 9.986
+        path: path2
+      - enemyId: 5
+        time: 13.406
+        path: path2
+      - enemyId: 5
+        time: 3.4174
+        path: path2
+      - enemyId: 5
+        time: 11.7174
+        path: path2
+      - enemyId: 5
+        time: 15.1374
+        path: path2
+      - enemyId: 4
+        time: 0.2826
+        path: path2
+      - enemyId: 4
+        time: 8.582601
+        path: path2
+      - enemyId: 4
+        time: 1.9686
+        path: path2
+      - enemyId: 4
+        time: 10.2686
+        path: path2
+      - enemyId: 4
+        time: 13.688601
+        path: path2
+      - enemyId: 4
+        time: 3.7
+        path: path2
+      - enemyId: 4
+        time: 12
+        path: path2
+      - enemyId: 4
+        time: 15.42
+        path: path2
+      - enemyId: 1
+        time: 12.66
+        path: path3
+      - enemyId: 1
+        time: 2.68
+        path: path4
+      - enemyId: 1
+        time: 10.82
+        path: path4
+      - enemyId: 1
+        time: 14.45
+        path: path4
+      - enemyId: 1
+        time: 18.02
+        path: path4
+      - enemyId: 6
+        time: 6.56
+        path: path4
+      - enemyId: 6
+        time: 7.25
+        path: path4
+      - enemyId: 1
+        time: 0.87
+        path: path5
+      - enemyId: 6
+        time: 4.65
+        path: path5
+      - enemyId: 6
+        time: 5.27
+        path: path5
+      - enemyId: 6
+        time: 5.91
+        path: path5
+      - enemyId: 1
+        time: 16.36
+        path: path5
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 6
+        time: 1.43
+        path: path1
+      - enemyId: 6
+        time: 19.48
+        path: path1
+      - enemyId: 6
+        time: 4.93
+        path: path1
+      - enemyId: 6
+        time: 8.43
+        path: path1
+      - enemyId: 6
+        time: 2.62
+        path: path1
+      - enemyId: 6
+        time: 19.93
+        path: path1
+      - enemyId: 6
+        time: 20.8
+        path: path1
+      - enemyId: 6
+        time: 6.12
+        path: path1
+      - enemyId: 6
+        time: 9.620001
+        path: path1
+      - enemyId: 9
+        time: 0
+        path: path2
+      - enemyId: 9
+        time: 18.05
+        path: path2
+      - enemyId: 6
+        time: 1.89
+        path: path3
+      - enemyId: 6
+        time: 19.939999
+        path: path3
+      - enemyId: 6
+        time: 5.39
+        path: path3
+      - enemyId: 6
+        time: 8.89
+        path: path3
+      - enemyId: 6
+        time: 3.08
+        path: path3
+      - enemyId: 6
+        time: 21.13
+        path: path3
+      - enemyId: 6
+        time: 20.39
+        path: path3
+      - enemyId: 6
+        time: 6.58
+        path: path3
+      - enemyId: 6
+        time: 10.08
+        path: path3
+      - enemyId: 6
+        time: 6
+        path: path4
+      - enemyId: 6
+        time: 21.73
+        path: path4
+      - enemyId: 6
+        time: 9.6
+        path: path4
+      - enemyId: 6
+        time: 13.330001
+        path: path4
+      - enemyId: 6
+        time: 7.46
+        path: path4
+      - enemyId: 6
+        time: 22.51
+        path: path4
+      - enemyId: 6
+        time: 22.9
+        path: path4
+      - enemyId: 6
+        time: 11.059999
+        path: path4
+      - enemyId: 6
+        time: 14.79
+        path: path4
+      - enemyId: 9
+        time: 4.2
+        path: path5
+      - enemyId: 9
+        time: 19.93
+        path: path5
+      - enemyId: 6
+        time: 6.78
+        path: path6
+      - enemyId: 6
+        time: 22.51
+        path: path6
+      - enemyId: 6
+        time: 10.38
+        path: path6
+      - enemyId: 6
+        time: 14.110001
+        path: path6
+      - enemyId: 6
+        time: 8.24
+        path: path6
+      - enemyId: 6
+        time: 23.08
+        path: path6
+      - enemyId: 6
+        time: 11.84
+        path: path6
+      - enemyId: 6
+        time: 15.570001
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 9
+        time: 3.2199984
+        path: path1
+      - enemyId: 6
+        time: 7.4800005
+        path: path1
+      - enemyId: 6
+        time: 9.9800005
+        path: path1
+      - enemyId: 6
+        time: 12.39
+        path: path1
+      - enemyId: 6
+        time: 14.69
+        path: path1
+      - enemyId: 6
+        time: 16.969997
+        path: path1
+      - enemyId: 9
+        time: 0.020001411
+        path: path2
+      - enemyId: 6
+        time: 6.62
+        path: path2
+      - enemyId: 6
+        time: 9.12
+        path: path2
+      - enemyId: 6
+        time: 11.53
+        path: path2
+      - enemyId: 6
+        time: 13.829999
+        path: path2
+      - enemyId: 6
+        time: 16.109997
+        path: path2
+      - enemyId: 6
+        time: 8.21
+        path: path3
+      - enemyId: 6
+        time: 10.71
+        path: path3
+      - enemyId: 6
+        time: 13.12
+        path: path3
+      - enemyId: 6
+        time: 15.419999
+        path: path3
+      - enemyId: 6
+        time: 17.699997
+        path: path3
+      - enemyId: 6
+        time: 6.62
+        path: path4
+      - enemyId: 6
+        time: 10.829999
+        path: path4
+      - enemyId: 6
+        time: 14.94
+        path: path4
+      - enemyId: 6
+        time: 9.46
+        path: path4
+      - enemyId: 6
+        time: 13.669999
+        path: path4
+      - enemyId: 6
+        time: 17.779999
+        path: path4
+      - enemyId: 6
+        time: 6.04
+        path: path5
+      - enemyId: 6
+        time: 10.249997
+        path: path5
+      - enemyId: 6
+        time: 14.359998
+        path: path5
+      - enemyId: 9
+        time: 1.8699999
+        path: path5
+      - enemyId: 9
+        time: 4.7599993
+        path: path5
+      - enemyId: 6
+        time: 8.03
+        path: path5
+      - enemyId: 6
+        time: 12.239999
+        path: path5
+      - enemyId: 6
+        time: 16.349998
+        path: path5
+      - enemyId: 6
+        time: 7.329999
+        path: path6
+      - enemyId: 6
+        time: 11.539998
+        path: path6
+      - enemyId: 6
+        time: 15.649999
+        path: path6
+      - enemyId: 6
+        time: 8.739999
+        path: path6
+      - enemyId: 6
+        time: 12.949998
+        path: path6
+      - enemyId: 6
+        time: 17.059998
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 4
+        time: 0.84
+        path: path1
+      - enemyId: 4
+        time: 3.55
+        path: path1
+      - enemyId: 4
+        time: 10.12
+        path: path1
+      - enemyId: 4
+        time: 11.400001
+        path: path1
+      - enemyId: 0
+        time: 27.65
+        path: path1
+      - enemyId: 4
+        time: 16.23
+        path: path2
+      - enemyId: 4
+        time: 18.88
+        path: path2
+      - enemyId: 0
+        time: 22.72
+        path: path2
+      - enemyId: 0
+        time: 25.68
+        path: path2
+      - enemyId: 0
+        time: 29.37
+        path: path2
+      - enemyId: 0
+        time: 31.86
+        path: path2
+      - enemyId: 0
+        time: 39.4
+        path: path2
+      - enemyId: 0
+        time: 33.04
+        path: path2
+      - enemyId: 0
+        time: 39.91
+        path: path2
+      - enemyId: 0
+        time: 34.34
+        path: path2
+      - enemyId: 0
+        time: 40.45
+        path: path2
+      - enemyId: 0
+        time: 35.62
+        path: path2
+      - enemyId: 0
+        time: 40.969997
+        path: path2
+      - enemyId: 0
+        time: 36.9
+        path: path2
+      - enemyId: 0
+        time: 41.55
+        path: path2
+      - enemyId: 0
+        time: 38.14
+        path: path2
+      - enemyId: 0
+        time: 42.13
+        path: path2
+      - enemyId: 4
+        time: 0
+        path: path3
+      - enemyId: 4
+        time: 2.71
+        path: path3
+      - enemyId: 4
+        time: 10.099999
+        path: path3
+      - enemyId: 4
+        time: 11.38
+        path: path3
+      - enemyId: 0
+        time: 24.17
+        path: path3
+      - enemyId: 0
+        time: 26.72
+        path: path4
+      - enemyId: 0
+        time: 38.16
+        path: path4
+      - enemyId: 0
+        time: 39.18
+        path: path4
+      - enemyId: 0
+        time: 40.33
+        path: path4
+      - enemyId: 0
+        time: 41.44
+        path: path4
+      - enemyId: 7
+        time: 1.3700001
+        path: path5
+      - enemyId: 7
+        time: 12.820001
+        path: path5
+      - enemyId: 7
+        time: 3.9
+        path: path5
+      - enemyId: 7
+        time: 15.35
+        path: path5
+      - enemyId: 7
+        time: 6.3
+        path: path5
+      - enemyId: 7
+        time: 17.75
+        path: path5
+      - enemyId: 7
+        time: 8.75
+        path: path5
+      - enemyId: 7
+        time: 20.2
+        path: path5
+      - enemyId: 0
+        time: 21.98
+        path: path5
+      - enemyId: 0
+        time: 25.11
+        path: path5
+      - enemyId: 0
+        time: 28.4
+        path: path5
+      - enemyId: 0
+        time: 32.41
+        path: path5
+      - enemyId: 0
+        time: 33.73
+        path: path5
+      - enemyId: 0
+        time: 35.09
+        path: path5
+      - enemyId: 0
+        time: 36.37
+        path: path5
+      - enemyId: 0
+        time: 37.69
+        path: path5
+      - enemyId: 0
+        time: 40.92
+        path: path6
+      - enemyId: 0
+        time: 38.64
+        path: path6
+      - enemyId: 0
+        time: 23.59
+        path: path6
+      - enemyId: 0
+        time: 39.72
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 5
+        time: 22.59
+        path: path1
+      - enemyId: 4
+        time: 22.911
+        path: path1
+      - enemyId: 5
+        time: 0
+        path: path2
+      - enemyId: 5
+        time: 14.764
+        path: path2
+      - enemyId: 5
+        time: 1.966
+        path: path2
+      - enemyId: 5
+        time: 16.73
+        path: path2
+      - enemyId: 5
+        time: 24.556
+        path: path2
+      - enemyId: 5
+        time: 3.927
+        path: path2
+      - enemyId: 5
+        time: 26.517
+        path: path2
+      - enemyId: 5
+        time: 5.861
+        path: path2
+      - enemyId: 5
+        time: 20.625
+        path: path2
+      - enemyId: 4
+        time: 0.321
+        path: path2
+      - enemyId: 4
+        time: 15.085
+        path: path2
+      - enemyId: 4
+        time: 2.287
+        path: path2
+      - enemyId: 4
+        time: 17.051
+        path: path2
+      - enemyId: 4
+        time: 24.877
+        path: path2
+      - enemyId: 4
+        time: 4.248
+        path: path2
+      - enemyId: 4
+        time: 26.838001
+        path: path2
+      - enemyId: 4
+        time: 6.182
+        path: path2
+      - enemyId: 4
+        time: 20.946
+        path: path2
+      - enemyId: 9
+        time: 31.01
+        path: path2
+      - enemyId: 5
+        time: 18.691
+        path: path3
+      - enemyId: 4
+        time: 19.012001
+        path: path3
+      - enemyId: 5
+        time: 28.451
+        path: path3
+      - enemyId: 4
+        time: 28.772
+        path: path3
+      - enemyId: 5
+        time: 21.359
+        path: path4
+      - enemyId: 4
+        time: 21.68
+        path: path4
+      - enemyId: 5
+        time: 7.679
+        path: path5
+      - enemyId: 5
+        time: 16.057999
+        path: path5
+      - enemyId: 5
+        time: 23.347998
+        path: path5
+      - enemyId: 5
+        time: 11.198999
+        path: path5
+      - enemyId: 5
+        time: 19.578
+        path: path5
+      - enemyId: 5
+        time: 9.46
+        path: path5
+      - enemyId: 5
+        time: 25.129
+        path: path5
+      - enemyId: 5
+        time: 12.98
+        path: path5
+      - enemyId: 5
+        time: 28.648998
+        path: path5
+      - enemyId: 4
+        time: 8
+        path: path5
+      - enemyId: 4
+        time: 16.379
+        path: path5
+      - enemyId: 4
+        time: 23.668999
+        path: path5
+      - enemyId: 4
+        time: 11.5199995
+        path: path5
+      - enemyId: 4
+        time: 19.898998
+        path: path5
+      - enemyId: 4
+        time: 9.781
+        path: path5
+      - enemyId: 4
+        time: 25.449999
+        path: path5
+      - enemyId: 4
+        time: 13.301
+        path: path5
+      - enemyId: 4
+        time: 28.97
+        path: path5
+      - enemyId: 9
+        time: 32.63
+        path: path5
+      - enemyId: 5
+        time: 26.867998
+        path: path6
+      - enemyId: 4
+        time: 27.188997
+        path: path6
+      - enemyId: 4
+        time: 18.16
+        path: path6
+      - enemyId: 5
+        time: 17.839
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 9
+        time: 1.97
+        path: path2
+      - enemyId: 9
+        time: 3.7
+        path: path2
+      - enemyId: 9
+        time: 5.4
+        path: path2
+      - enemyId: 9
+        time: 7.24
+        path: path2
+      - enemyId: 3
+        time: 13.01
+        path: path2
+      - enemyId: 3
+        time: 23.73
+        path: path2
+      - enemyId: 3
+        time: 30.21
+        path: path2
+      - enemyId: 9
+        time: 20.95
+        path: path2
+      - enemyId: 3
+        time: 13.85
+        path: path3
+      - enemyId: 3
+        time: 24.57
+        path: path3
+      - enemyId: 3
+        time: 31.05
+        path: path3
+      - enemyId: 3
+        time: 14.91
+        path: path3
+      - enemyId: 3
+        time: 25.63
+        path: path3
+      - enemyId: 3
+        time: 32.11
+        path: path3
+      - enemyId: 3
+        time: 15.99
+        path: path3
+      - enemyId: 3
+        time: 26.71
+        path: path3
+      - enemyId: 3
+        time: 33.19
+        path: path3
+      - enemyId: 9
+        time: 22.12
+        path: path3
+      - enemyId: 1
+        time: 1.81
+        path: path4
+      - enemyId: 1
+        time: 3.74
+        path: path4
+      - enemyId: 1
+        time: 5.5
+        path: path4
+      - enemyId: 3
+        time: 15.45
+        path: path4
+      - enemyId: 3
+        time: 25.11
+        path: path4
+      - enemyId: 3
+        time: 16.73
+        path: path4
+      - enemyId: 3
+        time: 26.39
+        path: path4
+      - enemyId: 9
+        time: 23.13
+        path: path4
+      - enemyId: 0
+        time: 37.23
+        path: path4
+      - enemyId: 0
+        time: 36.160004
+        path: path4
+      - enemyId: 0
+        time: 36.745003
+        path: path4
+      - enemyId: 0
+        time: 0.85
+        path: path5
+      - enemyId: 0
+        time: 35.26
+        path: path5
+      - enemyId: 0
+        time: 37.986
+        path: path5
+      - enemyId: 0
+        time: 2.74
+        path: path5
+      - enemyId: 0
+        time: 36.406
+        path: path5
+      - enemyId: 0
+        time: 35.815998
+        path: path5
+      - enemyId: 0
+        time: 4.52
+        path: path5
+      - enemyId: 0
+        time: 36.904
+        path: path5
+      - enemyId: 0
+        time: 6.25
+        path: path5
+      - enemyId: 0
+        time: 34.762997
+        path: path5
+      - enemyId: 0
+        time: 37.489
+        path: path5
+      - enemyId: 3
+        time: 18.97
+        path: path5
+      - enemyId: 3
+        time: 28.63
+        path: path5
+      - enemyId: 1
+        time: 1.81
+        path: path6
+      - enemyId: 1
+        time: 3.74
+        path: path6
+      - enemyId: 1
+        time: 5.5
+        path: path6
+      - enemyId: 3
+        time: 18.04
+        path: path6
+      - enemyId: 3
+        time: 27.7
+        path: path6
+      - enemyId: 9
+        time: 23.75
+        path: path6
+      - enemyId: 0
+        time: 35.5
+        path: path6
+      - enemyId: 0
+        time: 36.056
+        path: path6
+      - enemyId: 0
+        time: 36.554
+        path: path6
+      - enemyId: 0
+        time: 37.2
+        path: path6
+      - enemyId: 0
+        time: 37.698
+        path: path6
+      - enemyId: 0
+        time: 38.283
+        path: path6
+      fight_buttton: fight_button1
+    InitialCoin: 600
+    bgm: bgm_darkforest
+  - levelId: 7
+    name: "\u5173\u53618"
+    description: 
+    sceneName: Level5
+    enemyWaves:
+    - enemies:
+      - enemyId: 0
+        time: 0.891
+        path: path1
+      - enemyId: 0
+        time: 7.3109994
+        path: path1
+      - enemyId: 0
+        time: 15.82
+        path: path1
+      - enemyId: 0
+        time: 17.31
+        path: path1
+      - enemyId: 0
+        time: 19.48
+        path: path1
+      - enemyId: 0
+        time: 29.67
+        path: path1
+      - enemyId: 0
+        time: 30.41
+        path: path1
+      - enemyId: 0
+        time: 31.18
+        path: path1
+      - enemyId: 0
+        time: 31.99
+        path: path1
+      - enemyId: 0
+        time: 0
+        path: path2
+      - enemyId: 0
+        time: 1.57
+        path: path2
+      - enemyId: 0
+        time: 9.14
+        path: path2
+      - enemyId: 0
+        time: 18.35
+        path: path2
+      - enemyId: 0
+        time: 28.82
+        path: path2
+      - enemyId: 0
+        time: 8.02
+        path: path3
+      - enemyId: 0
+        time: 3.58
+        path: path4
+      - enemyId: 0
+        time: 11.62
+        path: path4
+      - enemyId: 0
+        time: 35.82
+        path: path4
+      - enemyId: 0
+        time: 2.83
+        path: path5
+      - enemyId: 0
+        time: 10.87
+        path: path5
+      - enemyId: 0
+        time: 4.37
+        path: path5
+      - enemyId: 0
+        time: 12.41
+        path: path5
+      - enemyId: 0
+        time: 22.45
+        path: path5
+      - enemyId: 0
+        time: 34.75
+        path: path5
+      - enemyId: 0
+        time: 23.52
+        path: path5
+      - enemyId: 0
+        time: 24.68
+        path: path5
+      - enemyId: 0
+        time: 36.98
+        path: path5
+      - enemyId: 0
+        time: 25.920002
+        path: path5
+      - enemyId: 0
+        time: 27.16
+        path: path5
+      - enemyId: 0
+        time: 39.46
+        path: path5
+      - enemyId: 0
+        time: 38.22
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 6
+        time: 2.628
+        path: path1
+      - enemyId: 6
+        time: 5.3
+        path: path1
+      - enemyId: 6
+        time: 11.36
+        path: path1
+      - enemyId: 6
+        time: 21.37
+        path: path1
+      - enemyId: 6
+        time: 26.369999
+        path: path1
+      - enemyId: 6
+        time: 5.99
+        path: path1
+      - enemyId: 6
+        time: 6.75
+        path: path1
+      - enemyId: 6
+        time: 0
+        path: path2
+      - enemyId: 6
+        time: 0.611
+        path: path2
+      - enemyId: 6
+        time: 1.214
+        path: path2
+      - enemyId: 6
+        time: 4
+        path: path2
+      - enemyId: 6
+        time: 10.63
+        path: path2
+      - enemyId: 6
+        time: 20.640001
+        path: path2
+      - enemyId: 6
+        time: 25.64
+        path: path2
+      - enemyId: 6
+        time: 1.921
+        path: path2
+      - enemyId: 6
+        time: 4.707
+        path: path2
+      - enemyId: 6
+        time: 12.049999
+        path: path2
+      - enemyId: 6
+        time: 22.060001
+        path: path2
+      - enemyId: 6
+        time: 27.06
+        path: path2
+      - enemyId: 6
+        time: 12.809999
+        path: path3
+      - enemyId: 6
+        time: 22.82
+        path: path3
+      - enemyId: 6
+        time: 27.819996
+        path: path3
+      - enemyId: 6
+        time: 13.81
+        path: path3
+      - enemyId: 6
+        time: 23.820002
+        path: path3
+      - enemyId: 6
+        time: 28.82
+        path: path3
+      - enemyId: 6
+        time: 16.19
+        path: path4
+      - enemyId: 6
+        time: 25.170002
+        path: path4
+      - enemyId: 6
+        time: 31.78
+        path: path4
+      - enemyId: 6
+        time: 18.97
+        path: path4
+      - enemyId: 6
+        time: 27.95
+        path: path4
+      - enemyId: 6
+        time: 34.559998
+        path: path4
+      - enemyId: 6
+        time: 1.58
+        path: path5
+      - enemyId: 6
+        time: 7.9400005
+        path: path5
+      - enemyId: 6
+        time: 15.32
+        path: path5
+      - enemyId: 6
+        time: 24.3
+        path: path5
+      - enemyId: 6
+        time: 30.909998
+        path: path5
+      - enemyId: 6
+        time: 16.8
+        path: path5
+      - enemyId: 6
+        time: 25.779999
+        path: path5
+      - enemyId: 6
+        time: 32.39
+        path: path5
+      - enemyId: 6
+        time: 18.28
+        path: path5
+      - enemyId: 6
+        time: 27.260002
+        path: path5
+      - enemyId: 6
+        time: 33.870003
+        path: path5
+      - enemyId: 6
+        time: 19.72
+        path: path5
+      - enemyId: 6
+        time: 28.7
+        path: path5
+      - enemyId: 6
+        time: 35.309998
+        path: path5
+      - enemyId: 6
+        time: 0.24
+        path: path6
+      - enemyId: 6
+        time: 6.6000004
+        path: path6
+      - enemyId: 6
+        time: 2.24
+        path: path6
+      - enemyId: 6
+        time: 8.6
+        path: path6
+      - enemyId: 6
+        time: 0.93
+        path: path6
+      - enemyId: 6
+        time: 7.290001
+        path: path6
+      - enemyId: 6
+        time: 2.93
+        path: path6
+      - enemyId: 6
+        time: 9.290001
+        path: path6
+      - enemyId: 6
+        time: 14.62
+        path: path6
+      - enemyId: 6
+        time: 23.6
+        path: path6
+      - enemyId: 6
+        time: 30.21
+        path: path6
+      - enemyId: 6
+        time: 17.58
+        path: path6
+      - enemyId: 6
+        time: 26.560001
+        path: path6
+      - enemyId: 6
+        time: 33.17
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 6
+        time: 1.07
+        path: path1
+      - enemyId: 6
+        time: 6.98
+        path: path1
+      - enemyId: 8
+        time: 21.31
+        path: path1
+      - enemyId: 8
+        time: 24.109999
+        path: path1
+      - enemyId: 8
+        time: 27.72
+        path: path1
+      - enemyId: 6
+        time: 32.63
+        path: path1
+      - enemyId: 6
+        time: 0
+        path: path2
+      - enemyId: 6
+        time: 2.16
+        path: path2
+      - enemyId: 6
+        time: 3.47
+        path: path2
+      - enemyId: 6
+        time: 5.76
+        path: path2
+      - enemyId: 6
+        time: 11.84
+        path: path2
+      - enemyId: 6
+        time: 31.2
+        path: path2
+      - enemyId: 6
+        time: 13.27
+        path: path2
+      - enemyId: 6
+        time: 14.87
+        path: path2
+      - enemyId: 6
+        time: 34.23
+        path: path2
+      - enemyId: 6
+        time: 16.1
+        path: path2
+      - enemyId: 6
+        time: 17.87
+        path: path2
+      - enemyId: 6
+        time: 37.23
+        path: path2
+      - enemyId: 8
+        time: 19.59
+        path: path2
+      - enemyId: 8
+        time: 22.39
+        path: path2
+      - enemyId: 8
+        time: 25.21
+        path: path2
+      - enemyId: 6
+        time: 4.7
+        path: path3
+      - enemyId: 8
+        time: 20.46
+        path: path3
+      - enemyId: 8
+        time: 23.259998
+        path: path3
+      - enemyId: 8
+        time: 26.32
+        path: path3
+      - enemyId: 6
+        time: 35.460003
+        path: path3
+      - enemyId: 6
+        time: 1.53
+        path: path4
+      - enemyId: 6
+        time: 6.91
+        path: path4
+      - enemyId: 8
+        time: 13.97
+        path: path4
+      - enemyId: 8
+        time: 34.960003
+        path: path4
+      - enemyId: 6
+        time: 22.02
+        path: path4
+      - enemyId: 6
+        time: 0.64
+        path: path5
+      - enemyId: 6
+        time: 2.49
+        path: path5
+      - enemyId: 6
+        time: 4.69
+        path: path5
+      - enemyId: 6
+        time: 5.74
+        path: path5
+      - enemyId: 6
+        time: 21.26
+        path: path5
+      - enemyId: 6
+        time: 24.27
+        path: path5
+      - enemyId: 6
+        time: 22.83
+        path: path5
+      - enemyId: 8
+        time: 11.15
+        path: path5
+      - enemyId: 8
+        time: 32.14
+        path: path5
+      - enemyId: 8
+        time: 15.28
+        path: path5
+      - enemyId: 8
+        time: 36.27
+        path: path5
+      - enemyId: 8
+        time: 12.6
+        path: path5
+      - enemyId: 8
+        time: 33.59
+        path: path5
+      - enemyId: 8
+        time: 16.73
+        path: path5
+      - enemyId: 6
+        time: 3.67
+        path: path6
+      - enemyId: 6
+        time: 23.55
+        path: path6
+      - enemyId: 8
+        time: 37.72
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 6
+        time: 0
+        path: path2
+      - enemyId: 6
+        time: 1.642
+        path: path2
+      - enemyId: 6
+        time: 8.432
+        path: path2
+      - enemyId: 6
+        time: 3.4659998
+        path: path2
+      - enemyId: 6
+        time: 10.2560005
+        path: path2
+      - enemyId: 6
+        time: 12.376
+        path: path2
+      - enemyId: 6
+        time: 14.65
+        path: path2
+      - enemyId: 6
+        time: 17.026001
+        path: path2
+      - enemyId: 4
+        time: 0.384
+        path: path2
+      - enemyId: 4
+        time: 2.026
+        path: path2
+      - enemyId: 4
+        time: 8.816
+        path: path2
+      - enemyId: 4
+        time: 3.85
+        path: path2
+      - enemyId: 4
+        time: 10.64
+        path: path2
+      - enemyId: 4
+        time: 12.76
+        path: path2
+      - enemyId: 4
+        time: 15.033999
+        path: path2
+      - enemyId: 4
+        time: 17.41
+        path: path2
+      - enemyId: 6
+        time: 18.71
+        path: path4
+      - enemyId: 1
+        time: 5.71
+        path: path5
+      - enemyId: 1
+        time: 7.23
+        path: path5
+      - enemyId: 6
+        time: 19.45
+        path: path5
+      - enemyId: 6
+        time: 20.35
+        path: path5
+      - enemyId: 6
+        time: 21.14
+        path: path5
+      - enemyId: 6
+        time: 21.92
+        path: path5
+      - enemyId: 6
+        time: 22.73
+        path: path5
+      - enemyId: 6
+        time: 23.55
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 9
+        time: 0
+        path: path2
+      - enemyId: 9
+        time: 2.67
+        path: path2
+      - enemyId: 9
+        time: 0.77
+        path: path5
+      - enemyId: 9
+        time: 4.09
+        path: path5
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 7
+        time: 1.403
+        path: path1
+      - enemyId: 7
+        time: 6.43
+        path: path1
+      - enemyId: 7
+        time: 11.6
+        path: path1
+      - enemyId: 7
+        time: 0
+        path: path2
+      - enemyId: 7
+        time: 5.597
+        path: path2
+      - enemyId: 7
+        time: 15.81
+        path: path2
+      - enemyId: 7
+        time: 18.95
+        path: path2
+      - enemyId: 7
+        time: 0.671
+        path: path3
+      - enemyId: 7
+        time: 6.268
+        path: path3
+      - enemyId: 7
+        time: 13.52
+        path: path3
+      - enemyId: 7
+        time: 4.1099997
+        path: path4
+      - enemyId: 7
+        time: 12.110001
+        path: path4
+      - enemyId: 7
+        time: 2.51
+        path: path5
+      - enemyId: 7
+        time: 17.42
+        path: path5
+      - enemyId: 7
+        time: 20.8
+        path: path5
+      - enemyId: 7
+        time: 3.27
+        path: path6
+      - enemyId: 7
+        time: 14.66
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 5
+        time: 0
+        path: path2
+      - enemyId: 5
+        time: 8.3
+        path: path2
+      - enemyId: 5
+        time: 1.686
+        path: path2
+      - enemyId: 5
+        time: 9.986
+        path: path2
+      - enemyId: 5
+        time: 13.406
+        path: path2
+      - enemyId: 5
+        time: 3.4174
+        path: path2
+      - enemyId: 5
+        time: 11.7174
+        path: path2
+      - enemyId: 5
+        time: 15.1374
+        path: path2
+      - enemyId: 4
+        time: 0.2826
+        path: path2
+      - enemyId: 4
+        time: 8.582601
+        path: path2
+      - enemyId: 4
+        time: 1.9686
+        path: path2
+      - enemyId: 4
+        time: 10.2686
+        path: path2
+      - enemyId: 4
+        time: 13.688601
+        path: path2
+      - enemyId: 4
+        time: 3.7
+        path: path2
+      - enemyId: 4
+        time: 12
+        path: path2
+      - enemyId: 4
+        time: 15.42
+        path: path2
+      - enemyId: 1
+        time: 12.66
+        path: path3
+      - enemyId: 1
+        time: 2.68
+        path: path4
+      - enemyId: 1
+        time: 10.82
+        path: path4
+      - enemyId: 1
+        time: 14.45
+        path: path4
+      - enemyId: 1
+        time: 18.02
+        path: path4
+      - enemyId: 6
+        time: 6.56
+        path: path4
+      - enemyId: 6
+        time: 7.25
+        path: path4
+      - enemyId: 1
+        time: 0.87
+        path: path5
+      - enemyId: 6
+        time: 4.65
+        path: path5
+      - enemyId: 6
+        time: 5.27
+        path: path5
+      - enemyId: 6
+        time: 5.91
+        path: path5
+      - enemyId: 1
+        time: 16.36
+        path: path5
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 6
+        time: 1.43
+        path: path1
+      - enemyId: 6
+        time: 19.48
+        path: path1
+      - enemyId: 6
+        time: 4.93
+        path: path1
+      - enemyId: 6
+        time: 8.43
+        path: path1
+      - enemyId: 6
+        time: 2.62
+        path: path1
+      - enemyId: 6
+        time: 19.93
+        path: path1
+      - enemyId: 6
+        time: 20.8
+        path: path1
+      - enemyId: 6
+        time: 6.12
+        path: path1
+      - enemyId: 6
+        time: 9.620001
+        path: path1
+      - enemyId: 9
+        time: 0
+        path: path2
+      - enemyId: 9
+        time: 18.05
+        path: path2
+      - enemyId: 6
+        time: 1.89
+        path: path3
+      - enemyId: 6
+        time: 19.939999
+        path: path3
+      - enemyId: 6
+        time: 5.39
+        path: path3
+      - enemyId: 6
+        time: 8.89
+        path: path3
+      - enemyId: 6
+        time: 3.08
+        path: path3
+      - enemyId: 6
+        time: 21.13
+        path: path3
+      - enemyId: 6
+        time: 20.39
+        path: path3
+      - enemyId: 6
+        time: 6.58
+        path: path3
+      - enemyId: 6
+        time: 10.08
+        path: path3
+      - enemyId: 6
+        time: 6
+        path: path4
+      - enemyId: 6
+        time: 21.73
+        path: path4
+      - enemyId: 6
+        time: 9.6
+        path: path4
+      - enemyId: 6
+        time: 13.330001
+        path: path4
+      - enemyId: 6
+        time: 7.46
+        path: path4
+      - enemyId: 6
+        time: 22.51
+        path: path4
+      - enemyId: 6
+        time: 22.9
+        path: path4
+      - enemyId: 6
+        time: 11.059999
+        path: path4
+      - enemyId: 6
+        time: 14.79
+        path: path4
+      - enemyId: 9
+        time: 4.2
+        path: path5
+      - enemyId: 9
+        time: 19.93
+        path: path5
+      - enemyId: 6
+        time: 6.78
+        path: path6
+      - enemyId: 6
+        time: 22.51
+        path: path6
+      - enemyId: 6
+        time: 10.38
+        path: path6
+      - enemyId: 6
+        time: 14.110001
+        path: path6
+      - enemyId: 6
+        time: 8.24
+        path: path6
+      - enemyId: 6
+        time: 23.08
+        path: path6
+      - enemyId: 6
+        time: 11.84
+        path: path6
+      - enemyId: 6
+        time: 15.570001
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 9
+        time: 3.2199984
+        path: path1
+      - enemyId: 6
+        time: 7.4800005
+        path: path1
+      - enemyId: 6
+        time: 9.9800005
+        path: path1
+      - enemyId: 6
+        time: 12.39
+        path: path1
+      - enemyId: 6
+        time: 14.69
+        path: path1
+      - enemyId: 6
+        time: 16.969997
+        path: path1
+      - enemyId: 9
+        time: 0.020001411
+        path: path2
+      - enemyId: 6
+        time: 6.62
+        path: path2
+      - enemyId: 6
+        time: 9.12
+        path: path2
+      - enemyId: 6
+        time: 11.53
+        path: path2
+      - enemyId: 6
+        time: 13.829999
+        path: path2
+      - enemyId: 6
+        time: 16.109997
+        path: path2
+      - enemyId: 6
+        time: 8.21
+        path: path3
+      - enemyId: 6
+        time: 10.71
+        path: path3
+      - enemyId: 6
+        time: 13.12
+        path: path3
+      - enemyId: 6
+        time: 15.419999
+        path: path3
+      - enemyId: 6
+        time: 17.699997
+        path: path3
+      - enemyId: 6
+        time: 6.62
+        path: path4
+      - enemyId: 6
+        time: 10.829999
+        path: path4
+      - enemyId: 6
+        time: 14.94
+        path: path4
+      - enemyId: 6
+        time: 9.46
+        path: path4
+      - enemyId: 6
+        time: 13.669999
+        path: path4
+      - enemyId: 6
+        time: 17.779999
+        path: path4
+      - enemyId: 6
+        time: 6.04
+        path: path5
+      - enemyId: 6
+        time: 10.249997
+        path: path5
+      - enemyId: 6
+        time: 14.359998
+        path: path5
+      - enemyId: 9
+        time: 1.8699999
+        path: path5
+      - enemyId: 9
+        time: 4.7599993
+        path: path5
+      - enemyId: 6
+        time: 8.03
+        path: path5
+      - enemyId: 6
+        time: 12.239999
+        path: path5
+      - enemyId: 6
+        time: 16.349998
+        path: path5
+      - enemyId: 6
+        time: 7.329999
+        path: path6
+      - enemyId: 6
+        time: 11.539998
+        path: path6
+      - enemyId: 6
+        time: 15.649999
+        path: path6
+      - enemyId: 6
+        time: 8.739999
+        path: path6
+      - enemyId: 6
+        time: 12.949998
+        path: path6
+      - enemyId: 6
+        time: 17.059998
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 4
+        time: 0.84
+        path: path1
+      - enemyId: 4
+        time: 3.55
+        path: path1
+      - enemyId: 4
+        time: 10.12
+        path: path1
+      - enemyId: 4
+        time: 11.400001
+        path: path1
+      - enemyId: 0
+        time: 27.65
+        path: path1
+      - enemyId: 4
+        time: 16.23
+        path: path2
+      - enemyId: 4
+        time: 18.88
+        path: path2
+      - enemyId: 0
+        time: 22.72
+        path: path2
+      - enemyId: 0
+        time: 25.68
+        path: path2
+      - enemyId: 0
+        time: 29.37
+        path: path2
+      - enemyId: 0
+        time: 31.86
+        path: path2
+      - enemyId: 0
+        time: 39.4
+        path: path2
+      - enemyId: 0
+        time: 33.04
+        path: path2
+      - enemyId: 0
+        time: 39.91
+        path: path2
+      - enemyId: 0
+        time: 34.34
+        path: path2
+      - enemyId: 0
+        time: 40.45
+        path: path2
+      - enemyId: 0
+        time: 35.62
+        path: path2
+      - enemyId: 0
+        time: 40.969997
+        path: path2
+      - enemyId: 0
+        time: 36.9
+        path: path2
+      - enemyId: 0
+        time: 41.55
+        path: path2
+      - enemyId: 0
+        time: 38.14
+        path: path2
+      - enemyId: 0
+        time: 42.13
+        path: path2
+      - enemyId: 4
+        time: 0
+        path: path3
+      - enemyId: 4
+        time: 2.71
+        path: path3
+      - enemyId: 4
+        time: 10.099999
+        path: path3
+      - enemyId: 4
+        time: 11.38
+        path: path3
+      - enemyId: 0
+        time: 24.17
+        path: path3
+      - enemyId: 0
+        time: 26.72
+        path: path4
+      - enemyId: 0
+        time: 38.16
+        path: path4
+      - enemyId: 0
+        time: 39.18
+        path: path4
+      - enemyId: 0
+        time: 40.33
+        path: path4
+      - enemyId: 0
+        time: 41.44
+        path: path4
+      - enemyId: 7
+        time: 1.3700001
+        path: path5
+      - enemyId: 7
+        time: 12.820001
+        path: path5
+      - enemyId: 7
+        time: 3.9
+        path: path5
+      - enemyId: 7
+        time: 15.35
+        path: path5
+      - enemyId: 7
+        time: 6.3
+        path: path5
+      - enemyId: 7
+        time: 17.75
+        path: path5
+      - enemyId: 7
+        time: 8.75
+        path: path5
+      - enemyId: 7
+        time: 20.2
+        path: path5
+      - enemyId: 0
+        time: 21.98
+        path: path5
+      - enemyId: 0
+        time: 25.11
+        path: path5
+      - enemyId: 0
+        time: 28.4
+        path: path5
+      - enemyId: 0
+        time: 32.41
+        path: path5
+      - enemyId: 0
+        time: 33.73
+        path: path5
+      - enemyId: 0
+        time: 35.09
+        path: path5
+      - enemyId: 0
+        time: 36.37
+        path: path5
+      - enemyId: 0
+        time: 37.69
+        path: path5
+      - enemyId: 0
+        time: 40.92
+        path: path6
+      - enemyId: 0
+        time: 38.64
+        path: path6
+      - enemyId: 0
+        time: 23.59
+        path: path6
+      - enemyId: 0
+        time: 39.72
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 5
+        time: 22.59
+        path: path1
+      - enemyId: 4
+        time: 22.911
+        path: path1
+      - enemyId: 5
+        time: 0
+        path: path2
+      - enemyId: 5
+        time: 14.764
+        path: path2
+      - enemyId: 5
+        time: 1.966
+        path: path2
+      - enemyId: 5
+        time: 16.73
+        path: path2
+      - enemyId: 5
+        time: 24.556
+        path: path2
+      - enemyId: 5
+        time: 3.927
+        path: path2
+      - enemyId: 5
+        time: 26.517
+        path: path2
+      - enemyId: 5
+        time: 5.861
+        path: path2
+      - enemyId: 5
+        time: 20.625
+        path: path2
+      - enemyId: 4
+        time: 0.321
+        path: path2
+      - enemyId: 4
+        time: 15.085
+        path: path2
+      - enemyId: 4
+        time: 2.287
+        path: path2
+      - enemyId: 4
+        time: 17.051
+        path: path2
+      - enemyId: 4
+        time: 24.877
+        path: path2
+      - enemyId: 4
+        time: 4.248
+        path: path2
+      - enemyId: 4
+        time: 26.838001
+        path: path2
+      - enemyId: 4
+        time: 6.182
+        path: path2
+      - enemyId: 4
+        time: 20.946
+        path: path2
+      - enemyId: 9
+        time: 31.01
+        path: path2
+      - enemyId: 5
+        time: 18.691
+        path: path3
+      - enemyId: 4
+        time: 19.012001
+        path: path3
+      - enemyId: 5
+        time: 28.451
+        path: path3
+      - enemyId: 4
+        time: 28.772
+        path: path3
+      - enemyId: 5
+        time: 21.359
+        path: path4
+      - enemyId: 4
+        time: 21.68
+        path: path4
+      - enemyId: 5
+        time: 7.679
+        path: path5
+      - enemyId: 5
+        time: 16.057999
+        path: path5
+      - enemyId: 5
+        time: 23.347998
+        path: path5
+      - enemyId: 5
+        time: 11.198999
+        path: path5
+      - enemyId: 5
+        time: 19.578
+        path: path5
+      - enemyId: 5
+        time: 9.46
+        path: path5
+      - enemyId: 5
+        time: 25.129
+        path: path5
+      - enemyId: 5
+        time: 12.98
+        path: path5
+      - enemyId: 5
+        time: 28.648998
+        path: path5
+      - enemyId: 4
+        time: 8
+        path: path5
+      - enemyId: 4
+        time: 16.379
+        path: path5
+      - enemyId: 4
+        time: 23.668999
+        path: path5
+      - enemyId: 4
+        time: 11.5199995
+        path: path5
+      - enemyId: 4
+        time: 19.898998
+        path: path5
+      - enemyId: 4
+        time: 9.781
+        path: path5
+      - enemyId: 4
+        time: 25.449999
+        path: path5
+      - enemyId: 4
+        time: 13.301
+        path: path5
+      - enemyId: 4
+        time: 28.97
+        path: path5
+      - enemyId: 9
+        time: 32.63
+        path: path5
+      - enemyId: 5
+        time: 26.867998
+        path: path6
+      - enemyId: 4
+        time: 27.188997
+        path: path6
+      - enemyId: 4
+        time: 18.16
+        path: path6
+      - enemyId: 5
+        time: 17.839
+        path: path6
+      fight_buttton: fight_button1
+    - enemies:
+      - enemyId: 9
+        time: 1.97
+        path: path2
+      - enemyId: 9
+        time: 3.7
+        path: path2
+      - enemyId: 9
+        time: 5.4
+        path: path2
+      - enemyId: 9
+        time: 7.24
+        path: path2
+      - enemyId: 3
+        time: 13.01
+        path: path2
+      - enemyId: 3
+        time: 23.73
+        path: path2
+      - enemyId: 3
+        time: 30.21
+        path: path2
+      - enemyId: 9
+        time: 20.95
+        path: path2
+      - enemyId: 3
+        time: 13.85
+        path: path3
+      - enemyId: 3
+        time: 24.57
+        path: path3
+      - enemyId: 3
+        time: 31.05
+        path: path3
+      - enemyId: 3
+        time: 14.91
+        path: path3
+      - enemyId: 3
+        time: 25.63
+        path: path3
+      - enemyId: 3
+        time: 32.11
+        path: path3
+      - enemyId: 3
+        time: 15.99
+        path: path3
+      - enemyId: 3
+        time: 26.71
+        path: path3
+      - enemyId: 3
+        time: 33.19
+        path: path3
+      - enemyId: 9
+        time: 22.12
+        path: path3
+      - enemyId: 1
+        time: 1.81
+        path: path4
+      - enemyId: 1
+        time: 3.74
+        path: path4
+      - enemyId: 1
+        time: 5.5
+        path: path4
+      - enemyId: 3
+        time: 15.45
+        path: path4
+      - enemyId: 3
+        time: 25.11
+        path: path4
+      - enemyId: 3
+        time: 16.73
+        path: path4
+      - enemyId: 3
+        time: 26.39
+        path: path4
+      - enemyId: 9
+        time: 23.13
+        path: path4
+      - enemyId: 0
+        time: 37.23
+        path: path4
+      - enemyId: 0
+        time: 36.160004
+        path: path4
+      - enemyId: 0
+        time: 36.745003
+        path: path4
+      - enemyId: 0
+        time: 0.85
+        path: path5
+      - enemyId: 0
+        time: 35.26
+        path: path5
+      - enemyId: 0
+        time: 37.986
+        path: path5
+      - enemyId: 0
+        time: 2.74
+        path: path5
+      - enemyId: 0
+        time: 36.406
+        path: path5
+      - enemyId: 0
+        time: 35.815998
+        path: path5
+      - enemyId: 0
+        time: 4.52
+        path: path5
+      - enemyId: 0
+        time: 36.904
+        path: path5
+      - enemyId: 0
+        time: 6.25
+        path: path5
+      - enemyId: 0
+        time: 34.762997
+        path: path5
+      - enemyId: 0
+        time: 37.489
+        path: path5
+      - enemyId: 3
+        time: 18.97
+        path: path5
+      - enemyId: 3
+        time: 28.63
+        path: path5
+      - enemyId: 1
+        time: 1.81
+        path: path6
+      - enemyId: 1
+        time: 3.74
+        path: path6
+      - enemyId: 1
+        time: 5.5
+        path: path6
+      - enemyId: 3
+        time: 18.04
+        path: path6
+      - enemyId: 3
+        time: 27.7
+        path: path6
+      - enemyId: 9
+        time: 23.75
+        path: path6
+      - enemyId: 0
+        time: 35.5
+        path: path6
+      - enemyId: 0
+        time: 36.056
+        path: path6
+      - enemyId: 0
+        time: 36.554
+        path: path6
+      - enemyId: 0
+        time: 37.2
+        path: path6
+      - enemyId: 0
+        time: 37.698
+        path: path6
+      - enemyId: 0
+        time: 38.283
+        path: path6
+      fight_buttton: fight_button1
+    InitialCoin: 600
+    bgm: bgm_darkforest

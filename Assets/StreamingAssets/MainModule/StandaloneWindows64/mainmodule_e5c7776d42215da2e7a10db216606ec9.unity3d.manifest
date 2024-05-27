@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 3511740087
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d1cee95f807a457b4ea96f9331a45586
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d997699f01d17e39bceac85ac0e23f0e
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d1cee95f807a457b4ea96f9331a45586
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0119e81c95259348a8f210b919c442e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0713c86f922b983498339ddb8e6cca3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Games/MainModule/UI/LoadingPanel/LoadingPanel.prefab
+Dependencies:
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/749e35b33f6ac34418266f2f5ae2c78f_separately(auto).unity3d
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/76969646fd91ddb97c4e5a4a74c74890.unity3d
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/e5c7776d42215da2e7a10db216606ec9_depend_on_res(auto).unity3d

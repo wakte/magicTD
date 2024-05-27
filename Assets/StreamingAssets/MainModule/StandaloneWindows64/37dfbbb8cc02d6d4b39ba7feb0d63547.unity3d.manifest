@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3581601283
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e540e4b828a77029b085def97b8414be
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e8df1f9f82371e82de919a94edcc7dd6
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e540e4b828a77029b085def97b8414be
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Games/MainModule/Views/Towers/ArcherTower/Archer.controller
+Dependencies:
+- E:/unityProject/towerDef3.13/My project/AssetBundles/MainModule/Temps/StandaloneWindows64/c7f6659e12466a03b33e20abe49ceb9f.unity3d

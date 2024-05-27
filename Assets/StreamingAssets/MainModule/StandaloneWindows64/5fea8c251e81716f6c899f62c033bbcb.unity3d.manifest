@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 696495390
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0f0854c02a7a966d1b2fef24f4423b21
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0f0854c02a7a966d1b2fef24f4423b21
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Games/MainModule/Sprites/td-gui/PNG/levels/btton_empty.png
+Dependencies: []

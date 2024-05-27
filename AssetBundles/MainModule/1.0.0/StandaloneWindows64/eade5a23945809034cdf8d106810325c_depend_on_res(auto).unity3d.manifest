@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 182572966
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c023054ea8849eef23a8995af8c2e12
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2c023054ea8849eef23a8995af8c2e12
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Games/MainModule/Sprites/td-gui/PNG/interface_game/button_pause.png
+- Assets/Games/MainModule/Sprites/td-gui/PNG/upgrade_tower/enemy_icon2.png
+- Assets/Games/MainModule/Sprites/td-gui/PNG/interface_game/heart.png
+- Assets/Games/MainModule/Sprites/td-gui/PNG/upgrade_tower/coin.png
+Dependencies: []

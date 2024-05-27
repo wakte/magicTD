@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 950867419
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b9350b005b187f540a8c6df3eac9fda
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2d8df09e698f722ada1caa03d3413830
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5b9350b005b187f540a8c6df3eac9fda
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Games/MainModule/Sprites/health_bar/health_bar-06.png
+- Assets/Games/MainModule/Sprites/health_bar/health_bar-04.png
+Dependencies: []

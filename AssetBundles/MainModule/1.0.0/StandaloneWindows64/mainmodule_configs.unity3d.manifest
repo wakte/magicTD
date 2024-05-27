@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 546969540
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6201d23ee141b59a63a44b85e0b57ba0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 267b0978c8c43b9223502acd5d7f3beb
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6201d23ee141b59a63a44b85e0b57ba0
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 00ed164d39480ef4389cca31dec48737, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17568986e444a9a44a44893350a9318f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a60dc674e091e14a83d3fc01f35d3a7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: EnemyData
+- AssemblyName: Assembly-CSharp
+  ClassName: EnemyInfo
+- AssemblyName: Assembly-CSharp
+  ClassName: EnemyWaves
+- AssemblyName: Assembly-CSharp
+  ClassName: LevelInfo
+- AssemblyName: Assembly-CSharp
+  ClassName: TowerInfo
+Assets:
+- Assets/Games/MainModule/Scripts/Configs/EnemiesConfig.asset
+- Assets/Games/MainModule/Scripts/Configs/LevelsConfig 1.asset
+- Assets/Games/MainModule/Scripts/Configs/LevelsConfig.asset
+- Assets/Games/MainModule/Scripts/Configs/TowersConfig.asset
+Dependencies: []
